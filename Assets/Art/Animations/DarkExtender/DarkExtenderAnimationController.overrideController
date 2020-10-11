@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DarkExtenderAnimationController
+  m_Controller: {fileID: 9100000, guid: f93fad880d8c1eb41908d288316120d1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 9a8686ccc2937e94788f3a478ff1a5d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5d31243ac72be3c488b8cb301e7a014a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e4cc715f50307c94bbf81092a425b84f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1f74e8fdbd6ff2d4aac9c2a9c0e9dc6f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0188f15eff55f1548872fd07e3d868ff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 55a3e6ed71b48cd4d99164e089f2777b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d1b628a638cc9324c8daa5dd46de626f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 55a3e6ed71b48cd4d99164e089f2777b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cbe39af2a3efdca42a1e1ddf2cdb5994, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: dbea0418e2dd8e44da41839ee5d64b1f, type: 2}

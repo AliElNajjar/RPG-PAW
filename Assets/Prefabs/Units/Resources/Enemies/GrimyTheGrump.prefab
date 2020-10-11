@@ -1,0 +1,286 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &187
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 189}
+  - component: {fileID: 201}
+  - component: {fileID: 200}
+  - component: {fileID: 226}
+  - component: {fileID: 6794205637118426796}
+  - component: {fileID: 217}
+  m_Layer: 0
+  m_Name: GrimyTheGrump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &189
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5251732285704270366}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &201
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 77c88454071bdcc469b0060ff5d6b3bd, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 1
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.8, y: 0.68}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!95 &200
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 22100000, guid: f75a7a26d808b7c4e84d70c84d7dbca8, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a545c6b02b1e771408f7d6ed0fd85662, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hurtSFX: []
+  damageTakenNumberPrefab: {fileID: 4114329945875284672, guid: c3525b280189db843944b578ae4d9260,
+    type: 3}
+  quickTimeEventTriggered: 0
+  signatureBarFilled: 0
+  skipTurn: 0
+  isInvisible: 0
+  isVainEffectActive: 0
+  isPreparedForTagTeam: 0
+  shouldTurnBumpUnit: 0
+  shouldTakeDoubleDamage: 0
+  shouldCampfire: 0
+  tagTeamPartner: {fileID: 0}
+  extraDamageDealtPercent: 1
+  extraDamageTakenPercent: 1
+  unitTurnCounter: 0
+  statusAilments: []
+  unitPersistentData: {fileID: 11400000, guid: 74fb50e5cf6c0bd4bbe5750a0ac745e6, type: 2}
+  enemyUnitData:
+    unitName: 
+    level:
+      currentLevel: 1
+      currentExperience: 0
+    battleId: 0
+    strength:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    speed:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    sturdiness:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    charisma:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    talent:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    luck:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    accuracy:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    defense:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    dodge:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    resist:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    critChance:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    currentHealth:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    currentActionPoints:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    mainDamageSource: 0
+    damageType: 0
+    dmgCut: 0
+    unitType: 0
+    currentAilment: 0
+    expGiven: 0
+    goldGiven: 0
+    itemDrops: []
+--- !u!114 &6794205637118426796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d31fc50d4aef4840855802caaa95bfb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  throwTrashSFX: {fileID: 8300000, guid: e2e062c93e591704c97b643835fc9347, type: 3}
+  _trash: {fileID: 5696316434355291019, guid: 8c951b39afe664c469c150e8deb40186, type: 3}
+  _trashStartPosition: {fileID: 5251732285704270366}
+--- !u!114 &217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 395a3a7e55ae0344d995bdf3fb9f1480, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  enemyHit: 0
+  anim: {fileID: 0}
+--- !u!1 &959429166372532808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5251732285704270366}
+  m_Layer: 0
+  m_Name: TrashStartPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5251732285704270366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 959429166372532808}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.55, y: 0.02, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 189}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

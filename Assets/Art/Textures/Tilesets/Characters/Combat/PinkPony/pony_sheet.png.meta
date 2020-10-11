@@ -1,0 +1,2768 @@
+fileFormatVersion: 2
+guid: 86020b9dade95e749a94167a4bb69b68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: pony_sheet_0
+  - first:
+      213: 21300002
+    second: pony_sheet_1
+  - first:
+      213: 21300004
+    second: pony_sheet_2
+  - first:
+      213: 21300006
+    second: pony_sheet_3
+  - first:
+      213: 21300008
+    second: pony_sheet_4
+  - first:
+      213: 21300010
+    second: pony_sheet_5
+  - first:
+      213: 21300012
+    second: pony_sheet_6
+  - first:
+      213: 21300014
+    second: pony_sheet_7
+  - first:
+      213: 21300016
+    second: pony_sheet_8
+  - first:
+      213: 21300018
+    second: pony_sheet_9
+  - first:
+      213: 21300020
+    second: pony_sheet_10
+  - first:
+      213: 21300022
+    second: pony_sheet_11
+  - first:
+      213: 21300024
+    second: pony_sheet_12
+  - first:
+      213: 21300026
+    second: pony_sheet_13
+  - first:
+      213: 21300028
+    second: pony_sheet_14
+  - first:
+      213: 21300030
+    second: pony_sheet_15
+  - first:
+      213: 21300032
+    second: pony_sheet_16
+  - first:
+      213: 21300034
+    second: pony_sheet_17
+  - first:
+      213: 21300036
+    second: pony_sheet_18
+  - first:
+      213: 21300038
+    second: pony_sheet_19
+  - first:
+      213: 21300040
+    second: pony_sheet_20
+  - first:
+      213: 21300042
+    second: pony_sheet_21
+  - first:
+      213: 21300044
+    second: pony_sheet_22
+  - first:
+      213: 21300046
+    second: pony_sheet_23
+  - first:
+      213: 21300048
+    second: pony_sheet_24
+  - first:
+      213: 21300050
+    second: pony_sheet_25
+  - first:
+      213: 21300052
+    second: pony_sheet_26
+  - first:
+      213: 21300054
+    second: pony_sheet_27
+  - first:
+      213: 21300056
+    second: pony_sheet_28
+  - first:
+      213: 21300058
+    second: pony_sheet_29
+  - first:
+      213: 21300060
+    second: pony_sheet_30
+  - first:
+      213: 21300062
+    second: pony_sheet_31
+  - first:
+      213: 21300064
+    second: pony_sheet_32
+  - first:
+      213: 21300066
+    second: pony_sheet_33
+  - first:
+      213: 21300068
+    second: pony_sheet_34
+  - first:
+      213: 21300070
+    second: pony_sheet_35
+  - first:
+      213: 21300072
+    second: pony_sheet_36
+  - first:
+      213: 21300074
+    second: pony_sheet_37
+  - first:
+      213: 21300076
+    second: pony_sheet_38
+  - first:
+      213: 21300078
+    second: pony_sheet_39
+  - first:
+      213: 21300080
+    second: pony_sheet_40
+  - first:
+      213: 21300082
+    second: pony_sheet_41
+  - first:
+      213: 21300084
+    second: pony_sheet_42
+  - first:
+      213: 21300086
+    second: pony_sheet_43
+  - first:
+      213: 21300088
+    second: pony_sheet_44
+  - first:
+      213: 21300090
+    second: pony_sheet_45
+  - first:
+      213: 21300092
+    second: pony_sheet_46
+  - first:
+      213: 21300094
+    second: pony_sheet_47
+  - first:
+      213: 21300096
+    second: pony_sheet_48
+  - first:
+      213: 21300098
+    second: pony_sheet_49
+  - first:
+      213: 21300100
+    second: pony_sheet_50
+  - first:
+      213: 21300102
+    second: pony_sheet_51
+  - first:
+      213: 21300104
+    second: pony_sheet_52
+  - first:
+      213: 21300106
+    second: pony_sheet_53
+  - first:
+      213: 21300108
+    second: pony_sheet_54
+  - first:
+      213: 21300110
+    second: pony_sheet_55
+  - first:
+      213: 21300112
+    second: pony_sheet_56
+  - first:
+      213: 21300114
+    second: pony_sheet_57
+  - first:
+      213: 21300116
+    second: pony_sheet_58
+  - first:
+      213: 21300118
+    second: pony_sheet_59
+  - first:
+      213: 21300120
+    second: pony_sheet_60
+  - first:
+      213: 21300122
+    second: pony_sheet_61
+  - first:
+      213: 21300124
+    second: pony_sheet_62
+  - first:
+      213: 21300126
+    second: pony_sheet_63
+  - first:
+      213: 21300128
+    second: pony_sheet_64
+  - first:
+      213: 21300130
+    second: pony_sheet_65
+  - first:
+      213: 21300132
+    second: pony_sheet_66
+  - first:
+      213: 21300134
+    second: pony_sheet_67
+  - first:
+      213: 21300136
+    second: pony_sheet_68
+  - first:
+      213: 21300138
+    second: pony_sheet_69
+  - first:
+      213: 21300140
+    second: pony_sheet_70
+  - first:
+      213: 21300142
+    second: pony_sheet_71
+  - first:
+      213: 21300144
+    second: pony_sheet_72
+  - first:
+      213: 21300146
+    second: pony_sheet_73
+  - first:
+      213: 21300148
+    second: pony_sheet_74
+  - first:
+      213: 21300150
+    second: pony_sheet_75
+  - first:
+      213: 21300152
+    second: pony_sheet_76
+  - first:
+      213: 21300154
+    second: pony_sheet_77
+  - first:
+      213: 21300156
+    second: pony_sheet_78
+  - first:
+      213: 21300158
+    second: pony_sheet_79
+  - first:
+      213: 21300160
+    second: pony_sheet_80
+  - first:
+      213: 21300162
+    second: pony_sheet_81
+  - first:
+      213: 21300164
+    second: pony_sheet_82
+  - first:
+      213: 21300166
+    second: pony_sheet_83
+  - first:
+      213: 21300168
+    second: pony_sheet_84
+  - first:
+      213: 21300170
+    second: pony_sheet_85
+  - first:
+      213: 21300172
+    second: pony_sheet_86
+  - first:
+      213: 21300174
+    second: pony_sheet_87
+  - first:
+      213: 21300176
+    second: pony_sheet_88
+  - first:
+      213: 21300178
+    second: pony_sheet_89
+  - first:
+      213: 21300180
+    second: pony_sheet_90
+  - first:
+      213: 21300182
+    second: pony_sheet_91
+  - first:
+      213: 21300184
+    second: pony_sheet_92
+  - first:
+      213: 21300186
+    second: pony_sheet_93
+  - first:
+      213: 21300188
+    second: pony_sheet_94
+  - first:
+      213: 21300190
+    second: pony_sheet_95
+  - first:
+      213: 21300192
+    second: pony_sheet_96
+  - first:
+      213: 21300194
+    second: pony_sheet_97
+  - first:
+      213: 21300196
+    second: pony_sheet_98
+  - first:
+      213: 21300198
+    second: pony_sheet_99
+  - first:
+      213: 21300200
+    second: pony_sheet_100
+  - first:
+      213: 21300202
+    second: pony_sheet_101
+  - first:
+      213: 21300204
+    second: pony_sheet_102
+  - first:
+      213: 21300206
+    second: pony_sheet_103
+  - first:
+      213: 21300208
+    second: pony_sheet_104
+  - first:
+      213: 21300210
+    second: pony_sheet_105
+  - first:
+      213: 21300212
+    second: pony_sheet_106
+  - first:
+      213: 21300214
+    second: pony_sheet_107
+  - first:
+      213: 21300216
+    second: pony_sheet_108
+  - first:
+      213: 21300218
+    second: pony_sheet_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pony_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 764
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfa0b6f73270594b94cc2406ae8bf1e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 766
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a43f17b138aa8044b0a71eed1449f34
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 766
+        width: 83
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce1d5eaa68bfe5459fd4087a844ec68
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 768
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4a691abfc6c214c8d03acfb83f9481
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 766
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f336f726db07a4a9092e7d49e31acd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 763
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0f31ca81cf35469597b54877445b6
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 766
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91acc9b53cc6c3a4ba5ebbe909c9d478
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 768
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0526f51bf90e84a901376a88c33972
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 764
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab5d72b0f78b5646b84aef4073d8d46
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 764
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b91bf34f4831e4fa3b045e1bdde273
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 703
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ccd8b89828eff428a278e4ac911473
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 703
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903d778c88790da4086be6115bb38c24
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 701
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551143cb4cf8bc34083262ae40c300a2
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 700
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36383cc382d709541b7d7f86f069784c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 699
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb55dc0a2971044c81e26350e056fbe
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 701
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb612844c889ae4984daf57b4780e2d
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 702
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effbb23ee5e5eee41b64be4eeb4187c9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 703
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b3f24ad9875a34b8c7eeb7019293de
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 702
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe12e0d20e5e1d64985a30a40991b28c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 701
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efca0623bae94b141abd3e783dbb9674
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 637
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84feb63d96c3ad43a30ac74b941efab
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 638
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5542bd8ffc6c9d34da947ea0640a90ee
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 638
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378962ce64c23e49830a44b83cef138
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 575
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cbed22f1e906149959128c49d759d6
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 574
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f895d9b740638f14481e97da2cdb0068
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 575
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebe69193a3d8cf4f9f8c5c77c8d7ea9
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 577
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833575e447a098c4480b3a5750858f4c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 576
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b759884563c4fe4aa29e44911bdf3a3
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 575
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d97e6083a00d54586007c257fd9119
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 575
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3669276763949d947bfb161c03158299
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 577
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4111cf76784e0642be6c9a346c69860
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 576
+        width: 75
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7f8017c2b1b8438b4b04e35221a2c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 511
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7265597a4244b024db828ad97781b36f
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 512
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca63fc8e99d6a74e9a66e4ada85241b
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 511
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad1ad80121d3ba4ba22c9c7f1d7b672
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 512
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0f9965b600d9e498004d19f275b8a1
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 512
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb52550bab452a419149d05f0fdea36
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 512
+        width: 69
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4744125, y: 0.48725116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a28e15428977649a95f9fe4362c33b
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 512
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbd111240402d442bb5e1733587e0ff
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 512
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4956301d2856b449f317ee649fab5f
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 512
+        width: 75
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236cd5577cc87a944af1d20b2ea115f6
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 512
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fefbdf53ef54a14eb2c326fc05e406c
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 448
+        width: 74
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d137c4f4f692c3468b46be09a37a646
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 384
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0690d3312ea944680d87bf210728f5
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 384
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e428504e1a8267640b624ee14a8b22bb
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 385
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29d28b85858b0549b909f5d4b770b20
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 384
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9cfe8313a66f4c900544b17f3008f
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 383
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea3530ff79e4434b81b9515072f8a71
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 384
+        width: 75
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a51a71c6362074385791ffe8fbe69b
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 385
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f725125249083534ba7a15bc589aa630
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 384
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c57c79211e2d9445b84ad3656bc7689
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 384
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab952a06de511149b31cd60b5ce2ca8
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 384
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040a3fbcb11e311469990300d9c265e0
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 321
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fadfdb02ddc0740ae7ef9174c312cb
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 321
+        width: 76
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de24279b5b7cc48be9d1e01d8399d3
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 320
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70affd3210a3c874ba3b3bc55db6930e
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 321
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2119e6ac522579043ba9d97826ee7fb7
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 320
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d6977b86895894eadf46332d9a6cb2
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 321
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca0dafe793e87428781ea26c8f96c4
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 320
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc0f084efe20cb41b88499ce68ae4d9
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 320
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e274e7f92dfb488d0ee3c5e990544
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 320
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bed9c33e55ba749987ae4f8aae4d1a
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 320
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1975ba2748048af4aa3e3bc681285ba8
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81550421839814eba0fa517a5cd4d2
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 71
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b67809a94e8a47934f36cb5d7bff8
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a650e5613433004b99fc073ab653ae6
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 255
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a0c7d1ba8632448b4a0da88b63dc2b
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 255
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f91397f7d51c7c42b6366f12b49256c
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 256
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f0d205713f96445ba6711d8d414b6f
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 254
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d854d0b6f6d95ef4f91eefb85d7741c8
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 254
+        width: 88
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217aa5a7c255af4428bc1b72c64f1850
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 256
+        width: 84
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766e21ef1f8f284f9bb10be1727f961
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 257
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6096eddb6541bd5449f6f80e92e9a337
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 192
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32db25a5a10e334c8d7a97186b9e28d
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08021b80ad9bc624fa5030ec823863aa
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 193
+        width: 85
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463504a303d01544aa29e896fab0f50
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 89
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeb21f7708473b4c959d4e94b4fec36
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 192
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5689ed307d16e4b841f9673a778416
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa25a8842e6f48c42b41ff308ee46e33
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 191
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3517a9dff3a543856d8457ec042a2
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 192
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44c521af9e46d4b8c0b6b2fcc06814
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 191
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014f0b0b37c2c4a48ab9ddf9e7e1f805
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 192
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f130c59a3a1575b4abf713c86154fbb9
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55108e2acf8463641945cf1836e106a4
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd25a9ebb477024cb5dd4f263a681b8
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 128
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b848e2e70cd0746ae91c5a8be5b977
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 127
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8969dd9b181ca14aa0d4323dd8fc847
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 133
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e5c16cf8c092d4fbc46f0439254a9c
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 127
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca264b5ab1224649af116f0b20550ce
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 128
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefe6c2e439c0fd46bcae8145bea89b2
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 130
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a07f0a8d4788438f3e9f0db1e2875
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 128
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e35f8f99476e14eb50409dc66b4cb1
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 128
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ebbe4e5a161941b6ee62bbcc81501
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 65
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7bd4fa63c86447b4d3afc5c160f9c
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c14aaf2fce154cb78e7f8987bdb2e
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 65
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2575592e362864083970f93856f681
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 64
+        width: 77
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919b070430aa794c8490d1705f8910e
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 64
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd90c14844bbf1c439509f1c5748ffb8
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 63
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5914c3ec8bcbcb4a8c587d49e5c0922
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 62
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a54c0028eeb6428d322d40a2e6cb1
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 63
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9171300f96b778499da6105bdbb3601
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 63
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e267ecb06c379b14db2554ff8997bcde
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 63
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eff983aecc00e4d857f357fb6e7128
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8fa562df40876438a56cbd25e57d27
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e466ebc3f47ea1469b3a5aba68b0781
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322f870791fc5c64eb65238a06d571ab
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c2c31b410412488ad63d51684bbdd
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3a153ee4edb5b40be35e921d72d375
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec5ae191d88c1b4db9280c8ef29db5e
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151fe9ba164dfb148834db5f564efeff
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83a8a2fb6679cf24c8f9cbbce276b9ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6296 @@
+fileFormatVersion: 2
+guid: 516c7ad82388d6a49b4007b6ed9090c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: paw_gettown__emission_2_0
+  - first:
+      213: 21300002
+    second: paw_gettown__emission_2_1
+  - first:
+      213: 21300004
+    second: paw_gettown__emission_2_2
+  - first:
+      213: 21300006
+    second: paw_gettown__emission_2_3
+  - first:
+      213: 21300008
+    second: paw_gettown__emission_2_4
+  - first:
+      213: 21300010
+    second: paw_gettown__emission_2_5
+  - first:
+      213: 21300012
+    second: paw_gettown__emission_2_6
+  - first:
+      213: 21300014
+    second: paw_gettown__emission_2_7
+  - first:
+      213: 21300016
+    second: paw_gettown__emission_2_8
+  - first:
+      213: 21300018
+    second: paw_gettown__emission_2_9
+  - first:
+      213: 21300020
+    second: paw_gettown__emission_2_10
+  - first:
+      213: 21300022
+    second: paw_gettown__emission_2_11
+  - first:
+      213: 21300024
+    second: paw_gettown__emission_2_12
+  - first:
+      213: 21300026
+    second: paw_gettown__emission_2_13
+  - first:
+      213: 21300028
+    second: paw_gettown__emission_2_14
+  - first:
+      213: 21300030
+    second: paw_gettown__emission_2_15
+  - first:
+      213: 21300032
+    second: paw_gettown__emission_2_16
+  - first:
+      213: 21300034
+    second: paw_gettown__emission_2_17
+  - first:
+      213: 21300036
+    second: paw_gettown__emission_2_18
+  - first:
+      213: 21300038
+    second: paw_gettown__emission_2_19
+  - first:
+      213: 21300040
+    second: paw_gettown__emission_2_20
+  - first:
+      213: 21300042
+    second: paw_gettown__emission_2_21
+  - first:
+      213: 21300044
+    second: paw_gettown__emission_2_22
+  - first:
+      213: 21300046
+    second: paw_gettown__emission_2_23
+  - first:
+      213: 21300048
+    second: paw_gettown__emission_2_24
+  - first:
+      213: 21300050
+    second: paw_gettown__emission_2_25
+  - first:
+      213: 21300052
+    second: paw_gettown__emission_2_26
+  - first:
+      213: 21300054
+    second: paw_gettown__emission_2_27
+  - first:
+      213: 21300056
+    second: paw_gettown__emission_2_28
+  - first:
+      213: 21300058
+    second: paw_gettown__emission_2_29
+  - first:
+      213: 21300060
+    second: paw_gettown__emission_2_30
+  - first:
+      213: 21300062
+    second: paw_gettown__emission_2_31
+  - first:
+      213: 21300064
+    second: paw_gettown__emission_2_32
+  - first:
+      213: 21300066
+    second: paw_gettown__emission_2_33
+  - first:
+      213: 21300068
+    second: paw_gettown__emission_2_34
+  - first:
+      213: 21300070
+    second: paw_gettown__emission_2_35
+  - first:
+      213: 21300072
+    second: paw_gettown__emission_2_36
+  - first:
+      213: 21300074
+    second: paw_gettown__emission_2_37
+  - first:
+      213: 21300076
+    second: paw_gettown__emission_2_38
+  - first:
+      213: 21300078
+    second: paw_gettown__emission_2_39
+  - first:
+      213: 21300080
+    second: paw_gettown__emission_2_40
+  - first:
+      213: 21300082
+    second: paw_gettown__emission_2_41
+  - first:
+      213: 21300084
+    second: paw_gettown__emission_2_42
+  - first:
+      213: 21300086
+    second: paw_gettown__emission_2_43
+  - first:
+      213: 21300088
+    second: paw_gettown__emission_2_44
+  - first:
+      213: 21300090
+    second: paw_gettown__emission_2_45
+  - first:
+      213: 21300092
+    second: paw_gettown__emission_2_46
+  - first:
+      213: 21300094
+    second: paw_gettown__emission_2_47
+  - first:
+      213: 21300096
+    second: paw_gettown__emission_2_48
+  - first:
+      213: 21300098
+    second: paw_gettown__emission_2_49
+  - first:
+      213: 21300100
+    second: paw_gettown__emission_2_50
+  - first:
+      213: 21300102
+    second: paw_gettown__emission_2_51
+  - first:
+      213: 21300104
+    second: paw_gettown__emission_2_52
+  - first:
+      213: 21300106
+    second: paw_gettown__emission_2_53
+  - first:
+      213: 21300108
+    second: paw_gettown__emission_2_54
+  - first:
+      213: 21300110
+    second: paw_gettown__emission_2_55
+  - first:
+      213: 21300112
+    second: paw_gettown__emission_2_56
+  - first:
+      213: 21300114
+    second: paw_gettown__emission_2_57
+  - first:
+      213: 21300116
+    second: paw_gettown__emission_2_58
+  - first:
+      213: 21300118
+    second: paw_gettown__emission_2_59
+  - first:
+      213: 21300120
+    second: paw_gettown__emission_2_60
+  - first:
+      213: 21300122
+    second: paw_gettown__emission_2_61
+  - first:
+      213: 21300124
+    second: paw_gettown__emission_2_62
+  - first:
+      213: 21300126
+    second: paw_gettown__emission_2_63
+  - first:
+      213: 21300128
+    second: paw_gettown__emission_2_64
+  - first:
+      213: 21300130
+    second: paw_gettown__emission_2_65
+  - first:
+      213: 21300132
+    second: paw_gettown__emission_2_66
+  - first:
+      213: 21300134
+    second: paw_gettown__emission_2_67
+  - first:
+      213: 21300136
+    second: paw_gettown__emission_2_68
+  - first:
+      213: 21300138
+    second: paw_gettown__emission_2_69
+  - first:
+      213: 21300140
+    second: paw_gettown__emission_2_70
+  - first:
+      213: 21300142
+    second: paw_gettown__emission_2_71
+  - first:
+      213: 21300144
+    second: paw_gettown__emission_2_72
+  - first:
+      213: 21300146
+    second: paw_gettown__emission_2_73
+  - first:
+      213: 21300148
+    second: paw_gettown__emission_2_74
+  - first:
+      213: 21300150
+    second: paw_gettown__emission_2_75
+  - first:
+      213: 21300152
+    second: paw_gettown__emission_2_76
+  - first:
+      213: 21300154
+    second: paw_gettown__emission_2_77
+  - first:
+      213: 21300156
+    second: paw_gettown__emission_2_78
+  - first:
+      213: 21300158
+    second: paw_gettown__emission_2_79
+  - first:
+      213: 21300160
+    second: paw_gettown__emission_2_80
+  - first:
+      213: 21300162
+    second: paw_gettown__emission_2_81
+  - first:
+      213: 21300164
+    second: paw_gettown__emission_2_82
+  - first:
+      213: 21300166
+    second: paw_gettown__emission_2_83
+  - first:
+      213: 21300168
+    second: paw_gettown__emission_2_84
+  - first:
+      213: 21300170
+    second: paw_gettown__emission_2_85
+  - first:
+      213: 21300172
+    second: paw_gettown__emission_2_86
+  - first:
+      213: 21300174
+    second: paw_gettown__emission_2_87
+  - first:
+      213: 21300176
+    second: paw_gettown__emission_2_88
+  - first:
+      213: 21300178
+    second: paw_gettown__emission_2_89
+  - first:
+      213: 21300180
+    second: paw_gettown__emission_2_90
+  - first:
+      213: 21300182
+    second: paw_gettown__emission_2_91
+  - first:
+      213: 21300184
+    second: paw_gettown__emission_2_92
+  - first:
+      213: 21300186
+    second: paw_gettown__emission_2_93
+  - first:
+      213: 21300188
+    second: paw_gettown__emission_2_94
+  - first:
+      213: 21300190
+    second: paw_gettown__emission_2_95
+  - first:
+      213: 21300192
+    second: paw_gettown__emission_2_96
+  - first:
+      213: 21300194
+    second: paw_gettown__emission_2_97
+  - first:
+      213: 21300196
+    second: paw_gettown__emission_2_98
+  - first:
+      213: 21300198
+    second: paw_gettown__emission_2_99
+  - first:
+      213: 21300200
+    second: paw_gettown__emission_2_100
+  - first:
+      213: 21300202
+    second: paw_gettown__emission_2_101
+  - first:
+      213: 21300204
+    second: paw_gettown__emission_2_102
+  - first:
+      213: 21300206
+    second: paw_gettown__emission_2_103
+  - first:
+      213: 21300208
+    second: paw_gettown__emission_2_104
+  - first:
+      213: 21300210
+    second: paw_gettown__emission_2_105
+  - first:
+      213: 21300212
+    second: paw_gettown__emission_2_106
+  - first:
+      213: 21300214
+    second: paw_gettown__emission_2_107
+  - first:
+      213: 21300216
+    second: paw_gettown__emission_2_108
+  - first:
+      213: 21300218
+    second: paw_gettown__emission_2_109
+  - first:
+      213: 21300220
+    second: paw_gettown__emission_2_110
+  - first:
+      213: 21300222
+    second: paw_gettown__emission_2_111
+  - first:
+      213: 21300224
+    second: paw_gettown__emission_2_112
+  - first:
+      213: 21300226
+    second: paw_gettown__emission_2_113
+  - first:
+      213: 21300228
+    second: paw_gettown__emission_2_114
+  - first:
+      213: 21300230
+    second: paw_gettown__emission_2_115
+  - first:
+      213: 21300232
+    second: paw_gettown__emission_2_116
+  - first:
+      213: 21300234
+    second: paw_gettown__emission_2_117
+  - first:
+      213: 21300236
+    second: paw_gettown__emission_2_118
+  - first:
+      213: 21300238
+    second: paw_gettown__emission_2_119
+  - first:
+      213: 21300240
+    second: paw_gettown__emission_2_120
+  - first:
+      213: 21300242
+    second: paw_gettown__emission_2_121
+  - first:
+      213: 21300244
+    second: paw_gettown__emission_2_122
+  - first:
+      213: 21300246
+    second: paw_gettown__emission_2_123
+  - first:
+      213: 21300248
+    second: paw_gettown__emission_2_124
+  - first:
+      213: 21300250
+    second: paw_gettown__emission_2_125
+  - first:
+      213: 21300252
+    second: paw_gettown__emission_2_126
+  - first:
+      213: 21300254
+    second: paw_gettown__emission_2_127
+  - first:
+      213: 21300256
+    second: paw_gettown__emission_2_128
+  - first:
+      213: 21300258
+    second: paw_gettown__emission_2_129
+  - first:
+      213: 21300260
+    second: paw_gettown__emission_2_130
+  - first:
+      213: 21300262
+    second: paw_gettown__emission_2_131
+  - first:
+      213: 21300264
+    second: paw_gettown__emission_2_132
+  - first:
+      213: 21300266
+    second: paw_gettown__emission_2_133
+  - first:
+      213: 21300268
+    second: paw_gettown__emission_2_134
+  - first:
+      213: 21300270
+    second: paw_gettown__emission_2_135
+  - first:
+      213: 21300272
+    second: paw_gettown__emission_2_136
+  - first:
+      213: 21300274
+    second: paw_gettown__emission_2_137
+  - first:
+      213: 21300276
+    second: paw_gettown__emission_2_138
+  - first:
+      213: 21300278
+    second: paw_gettown__emission_2_139
+  - first:
+      213: 21300280
+    second: paw_gettown__emission_2_140
+  - first:
+      213: 21300282
+    second: paw_gettown__emission_2_141
+  - first:
+      213: 21300284
+    second: paw_gettown__emission_2_142
+  - first:
+      213: 21300286
+    second: paw_gettown__emission_2_143
+  - first:
+      213: 21300288
+    second: paw_gettown__emission_2_144
+  - first:
+      213: 21300290
+    second: paw_gettown__emission_2_145
+  - first:
+      213: 21300292
+    second: paw_gettown__emission_2_146
+  - first:
+      213: 21300294
+    second: paw_gettown__emission_2_147
+  - first:
+      213: 21300296
+    second: paw_gettown__emission_2_148
+  - first:
+      213: 21300298
+    second: paw_gettown__emission_2_149
+  - first:
+      213: 21300300
+    second: paw_gettown__emission_2_150
+  - first:
+      213: 21300302
+    second: paw_gettown__emission_2_151
+  - first:
+      213: 21300304
+    second: paw_gettown__emission_2_152
+  - first:
+      213: 21300306
+    second: paw_gettown__emission_2_153
+  - first:
+      213: 21300308
+    second: paw_gettown__emission_2_154
+  - first:
+      213: 21300310
+    second: paw_gettown__emission_2_155
+  - first:
+      213: 21300312
+    second: paw_gettown__emission_2_156
+  - first:
+      213: 21300314
+    second: paw_gettown__emission_2_157
+  - first:
+      213: 21300316
+    second: paw_gettown__emission_2_158
+  - first:
+      213: 21300318
+    second: paw_gettown__emission_2_159
+  - first:
+      213: 21300320
+    second: paw_gettown__emission_2_160
+  - first:
+      213: 21300322
+    second: paw_gettown__emission_2_161
+  - first:
+      213: 21300324
+    second: paw_gettown__emission_2_162
+  - first:
+      213: 21300326
+    second: paw_gettown__emission_2_163
+  - first:
+      213: 21300328
+    second: paw_gettown__emission_2_164
+  - first:
+      213: 21300330
+    second: paw_gettown__emission_2_165
+  - first:
+      213: 21300332
+    second: paw_gettown__emission_2_166
+  - first:
+      213: 21300334
+    second: paw_gettown__emission_2_167
+  - first:
+      213: 21300336
+    second: paw_gettown__emission_2_168
+  - first:
+      213: 21300338
+    second: paw_gettown__emission_2_169
+  - first:
+      213: 21300340
+    second: paw_gettown__emission_2_170
+  - first:
+      213: 21300342
+    second: paw_gettown__emission_2_171
+  - first:
+      213: 21300344
+    second: paw_gettown__emission_2_172
+  - first:
+      213: 21300346
+    second: paw_gettown__emission_2_173
+  - first:
+      213: 21300348
+    second: paw_gettown__emission_2_174
+  - first:
+      213: 21300350
+    second: paw_gettown__emission_2_175
+  - first:
+      213: 21300352
+    second: paw_gettown__emission_2_176
+  - first:
+      213: 21300354
+    second: paw_gettown__emission_2_177
+  - first:
+      213: 21300356
+    second: paw_gettown__emission_2_178
+  - first:
+      213: 21300358
+    second: paw_gettown__emission_2_179
+  - first:
+      213: 21300360
+    second: paw_gettown__emission_2_180
+  - first:
+      213: 21300362
+    second: paw_gettown__emission_2_181
+  - first:
+      213: 21300364
+    second: paw_gettown__emission_2_182
+  - first:
+      213: 21300366
+    second: paw_gettown__emission_2_183
+  - first:
+      213: 21300368
+    second: paw_gettown__emission_2_184
+  - first:
+      213: 21300370
+    second: paw_gettown__emission_2_185
+  - first:
+      213: 21300372
+    second: paw_gettown__emission_2_186
+  - first:
+      213: 21300374
+    second: paw_gettown__emission_2_187
+  - first:
+      213: 21300376
+    second: paw_gettown__emission_2_188
+  - first:
+      213: 21300378
+    second: paw_gettown__emission_2_189
+  - first:
+      213: 21300380
+    second: paw_gettown__emission_2_190
+  - first:
+      213: 21300382
+    second: paw_gettown__emission_2_191
+  - first:
+      213: 21300384
+    second: paw_gettown__emission_2_192
+  - first:
+      213: 21300386
+    second: paw_gettown__emission_2_193
+  - first:
+      213: 21300388
+    second: paw_gettown__emission_2_194
+  - first:
+      213: 21300390
+    second: paw_gettown__emission_2_195
+  - first:
+      213: 21300392
+    second: paw_gettown__emission_2_196
+  - first:
+      213: 21300394
+    second: paw_gettown__emission_2_197
+  - first:
+      213: 21300396
+    second: paw_gettown__emission_2_198
+  - first:
+      213: 21300398
+    second: paw_gettown__emission_2_199
+  - first:
+      213: 21300400
+    second: paw_gettown__emission_2_200
+  - first:
+      213: 21300402
+    second: paw_gettown__emission_2_201
+  - first:
+      213: 21300404
+    second: paw_gettown__emission_2_202
+  - first:
+      213: 21300406
+    second: paw_gettown__emission_2_203
+  - first:
+      213: 21300408
+    second: paw_gettown__emission_2_204
+  - first:
+      213: 21300410
+    second: paw_gettown__emission_2_205
+  - first:
+      213: 21300412
+    second: paw_gettown__emission_2_206
+  - first:
+      213: 21300414
+    second: paw_gettown__emission_2_207
+  - first:
+      213: 21300416
+    second: paw_gettown__emission_2_208
+  - first:
+      213: 21300418
+    second: paw_gettown__emission_2_209
+  - first:
+      213: 21300420
+    second: paw_gettown__emission_2_210
+  - first:
+      213: 21300422
+    second: paw_gettown__emission_2_211
+  - first:
+      213: 21300424
+    second: paw_gettown__emission_2_212
+  - first:
+      213: 21300426
+    second: paw_gettown__emission_2_213
+  - first:
+      213: 21300428
+    second: paw_gettown__emission_2_214
+  - first:
+      213: 21300430
+    second: paw_gettown__emission_2_215
+  - first:
+      213: 21300432
+    second: paw_gettown__emission_2_216
+  - first:
+      213: 21300434
+    second: paw_gettown__emission_2_217
+  - first:
+      213: 21300436
+    second: paw_gettown__emission_2_218
+  - first:
+      213: 21300438
+    second: paw_gettown__emission_2_219
+  - first:
+      213: 21300440
+    second: paw_gettown__emission_2_220
+  - first:
+      213: 21300442
+    second: paw_gettown__emission_2_221
+  - first:
+      213: 21300444
+    second: paw_gettown__emission_2_222
+  - first:
+      213: 21300446
+    second: paw_gettown__emission_2_223
+  - first:
+      213: 21300448
+    second: paw_gettown__emission_2_224
+  - first:
+      213: 21300450
+    second: paw_gettown__emission_2_225
+  - first:
+      213: 21300452
+    second: paw_gettown__emission_2_226
+  - first:
+      213: 21300454
+    second: paw_gettown__emission_2_227
+  - first:
+      213: 21300456
+    second: paw_gettown__emission_2_228
+  - first:
+      213: 21300458
+    second: paw_gettown__emission_2_229
+  - first:
+      213: 21300460
+    second: paw_gettown__emission_2_230
+  - first:
+      213: 21300462
+    second: paw_gettown__emission_2_231
+  - first:
+      213: 21300464
+    second: paw_gettown__emission_2_232
+  - first:
+      213: 21300466
+    second: paw_gettown__emission_2_233
+  - first:
+      213: 21300468
+    second: paw_gettown__emission_2_234
+  - first:
+      213: 21300470
+    second: paw_gettown__emission_2_235
+  - first:
+      213: 21300472
+    second: paw_gettown__emission_2_236
+  - first:
+      213: 21300474
+    second: paw_gettown__emission_2_237
+  - first:
+      213: 21300476
+    second: paw_gettown__emission_2_238
+  - first:
+      213: 21300478
+    second: paw_gettown__emission_2_239
+  - first:
+      213: 21300480
+    second: paw_gettown__emission_2_240
+  - first:
+      213: 21300482
+    second: paw_gettown__emission_2_241
+  - first:
+      213: 21300484
+    second: paw_gettown__emission_2_242
+  - first:
+      213: 21300486
+    second: paw_gettown__emission_2_243
+  - first:
+      213: 21300488
+    second: paw_gettown__emission_2_244
+  - first:
+      213: 21300490
+    second: paw_gettown__emission_2_245
+  - first:
+      213: 21300492
+    second: paw_gettown__emission_2_246
+  - first:
+      213: 21300494
+    second: paw_gettown__emission_2_247
+  - first:
+      213: 21300496
+    second: paw_gettown__emission_2_248
+  - first:
+      213: 21300498
+    second: paw_gettown__emission_2_249
+  - first:
+      213: 21300500
+    second: paw_gettown__emission_2_250
+  - first:
+      213: 21300502
+    second: paw_gettown__emission_2_251
+  - first:
+      213: 21300504
+    second: paw_gettown__emission_2_252
+  - first:
+      213: 21300506
+    second: paw_gettown__emission_2_253
+  - first:
+      213: 21300508
+    second: paw_gettown__emission_2_254
+  - first:
+      213: 21300510
+    second: paw_gettown__emission_2_255
+  - first:
+      213: 21300512
+    second: paw_gettown__emission_2_256
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1838
+        width: 376
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314e3be5cd44557439ad0b0baca7373a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1811
+        width: 250
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9677ccb89ad9f4abb77655cadffd32
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1798
+        width: 258
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a75788ff17701439283fa1305a2862
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_3
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 2061
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6023fb96381e6054e9831d63fdbc1e6c
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_4
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 2061
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e261b50db8645124583e5e7705a9c8b0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_5
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 2061
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c81f80ee1349844da40fc1afdead183
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_6
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 2061
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edffa024e62184b4eb9c2750c504323d
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_7
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 2061
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da53c58b46378d44ab2de1faff5cfd5d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_8
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 2061
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9019d53e63f1f454a928ffc296d01e2c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_9
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 2029
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e410392826a2644b88537cfa5e97a7
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_10
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 2029
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99f743cc83cb3c458db0c31db5bb326
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_11
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 2029
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570db5d0c60dc7141bbe1d7936e40709
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_12
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 2029
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5191b66d3583348bc68e925058f032
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_13
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 2029
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb65b338c4ac1f42833ab9be849da4c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_14
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 2029
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c651f1c9d7d05846ade2f22a5eef82d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_15
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 1935
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127a99b4e1b8b8c45aa1e69bdbd70620
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_16
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 1935
+        width: 19
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fcfb7997502bf4fb61f7859964df1a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_17
+      rect:
+        serializedVersion: 2
+        x: 4753
+        y: 1935
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b8b6d8190d60c4bb13c9e3b2c6a2f5
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_18
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1822
+        width: 220
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13713348b41f0f847821c7d70b3863cc
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_19
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1997
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd51dff036e25c14fa4f974f49a60e32
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_20
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 1997
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58129be8ae731da43aed315aa25708d7
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_21
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 1997
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952a8380b259ec64aadf574eae5147ad
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_22
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 1997
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947684178c95864e83c09007cf584dc
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_23
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1997
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79f8810ade0eed4787f9f7146541d88
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_24
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 1997
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b537153137f6e245bfccbff5b9dbb49
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_25
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 1937
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed571bd1d628249b361ea291dd2ffb
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_26
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1935
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a09f7c3b96775e4087a66aef8d5215f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_27
+      rect:
+        serializedVersion: 2
+        x: 4719
+        y: 1935
+        width: 18
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60695e21b6e36e448b051e5728d477f0
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_28
+      rect:
+        serializedVersion: 2
+        x: 4818
+        y: 1935
+        width: 35
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0d0965b4d69c4bb9a738e93157b23
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_29
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1886
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e24b710a08f5f4a9cc857bf68eaddb
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_30
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1935
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6558bc5cffc3e4a9b21400ff1d5094
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_31
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1967
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b528cd3e1240f2b4f8a65dcda5c1e12a
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_32
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1967
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9a9b82631bbd84b976efacbbe881fd
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_33
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1967
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce7088ec5e51e458ba9566a7e368cf
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_34
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 1935
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5b6677340733648a623e1b93040d08
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_35
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 1935
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ee9789682b8d644b1d6d6ac7f06a21
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_36
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1593
+        width: 306
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b204269d3863ff42b1a7f9aff531b32
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_37
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1935
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db52582c40d74740b3bbe90cacb7076
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_38
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1935
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df31889f823b5408f39f305e313f75
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_39
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1935
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631871824c4e8ed43bba69c040b8d0c7
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_40
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1610
+        width: 287
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dfa00be97a1e4458d84f152c772e00
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_41
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1905
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c1844db49b79e46a4415bbf08480f7
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_42
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1903
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4696852bf07504aaeb383a664e4d99
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_43
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1905
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4513e86973c8745a44b64af2b12ed9
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_44
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1631
+        width: 470
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9152a228bb0d847831d47de363d620
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_45
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1631
+        width: 355
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48a2a45892d274a8abff914c62f1d8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_46
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1551
+        width: 483
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e368419b5d1496843828f86cf0ad042e
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_47
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1838
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8dbd97eabed47448e2143e2a78a0b6
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_48
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1870
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c232b94a55ec3b41a309eedc5a83281
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_49
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1870
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa6bca9cb8b282458320326e257107e
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_50
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1615
+        width: 228
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6979654a54a9449952dce74c45c4bb
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_51
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1838
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9796256a56443a247ba2229a8a5a2500
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_52
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1838
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b85134cc4a48438f117981235b62a
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_53
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1693
+        width: 107
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9536060f931f84a45b6d7a61ac07d8be
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_54
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1696
+        width: 68
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39d380b9638c264a85b23323cc4469e
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_55
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 1696
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc81665efe12742a9a3cd50cd3e596
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_56
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1712
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc63edf4586fbc45b73ed8996deb7d1
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_57
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 1712
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8d71ae7dddcf54ebe73d75e99a9e10
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_58
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 1712
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8189684fbf7ba441bdd659238c43613
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_59
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 1696
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496c5d227f183845b65475d9d42771e
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_60
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 1744
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1f218ef0a90f4d9cf4ed2e3c51e59
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_61
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 1760
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee5e00519283647b965f8305b7bfa8
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_62
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 1728
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5074497147df74fa2ace8ff885b5f7
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_63
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 1731
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb7c37e0ef0eb04a8b6de51cc7fb4fb
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1499
+        width: 142
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7063c0c7f8d4b4c4ba8ae5e2e9adcb93
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1502
+        width: 139
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b201a2e7897bba4cbc1cda25f4ddc99
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_66
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1459
+        width: 239
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3e781e6014bb41a8f8f6601189ad8
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_67
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1499
+        width: 209
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfda35b97b4ec4438d03743a87bbe2d
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_68
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1499
+        width: 209
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19943005cfb6d94dbfadd5452264ce8
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_69
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 1698
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c049df0a0be6f40845e8f61004433d
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_70
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1698
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb567940f96b144494d54d5e7dbce34
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_71
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1677
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e2925530ed95b4f898c533034883cc
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_72
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1693
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27275a6cdb6853745bfda1494ad8a930
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_73
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 1663
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a81b853692df45a6eeef05875d451
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_74
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1636
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc14811de3f7a554aab04208555fd8f9
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_75
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 1599
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ed1c0d722b06d4ab7bc04f44994eff
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_76
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1636
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaf485e9997421439352b34b47c8e42
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_77
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 1636
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ebd0f4358318b4faf604b41f8db708
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_78
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 1636
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4241dc22ae1f14eb90ce7c2f42e6f0
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_79
+      rect:
+        serializedVersion: 2
+        x: 4533
+        y: 1653
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febd34ab29fddf04ca7501ea66299a56
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_80
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 1658
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef68bdf2d1e4c1145944c31ce50faf2d
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_81
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1615
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf378ad59c9b12428116859a4fe9f63
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_82
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 1631
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931d0512e87fd434ba3a57acbe2c0fe4
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_83
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 1599
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813b40ce420ec964184ec1177cdfe90d
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_84
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 1615
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9f3233929cc840b236c3157c95a30
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_85
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1615
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea4c30288c70d48877045dbfe08924
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_86
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 1583
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f476f782f4c0084cae028e78bf00a46
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_87
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 1518
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779eaf180ed6d684283fc880e052292c
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_88
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1521
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fee560574ef1d4a9ee08459d478b7a
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_89
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 1521
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575cdb2263e63b4280e8dc8ed5d801a
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_90
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 1518
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ebb151db9c8aa4991ddee4bfcb94c0
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_91
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 1521
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14482a397bd35346b4fde4a13ab8810
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_92
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 1521
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac3e47c1f79544aa41f1bbb41de1db
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_93
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1529
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a615282caf744e9d0ec816d3ff025
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_94
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 1529
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6aaf74ff9f0484db238c243aecebe6
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_95
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 1540
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac67ffd1e5cea5478bdaca9df14cd0d
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_96
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1521
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e44bc34c56b574e8d2c53aff24ef9b
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_97
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 1529
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bbe4a701cfab24b8eb7e79e2fbbce0
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_98
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 1489
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db0f7e2b2d61b4493f720dd9198a36
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_99
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 1502
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c63d9cac2c5e043a4e5aee76309928
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_100
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 1475
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22a382de1991e448b97c9ddd603c78d
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_101
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1056
+        width: 421
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cbcf10aaf537744aa9d8e2b2e4a98c
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_102
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1215
+        width: 293
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7b3b1eb49d134cb9c3017fadbe8ec
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_103
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 1182
+        width: 322
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73c927a15238749a5d9030d6a03662
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_104
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 1134
+        width: 354
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfef470d80fc9f4f81f0ace474c1f77
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_105
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 1306
+        width: 64
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5d862d734693b42a23f69adfee3d36
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_106
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1198
+        width: 483
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d3e174d68f9a48bcb43e311dd9bbb
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_107
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1327
+        width: 38
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f54faaa08880e4cacdcde9a849bed9
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_108
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 1327
+        width: 37
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a86135976c4e3489749fc79f3516b1
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_109
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1405
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d924388922ced5d49b2cc00e42ee7b0e
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_110
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 1341
+        width: 35
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8031a98d697307a4ab867faa510f9213
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_111
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 1422
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9411dfc6a5da9b4193ab9e12f6753ef
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_112
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1341
+        width: 35
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc05e0c4b25244459b492b23259b62a
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_113
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1405
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f21901cdaca9a94d89748b2c194f982
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_114
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1422
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf57826edee58254bbf7d7b5c68f4550
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_115
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 1424
+        width: 67
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4631a07227552114e9dc7ed17ca6b1d8
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_116
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1422
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ebf54a029970438924d5f7995b9c0
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_117
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1438
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365272dfa99de9e4e9b3ccde858338e1
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_118
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 1408
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c50d75fcac2964ea9634117dcf5e73
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_119
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1236
+        width: 72
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b3aba281d789446a63b76638d90450
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_120
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 1341
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a56a6fbe1656164d8a1648512bc991f
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_121
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1357
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebc967c739aabf489666b38337997d9
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_122
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 1376
+        width: 67
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9fccf2e234c034587f6d013f2d8b96
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_123
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 1357
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b92614f8f4414c409ff8c30f5c41a09
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_124
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1325
+        width: 67
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2df545ff29fd6469baf0d69722be4f
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_125
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1376
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3cffa9008e584f944582ab40d2e2d
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_126
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 1344
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd64a0e8176e1b458c09d28299ff4e5
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_127
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 1311
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71eb4682ef5335648bdd34dc8559d283
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_128
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1268
+        width: 89
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443c2b2bbe3343a4ba4fd8b330810c30
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_129
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 1279
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d310a2b8ae80f3a49bf08ffb2fa2bd63
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_130
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1279
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d179c3b50252df848ac1352f508ac894
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_131
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1293
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdbb55c78cb23141913cc6970a542d3
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_132
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 1314
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad56d3f1e87dd43448366ffb445c7f73
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_133
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1056
+        width: 341
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8db63275a4b8488c2a0a203303861
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_134
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1056
+        width: 339
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19f174462562446a24c89a9476e086
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_135
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1056
+        width: 306
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338ca83e5f582af45beaf19b83e35468
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_136
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1188
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b26f3d57b29084188a3f8420db75c5
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_137
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1193
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee092e6403bb3b43ba9d13eb1b8b5ca
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_138
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1231
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d442b1734fcd4d823e1a5a0c24fe9
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_139
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 787
+        width: 341
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1923bcd8ca0e934449a6ab063e1d38db
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_140
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 787
+        width: 339
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba647474b87e484ca4428efe6e7e38b
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_141
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 637
+        width: 421
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947888294d0c61f4d9d8ce009ce99a48
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_142
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 989
+        width: 293
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d942457839692864283185abb3b1be72
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_143
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 941
+        width: 322
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eb92c1bf6ee7245a16ae30f15acbbb
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_144
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 701
+        width: 354
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84834c3976e378b4685d709ed3ecc034
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_145
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1032
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693f1da0d44dc2a4887b9d87712655a0
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_146
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1040
+        width: 223
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e6b3bb2bd6cfd4cbf13815a20d9b8b
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_147
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 932
+        width: 30
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0fe9373fe26594583e946c34e32b3a
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_148
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 914
+        width: 220
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e175fdefbaa0489250a0772a118b3
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_149
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 1040
+        width: 99
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b3155342dbfa4f9ada1b1ad9c9002
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_150
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 830
+        width: 306
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20243bd23f9482c458d0533ec635d98c
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_151
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 782
+        width: 78
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4cdfc09baddc4498f538dd4bb20a0f
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_152
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 941
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b03270f2cef3c645b7dd9a6bf8ceda7
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_153
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 879
+        width: 229
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a305771971046894f8cbf35f763a3bee
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_154
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 898
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c274e109787da47b5f5b818585da5a
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_155
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 941
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e0ded7d0ab656438e8b8291b275249
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_156
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 941
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffd23d3d0faecf42b0ba8a72e95c17a
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_157
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 881
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b1363a91b87b342891c331c5c1eb79
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_158
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 879
+        width: 322
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f2786e242cd84e88225394dc09eb2
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_159
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 906
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc8f3af7c5286e449bd99e90205c829
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_160
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 696
+        width: 121
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4616a42a15337d845adb432a598c1a2c
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_161
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 750
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d58ea900a0f534abcce151340eab0b
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_162
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 790
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89236128d2f18cb4482e8ff527b324d2
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_163
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 755
+        width: 124
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182073c1d53b0cf4a81478b688c1718e
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_164
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 739
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27505ef36dca75445a0c11eeec09d288
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_165
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 691
+        width: 198
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25707cc295ba44e982aa54cf159005
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_166
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 717
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df2a25226bd00343b845ea7e1379c03
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_167
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 717
+        width: 212
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f724b5fe6c0ebf44b547b27c8fc3188
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_168
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 717
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d3edf9c92722747b11b0bff3878afc
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_169
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 717
+        width: 212
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c1c45bfbe8b6a459e1f97bc54df5f9
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_170
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 717
+        width: 306
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b47510f1e756947a29e0a440871c27
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_171
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 736
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de006fa34fd355047a84a225aaf8ac3a
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_172
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 578
+        width: 32
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531df34bcd0ba894fb3011b85b8ef9f8
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_173
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 521
+        width: 11
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3da591a0fd534645859b8dd940e5e6b
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_174
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 543
+        width: 252
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3ddd9c206c974d8b817cb5905dba2
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_175
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 521
+        width: 11
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3e0c377c83e044bbfe30312ad78d46
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_176
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 524
+        width: 10
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e9dbfd03c8824498b6367355acab18
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_177
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 586
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a10dcaf9aeefc4b81b4433ff51ff51
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_178
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 524
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08a8c8016fa5c04bb176a44960ab934
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_179
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 685
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfab460214f295449eb673e89b3b4bb
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_180
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 521
+        width: 11
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae842d8a55e032048bca71e8e88db4bf
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_181
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 559
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fcdd7a5ba668e48b85e0d7ad29c3aa
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_182
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 521
+        width: 11
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a860448b3a55418ce5480bfa351db
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_183
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 543
+        width: 53
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d832b1919867d0d4984c8d2bc7ab137b
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_184
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 532
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bddcfb50584e74faa9aa5c7abe6c17
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_185
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 640
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac08437e3fe6b40b7515b029d428f2
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_186
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 621
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30df6842feed184f90eb15f70b42311
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_187
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 621
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414626ce59c936f4d9dd7bf485fdcc92
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_188
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 621
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0db7a9b627e44493941bc4bfebfe2
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_189
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 594
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9715d1c06fe647f479d38cc5fc1f94f1
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_190
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 551
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8546d3613b33549817b4902ed193d1
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_191
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 575
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21321f6d86bbeb4e9554ca4dd252a47
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_192
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 575
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c678addb77b20374a9a0b2b4d1e80dd6
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_193
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 543
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb80fe4962290b4fb8d515ae6ea8bb1
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_194
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 551
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79f83a1fe10ae4b8966f46069c7d14
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_195
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 322
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51792b10da22ca94eb85c39624e54b84
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_196
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 449
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab80fcc780913448a0900c42d2d66f6
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_197
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 454
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba53ed67a4455d8428350dc89ff255a0
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_198
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 468
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc072ff69b37e4d9e899ba3e3e79ad
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_199
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 365
+        width: 80
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13280ab7e4999c44085518adf100d62e
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_200
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 470
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ba3825199ef7c4f8d97184bfda7f0c
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_201
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 322
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405bb0bd44b96f04c89f621a532945fa
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_202
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 322
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b87433df66a4a49b56553807d0c9d4
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_203
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 435
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befcff5689cf78e4385d127facb12712
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_204
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 422
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4172f4c81238d8545bbf34ab9b8a42ee
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_205
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 427
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f7eebc3f0436409b61e1095972487
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_206
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 446
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1849696d213c76e4e9ae6b1fa6b25d00
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_207
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 322
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228789c6952b87140a9dfd8f27d695d8
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_208
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 325
+        width: 10
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf699f3b22839674dab6fa2e8117ea0d
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_209
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 403
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d52f5346cd35941a3bf3b9bc81739b
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_210
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 443
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890d4596fde34a74dbec259e96525e2a
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_211
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 425
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd0905bfa6b4b40aab302f0a1fd254
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_212
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 433
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46de3256266d3943b02856faf2ba8c1
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_213
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 411
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696f89d49fc0f304b97baaab867d591a
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_214
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 325
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f48afa87e07d5f42a9de0cd217c7110
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_215
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 202
+        width: 11
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555794a52f6964a4f9e704a125618b12
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_216
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 446
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebf8f7fb07cc41449f7c684c3b98933
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_217
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 363
+        width: 134
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f7b62bf171a814da18c7438cfdd3c4
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_218
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 202
+        width: 11
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b90f7d06acab449fa3731c4255722
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_219
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 379
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7f2dd000c8844429a49746573cd8e7
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_220
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 419
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568a7d5b9898be24cb0712673a0beab7
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_221
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 438
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89eddd07a37157f44996a2d6505044cd
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_222
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 406
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9dd5ac0a58da4fa25e1715a8d6466
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_223
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 422
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70f91dab96423542bc49bfee866d7c5
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_224
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 382
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c449ba1357d946ad780115603bc9f
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_225
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 379
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7341001ce217854887660844683fb67
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_226
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 376
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd92a07f324266b438a8984153b69a39
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_227
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 341
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a74e5fba252f8241b581512077281cc
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_228
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 336
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1bb390da5d6e341a6d79693eef31f6
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_229
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 336
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7366763151aad740a383858860aa113
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_230
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 368
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8901b0443826fdc41aa6fd53b074c801
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_231
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 355
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce51c902696e14b9b37c1c0b122de4
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_232
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 379
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d54940e62d889e4292288c9ecef8200
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_233
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 341
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0d863ae5fa5cb48bf164197dcb0ccf
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_234
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 355
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a808c8e5aabd974fa36e95d6c1c53b7
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_235
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 336
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef534ed4eacfec346bb2b4ddca0a6b84
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_236
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 255
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43bbd29414f2d4890d37c59cf024a6
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_237
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 247
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c857d6bcac9a41b4d549a742c5c64
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_238
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 210
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e189014bd798b743986fe6f20f51587
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_239
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 210
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6642d1e432fc614dad1b5cd9919438d
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_240
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 5
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c357bbd6974f7a4c95748c00f35a064
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_241
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 81
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6d06171248ae64b90f4baaebb88952
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_242
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 137
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb863feefe4154294207344a8f7a87
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_243
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 86
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab81677b456b0244af1b30211f68cc3
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_244
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 121
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032ff53cee871744b48a4ec5f24e54b
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_245
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 116
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3c4d7a406c4f1408ba4e89b6e8d81a
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_246
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 62
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc585102b17e18d46a0c88f500d4ce18
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_247
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 134
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99dbc583b6e3884dbf9f36b98f4898b
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_248
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 129
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dad3faf476aa84e87d352f823350b7
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_249
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 5
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2f67f9509dee54189ed76d2f45b6fb
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_250
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 32
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ec89d62d0c76f4ba3fa478bc7a7298
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_251
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 32
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986a457772fbf24eb093068f3ff6399
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_252
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 62
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f0ab8e404ac7d44aecd36590a992ba
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_253
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f296bd7401cc8de468306cf362aab40a
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_254
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 38
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a0a938e1039fd429d528b8a00c150f
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_255
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 13
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e967ca4b551f64682b4b291e9239d2
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__emission_2_256
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 11
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8abf43c132cd4f4ab3822412be1d100
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 612f341fb4c32f341b43ed661367550e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

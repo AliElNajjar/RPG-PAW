@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851707bab31073f4d9c72ed92b04ae55, type: 3}
+  m_Name: BrutherAnimationData
+  m_EditorClassIdentifier: 
+  animations:
+  - name: IdleSide
+    frames:
+    - {fileID: 21300036, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: IdleUp
+    frames:
+    - {fileID: 21300402, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: IdleDown
+    frames:
+    - {fileID: 21300438, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: RunSide
+    frames:
+    - {fileID: 21300020, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300022, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300024, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300026, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300028, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300030, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300032, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: RunDown
+    frames:
+    - {fileID: 21300416, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300418, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300420, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300422, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300424, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300426, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300428, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300430, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300432, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300434, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: RunUp
+    frames:
+    - {fileID: 21300382, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300384, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300386, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300388, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300390, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300392, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300394, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300396, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300398, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300400, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkSide
+    frames:
+    - {fileID: 21300000, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300002, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300004, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300006, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300008, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300010, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300012, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300014, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300016, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300018, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkDown
+    frames:
+    - {fileID: 21300416, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300418, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300420, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300422, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300424, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300426, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300428, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300430, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300432, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300434, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkUp
+    frames:
+    - {fileID: 21300382, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300384, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300386, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300388, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300390, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300392, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300394, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300396, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300398, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300400, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: TalkSide
+    frames:
+    - {fileID: 21300036, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300038, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300040, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300042, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300044, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300046, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: TalkDown
+    frames:
+    - {fileID: 21300438, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300440, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300442, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300444, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300446, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300448, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: TalkUp
+    frames:
+    - {fileID: 21300402, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300404, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300406, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300408, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300410, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300412, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    - {fileID: 21300414, guid: afaa8a2e794253a40b12eb7e155b97f6, type: 3}
+    framesPerSec: 7
+    loop: 1

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BarrelRed
+  m_Controller: {fileID: 9100000, guid: f93fad880d8c1eb41908d288316120d1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cbe39af2a3efdca42a1e1ddf2cdb5994, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f11dd2d16ebbf394585514a75246e8d5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9a8686ccc2937e94788f3a478ff1a5d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 736ba0d19e1535b469ff30130d546820, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e4cc715f50307c94bbf81092a425b84f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aaf255f8d14b7a844867ad3c191700ae, type: 2}

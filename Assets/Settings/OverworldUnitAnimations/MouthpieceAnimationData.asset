@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 851707bab31073f4d9c72ed92b04ae55, type: 3}
+  m_Name: MouthpieceAnimationData
+  m_EditorClassIdentifier: 
+  animations:
+  - name: IdleSide
+    frames:
+    - {fileID: 21300000, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: IdleUp
+    frames:
+    - {fileID: 21300032, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: IdleDown
+    frames:
+    - {fileID: 21300016, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: RunSide
+    frames:
+    - {fileID: 21300048, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300050, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300052, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300054, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300056, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300058, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300060, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: RunDown
+    frames:
+    - {fileID: 21300062, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300064, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300066, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300068, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300070, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300072, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300074, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: RunUp
+    frames:
+    - {fileID: 21300076, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300078, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300080, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300082, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300084, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300086, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300088, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkSide
+    frames:
+    - {fileID: 21300048, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300050, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300052, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300054, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300056, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300058, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300060, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkDown
+    frames:
+    - {fileID: 21300062, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300064, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300066, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300068, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300070, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300072, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300074, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkUp
+    frames:
+    - {fileID: 21300076, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300078, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300080, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300082, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300084, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300086, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300088, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: TalkSide
+    frames:
+    - {fileID: 21300092, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300090, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: PrepTalkMegaphoneUp
+    frames:
+    - {fileID: 21300032, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300034, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300036, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300038, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300040, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: TalkMegaphoneUp
+    frames:
+    - {fileID: 21300042, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300044, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: PrepTalkMegaphoneDown
+    frames:
+    - {fileID: 21300016, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300018, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300020, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300022, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300024, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: TalkMegaphoneDown
+    frames:
+    - {fileID: 21300026, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300028, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: Idle
+    frames:
+    - {fileID: 21300090, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300092, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 30
+    loop: 0
+  - name: Angry
+    frames:
+    - {fileID: 21300094, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300096, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300098, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300100, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300102, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300104, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 30
+    loop: 0
+  - name: Shocked
+    frames:
+    - {fileID: 21300106, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300108, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300110, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300112, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300114, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300116, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300118, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300120, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 30
+    loop: 0
+  - name: Sad
+    frames:
+    - {fileID: 21300122, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300124, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300126, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300128, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300130, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300132, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300134, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 30
+    loop: 0
+  - name: Laugh
+    frames:
+    - {fileID: 21300136, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300138, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300140, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300142, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300144, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300146, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300148, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300150, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300152, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300154, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 30
+    loop: 0
+  - name: ListenUp
+    frames:
+    - {fileID: 21300156, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300158, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300160, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300162, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300164, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300166, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300168, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 30
+    loop: 0
+  - name: PrepTalkMegaphoneSide
+    frames:
+    - {fileID: 21300000, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300002, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300004, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300006, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300008, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 30
+    loop: 0
+  - name: TalkMegaphoneSide
+    frames:
+    - {fileID: 21300010, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    - {fileID: 21300012, guid: 8963995fbd059c3428b187d985066668, type: 3}
+    framesPerSec: 30
+    loop: 0

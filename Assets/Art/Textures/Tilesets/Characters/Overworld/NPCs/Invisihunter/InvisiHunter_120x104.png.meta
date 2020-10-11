@@ -1,0 +1,3662 @@
+fileFormatVersion: 2
+guid: 80e714d4c6ecead4390471a492e38bab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: InvisiHunter_120x104_0
+  - first:
+      213: 21300002
+    second: InvisiHunter_120x104_1
+  - first:
+      213: 21300004
+    second: InvisiHunter_120x104_2
+  - first:
+      213: 21300006
+    second: InvisiHunter_120x104_3
+  - first:
+      213: 21300008
+    second: InvisiHunter_120x104_4
+  - first:
+      213: 21300010
+    second: InvisiHunter_120x104_5
+  - first:
+      213: 21300012
+    second: InvisiHunter_120x104_6
+  - first:
+      213: 21300014
+    second: InvisiHunter_120x104_7
+  - first:
+      213: 21300016
+    second: InvisiHunter_120x104_8
+  - first:
+      213: 21300018
+    second: InvisiHunter_120x104_9
+  - first:
+      213: 21300020
+    second: InvisiHunter_120x104_10
+  - first:
+      213: 21300022
+    second: InvisiHunter_120x104_11
+  - first:
+      213: 21300024
+    second: InvisiHunter_120x104_12
+  - first:
+      213: 21300026
+    second: InvisiHunter_120x104_13
+  - first:
+      213: 21300028
+    second: InvisiHunter_120x104_14
+  - first:
+      213: 21300030
+    second: InvisiHunter_120x104_15
+  - first:
+      213: 21300032
+    second: InvisiHunter_120x104_16
+  - first:
+      213: 21300034
+    second: InvisiHunter_120x104_17
+  - first:
+      213: 21300036
+    second: InvisiHunter_120x104_18
+  - first:
+      213: 21300038
+    second: InvisiHunter_120x104_19
+  - first:
+      213: 21300040
+    second: InvisiHunter_120x104_20
+  - first:
+      213: 21300042
+    second: InvisiHunter_120x104_21
+  - first:
+      213: 21300044
+    second: InvisiHunter_120x104_22
+  - first:
+      213: 21300046
+    second: InvisiHunter_120x104_23
+  - first:
+      213: 21300048
+    second: InvisiHunter_120x104_24
+  - first:
+      213: 21300050
+    second: InvisiHunter_120x104_25
+  - first:
+      213: 21300052
+    second: InvisiHunter_120x104_26
+  - first:
+      213: 21300054
+    second: InvisiHunter_120x104_27
+  - first:
+      213: 21300056
+    second: InvisiHunter_120x104_28
+  - first:
+      213: 21300058
+    second: InvisiHunter_120x104_29
+  - first:
+      213: 21300060
+    second: InvisiHunter_120x104_30
+  - first:
+      213: 21300062
+    second: InvisiHunter_120x104_31
+  - first:
+      213: 21300064
+    second: InvisiHunter_120x104_32
+  - first:
+      213: 21300066
+    second: InvisiHunter_120x104_33
+  - first:
+      213: 21300068
+    second: InvisiHunter_120x104_34
+  - first:
+      213: 21300070
+    second: InvisiHunter_120x104_35
+  - first:
+      213: 21300072
+    second: InvisiHunter_120x104_36
+  - first:
+      213: 21300074
+    second: InvisiHunter_120x104_37
+  - first:
+      213: 21300076
+    second: InvisiHunter_120x104_38
+  - first:
+      213: 21300078
+    second: InvisiHunter_120x104_39
+  - first:
+      213: 21300080
+    second: InvisiHunter_120x104_40
+  - first:
+      213: 21300082
+    second: InvisiHunter_120x104_41
+  - first:
+      213: 21300084
+    second: InvisiHunter_120x104_42
+  - first:
+      213: 21300086
+    second: InvisiHunter_120x104_43
+  - first:
+      213: 21300088
+    second: InvisiHunter_120x104_44
+  - first:
+      213: 21300090
+    second: InvisiHunter_120x104_45
+  - first:
+      213: 21300092
+    second: InvisiHunter_120x104_46
+  - first:
+      213: 21300094
+    second: InvisiHunter_120x104_47
+  - first:
+      213: 21300096
+    second: InvisiHunter_120x104_48
+  - first:
+      213: 21300098
+    second: InvisiHunter_120x104_49
+  - first:
+      213: 21300100
+    second: InvisiHunter_120x104_50
+  - first:
+      213: 21300102
+    second: InvisiHunter_120x104_51
+  - first:
+      213: 21300104
+    second: InvisiHunter_120x104_52
+  - first:
+      213: 21300106
+    second: InvisiHunter_120x104_53
+  - first:
+      213: 21300108
+    second: InvisiHunter_120x104_54
+  - first:
+      213: 21300110
+    second: InvisiHunter_120x104_55
+  - first:
+      213: 21300112
+    second: InvisiHunter_120x104_56
+  - first:
+      213: 21300114
+    second: InvisiHunter_120x104_57
+  - first:
+      213: 21300116
+    second: InvisiHunter_120x104_58
+  - first:
+      213: 21300118
+    second: InvisiHunter_120x104_59
+  - first:
+      213: 21300120
+    second: InvisiHunter_120x104_60
+  - first:
+      213: 21300122
+    second: InvisiHunter_120x104_61
+  - first:
+      213: 21300124
+    second: InvisiHunter_120x104_62
+  - first:
+      213: 21300126
+    second: InvisiHunter_120x104_63
+  - first:
+      213: 21300128
+    second: InvisiHunter_120x104_64
+  - first:
+      213: 21300130
+    second: InvisiHunter_120x104_65
+  - first:
+      213: 21300132
+    second: InvisiHunter_120x104_66
+  - first:
+      213: 21300134
+    second: InvisiHunter_120x104_67
+  - first:
+      213: 21300136
+    second: InvisiHunter_120x104_68
+  - first:
+      213: 21300138
+    second: InvisiHunter_120x104_69
+  - first:
+      213: 21300140
+    second: InvisiHunter_120x104_70
+  - first:
+      213: 21300142
+    second: InvisiHunter_120x104_71
+  - first:
+      213: 21300144
+    second: InvisiHunter_120x104_72
+  - first:
+      213: 21300146
+    second: InvisiHunter_120x104_73
+  - first:
+      213: 21300148
+    second: InvisiHunter_120x104_74
+  - first:
+      213: 21300150
+    second: InvisiHunter_120x104_75
+  - first:
+      213: 21300152
+    second: InvisiHunter_120x104_76
+  - first:
+      213: 21300154
+    second: InvisiHunter_120x104_77
+  - first:
+      213: 21300156
+    second: InvisiHunter_120x104_78
+  - first:
+      213: 21300158
+    second: InvisiHunter_120x104_79
+  - first:
+      213: 21300160
+    second: InvisiHunter_120x104_80
+  - first:
+      213: 21300162
+    second: InvisiHunter_120x104_81
+  - first:
+      213: 21300164
+    second: InvisiHunter_120x104_82
+  - first:
+      213: 21300166
+    second: InvisiHunter_120x104_84
+  - first:
+      213: 21300168
+    second: InvisiHunter_120x104_85
+  - first:
+      213: 21300170
+    second: InvisiHunter_120x104_86
+  - first:
+      213: 21300172
+    second: InvisiHunter_120x104_87
+  - first:
+      213: 21300174
+    second: InvisiHunter_120x104_88
+  - first:
+      213: 21300176
+    second: InvisiHunter_120x104_89
+  - first:
+      213: 21300178
+    second: InvisiHunter_120x104_90
+  - first:
+      213: 21300180
+    second: InvisiHunter_120x104_91
+  - first:
+      213: 21300182
+    second: InvisiHunter_120x104_92
+  - first:
+      213: 21300184
+    second: InvisiHunter_120x104_93
+  - first:
+      213: 21300186
+    second: InvisiHunter_120x104_94
+  - first:
+      213: 21300188
+    second: InvisiHunter_120x104_95
+  - first:
+      213: 21300190
+    second: InvisiHunter_120x104_96
+  - first:
+      213: 21300192
+    second: InvisiHunter_120x104_97
+  - first:
+      213: 21300194
+    second: InvisiHunter_120x104_99
+  - first:
+      213: 21300196
+    second: InvisiHunter_120x104_100
+  - first:
+      213: 21300198
+    second: InvisiHunter_120x104_101
+  - first:
+      213: 21300200
+    second: InvisiHunter_120x104_102
+  - first:
+      213: 21300202
+    second: InvisiHunter_120x104_103
+  - first:
+      213: 21300204
+    second: InvisiHunter_120x104_104
+  - first:
+      213: 21300206
+    second: InvisiHunter_120x104_105
+  - first:
+      213: 21300208
+    second: InvisiHunter_120x104_106
+  - first:
+      213: 21300210
+    second: InvisiHunter_120x104_107
+  - first:
+      213: 21300212
+    second: InvisiHunter_120x104_108
+  - first:
+      213: 21300214
+    second: InvisiHunter_120x104_109
+  - first:
+      213: 21300216
+    second: InvisiHunter_120x104_110
+  - first:
+      213: 21300218
+    second: InvisiHunter_120x104_111
+  - first:
+      213: 21300220
+    second: InvisiHunter_120x104_112
+  - first:
+      213: 21300222
+    second: InvisiHunter_120x104_113
+  - first:
+      213: 21300224
+    second: InvisiHunter_120x104_114
+  - first:
+      213: 21300226
+    second: InvisiHunter_120x104_115
+  - first:
+      213: 21300228
+    second: InvisiHunter_120x104_116
+  - first:
+      213: 21300230
+    second: InvisiHunter_120x104_117
+  - first:
+      213: 21300232
+    second: InvisiHunter_120x104_118
+  - first:
+      213: 21300234
+    second: InvisiHunter_120x104_119
+  - first:
+      213: 21300236
+    second: InvisiHunter_120x104_120
+  - first:
+      213: 21300238
+    second: InvisiHunter_120x104_121
+  - first:
+      213: 21300240
+    second: InvisiHunter_120x104_122
+  - first:
+      213: 21300242
+    second: InvisiHunter_120x104_123
+  - first:
+      213: 21300244
+    second: InvisiHunter_120x104_124
+  - first:
+      213: 21300246
+    second: InvisiHunter_120x104_125
+  - first:
+      213: 21300248
+    second: InvisiHunter_120x104_126
+  - first:
+      213: 21300250
+    second: InvisiHunter_120x104_127
+  - first:
+      213: 21300252
+    second: InvisiHunter_120x104_128
+  - first:
+      213: 21300254
+    second: InvisiHunter_120x104_129
+  - first:
+      213: 21300256
+    second: InvisiHunter_120x104_130
+  - first:
+      213: 21300258
+    second: InvisiHunter_120x104_131
+  - first:
+      213: 21300260
+    second: InvisiHunter_120x104_132
+  - first:
+      213: 21300262
+    second: InvisiHunter_120x104_133
+  - first:
+      213: 21300264
+    second: InvisiHunter_120x104_134
+  - first:
+      213: 21300266
+    second: InvisiHunter_120x104_135
+  - first:
+      213: 21300268
+    second: InvisiHunter_120x104_136
+  - first:
+      213: 21300270
+    second: InvisiHunter_120x104_137
+  - first:
+      213: 21300272
+    second: InvisiHunter_120x104_138
+  - first:
+      213: 21300274
+    second: InvisiHunter_120x104_139
+  - first:
+      213: 21300276
+    second: InvisiHunter_120x104_140
+  - first:
+      213: 21300278
+    second: InvisiHunter_120x104_141
+  - first:
+      213: 21300280
+    second: InvisiHunter_120x104_142
+  - first:
+      213: 21300282
+    second: InvisiHunter_120x104_143
+  - first:
+      213: 21300284
+    second: InvisiHunter_120x104_144
+  - first:
+      213: 21300286
+    second: InvisiHunter_120x104_145
+  - first:
+      213: 21300288
+    second: InvisiHunter_120x104_146
+  - first:
+      213: 21300290
+    second: InvisiHunter_120x104_147
+  - first:
+      213: 21300292
+    second: InvisiHunter_120x104_148
+  - first:
+      213: 21300294
+    second: InvisiHunter_120x104_149
+  - first:
+      213: 21300296
+    second: InvisiHunter_120x104_83
+  - first:
+      213: 21300298
+    second: InvisiHunter_120x104_98
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03585717ed7978d41aeca3a22c526074
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 832
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4464796d48b441a685eed2df35836
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 832
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d6cacbe4a2a544490a790314d73f43
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 832
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e260d75624d7454e8f331205a731091
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 832
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7030ab0253b60174b97570f5387cbfdf
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69caf71a631532e4bacac257f7715a53
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ce1ccd106af20438dbcdf3d2c47b04
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630a112e3b5b1e142ac4c017e7a6fb19
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0887f6417d2e5ec429eb0f01972e045e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b292a5ec8952743bc3bf10f15e5110
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9571769eb8fcd7e40b2d8926f923c3fe
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cadd932b3195624c8953c153b1ac5d4
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7015d4a698fe254ba26d11ef1cb22b6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438cc2e6e36c7bc4e9e1d36b3e7e1591
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4950bc02264534546887ea56d0c0b33d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_15
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c28c1a6ee1b5641935265e08ae6315
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_16
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b3fcd22f975f43860302210dbefd9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f36b9f20f69c49bccb89518e67554
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_18
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9904badf0d06d704db734cfddc278262
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_19
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 728
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32801c83687f5d4398785a4532ccee9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19ef82ce816fa44928a24e60f09ede
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88032aba62a1f248b1bc7a03d06a5ea
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b974fef86778e5a479de3e0774ff3c2e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ada0c9858c2004693159f4d7c6a397
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353b181c6727f37419ecdb1d1a2d83f8
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f2ff9611148744fa757783085226de
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d7ab71fb0888c41aaa224529739ef1
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6d304e2b83d3449c73a0c40262b1c
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcefa6913d659040bbde53c14eed9a5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f96fc4062550449de3edd69352ba2
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bebea63f2b90f47ab557a5ece60150
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_31
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4667b7564a5dd4bb6d217404efd6aa
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_32
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50be54e1971bb924b818b7dee373684d
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_33
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a649976693a2c48bf08ec277b90451
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_34
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4deecdf4d6283340bad94d519daf27a
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_35
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b5a950f84eaa541aa49fd86c0ab9ad
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_36
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b32755b8f18c4682ffd48335a606c
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_37
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c206ce1f67d35a4684c3ac6bb550702
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 624
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b28981d9b2ddc44918e1d8baedc024
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e4e873849f1d4299ea83a87e5e65c
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2a3ddf5cce6944ab3cc69c56175eb9
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c610901124cb944b8003d3bd2c52434
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f6ac5b17edbe42820ff7288d4e421
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88361e1aa701d1b42af5030b84785422
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b863d0fa27aaa4e80d0f7fa58fe09e
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87301ffeb706d6e4a98a08873c31ac2b
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_46
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c067c8502f1828a40849a9cbd3b77aca
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e0bb9d95c0985479a7fa30c2c46079
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_48
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de34e160ad63004e9e4220737542e9f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a70f6cb292bce4e84d06d5980c57b7
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_50
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eee33c31ce68c4da556b9452bf52ae
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_51
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a3b63561a3ea40b23f6adb78b864c
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_52
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5babea0a727aab14d888a4a92f2c8ece
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_53
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd36b444379028d488f5abf045094d37
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_54
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 520
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2475dd659fb38904a847b4c1422e2e95
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba7fbd9493a0844b6456be7e507123
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d70b773e56a44d98166af1524c310
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_57
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ff2bab2eb0e354da8dba733eab4b78
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653530a39c782c044a13decdf118e7ae
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3259bccb2756640b461514cb389783
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f4f796809e5d54284ab0bf67f3b117
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_61
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9b4266f1ed78478fe14a13e092bcb
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_62
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32479efa7f0ce34385ae8f6d5a2099a
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_63
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626073c42e781464bb503b2ab6b27f4a
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_64
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce39ef16c4931e438153c9fa9d323c9
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac2a571ae80af49a1ee28d0f4a358d
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_66
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4fcefa9cce06348a19882b57463041
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_67
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7dc68963dce56499ab116e67760254
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_68
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbf4ba8f8b6af04f99447a63be285ee
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_69
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd99a19784bd24d9819886cabee2e1
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_70
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a51231b4486240884538af0f0fdaa
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_71
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 416
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9890847bd5d6f524d81586cf459fded0
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4630470a66baf4a9e7e154058d6b96
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74922f82fead2084a93c6ed765d7212f
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a5ac51364633246b74a135b49a9316
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf8afdec955d9428895d6698e581df
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00176b9c7e38e343a1317dd2b24c58b
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_77
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ba7dd8bcd7dc4a92c7cb424b40519
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_78
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4bee2710fcf494ba10766488e8f568
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_79
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ad58c62a32ee04bb89948849ad0c99
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_80
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ebc0c7eaa9a54da0fbd9e522f1ec9
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_81
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61ee3031bf5bf4c924357306c23016
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8909f6943a86841b586fd6786f2e77
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_83
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dfe03ba6dd0bb49bf21fb8fb6f7626
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_84
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd901b30c042d734a90207feea72993a
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_85
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5706f80c7dbd2ad42b465277cd1c12ed
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_86
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837830d6bacd8345906c402b7cc3db8
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_87
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8017a6b755c819840ac821daaaa6774f
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_88
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5539d0b1bf2df6a41b6893938f81f5e7
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_89
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b002d1feb06b4997921c304043c7c
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_90
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd558058a5b55b4c99d9de8d7ddf116
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_91
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1cbe63e4ab89043b60db65f42e9cc9
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_92
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b7f040d31fae94084b738a94f58526
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_93
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec824780ec496741b99d0bf9da36bf6
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_94
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6645f3b275ecc214a9e4b84463bc45b5
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_95
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e41149819daa9418e5d1b13f820213
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_96
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf3854dd2fc1014f97566ff023e5f60
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_97
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa67b415bb2aac0459cfb7e81a180172
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_98
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 312
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974245579a78ba74981728b88ca955da
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1356dfc71217aa4580077f4b71e19b4
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87cadc85876b8f44ae80480cb48146e
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60b2a1723b17474c95152b5da7a8f4e
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_102
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bd1b6a926d9f04e8f23afed5739b73
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_103
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae0b5eef4179904e9a11a58620d01b9
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_104
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931807416cfb23a469fa051c78234716
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_105
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62671e02850ce9e4a89c342afd80a2b6
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_106
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f87406f5559de4f9f167069833b9ac
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_107
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee227b8e3525cbc4898cff83bf2a69fb
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_108
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d61e857b6450234a9e7d93e5a5e7444
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_109
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3aceeff9accb4585bc81caf86b3fa
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_110
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c162afedb50ef40a39598dffec038f
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_111
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183d9b637edd8b846ac9b3d56b9f80d1
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_112
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 208
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9d2bcf4ebb1504e8869aaf8d401682
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eec46079c6bbfe41ba68f4266bec11a
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_114
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31d4a0b2c7376469314edfe8645c04
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 104
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d56d9e74ffabf149b76f9e58a27e763
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_116
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 104
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a561df6538ea7244d9c28aa88a794f34
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 104
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de5dc4d5c44c67449fc01aea7780a85
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_118
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 104
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3018fb39bf4d09340b50f8b97273b580
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_119
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 104
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9328735382ad8654094e92cb7a8fcaf5
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_120
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 104
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2202d6a3ab3b63d4aa7058fc1ffb0518
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719050cc89650614885e736c682ad823
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_122
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0442890649dd3164daa27aa38bde0076
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_123
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fe519aef281ad49974c5ada3034571
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_124
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9603be24cc3f540843a336c094f2d4
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee28cf9621177dc4fbd116f669155ad2
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_126
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bf74d2a6042b64686ba360587d7c20
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_127
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb5557ce29aab244b93cd04c31005b3
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_128
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3160054a5c1e4be44af3ccbbfdfffa61
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_129
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5653927b2ec5a647bc2a9cf642ec9b5
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_130
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6e9b864a38eb4993a0a139b68983d
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_131
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0195cd0d26b8f05469e7d78ab385c3f6
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_132
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d130434b413ee4cb608cd281365d87
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_133
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef137e10567b43343b52a74fd1d6c641
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_134
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4984386faedc84fac6a7af2a972a3d
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_135
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8758addcd6576246b9793086496c55c
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_136
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a2ad4c3363ef48af8db2f0339d04b
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_137
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d558885696f08d4a9f9e87f8d5f0dee
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_138
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d038f3bd81f124458a81b9367b314fd
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_139
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1057b728c2c8982498441d0a580f9de8
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_140
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb60c463d6ed844a67858583cca375
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_141
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a5a89f6ccc4fe459ae4c3c97ca7d1d
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_142
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f834c515cde77804a8447d319914c781
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_143
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472225e104a86a6419b177252e90a88d
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_144
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a3db9f8366024ca80e8887611058f
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_145
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e63af704fceee40bb0d97049bfd6c4
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_146
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32c991262c7cc74b8bf1fa24a6be224
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InvisiHunter_120x104_147
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 0
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9bb564e60353644b1b1c2d775c1c04
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ff92d6cf9b5320941a1fee7ef18b5b50
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

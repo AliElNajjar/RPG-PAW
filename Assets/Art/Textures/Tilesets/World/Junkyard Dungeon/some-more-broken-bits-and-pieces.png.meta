@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: 9245b9daed94ded4386018f0183204d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: some-more-broken-bits-and-pieces_0
+  - first:
+      213: 21300002
+    second: some-more-broken-bits-and-pieces_1
+  - first:
+      213: 21300004
+    second: some-more-broken-bits-and-pieces_2
+  - first:
+      213: 21300006
+    second: some-more-broken-bits-and-pieces_3
+  - first:
+      213: 21300008
+    second: some-more-broken-bits-and-pieces_4
+  - first:
+      213: 21300010
+    second: some-more-broken-bits-and-pieces_5
+  - first:
+      213: 21300012
+    second: some-more-broken-bits-and-pieces_6
+  - first:
+      213: 21300014
+    second: some-more-broken-bits-and-pieces_7
+  - first:
+      213: 21300016
+    second: some-more-broken-bits-and-pieces_8
+  - first:
+      213: 21300018
+    second: some-more-broken-bits-and-pieces_9
+  - first:
+      213: 21300020
+    second: some-more-broken-bits-and-pieces_10
+  - first:
+      213: 21300022
+    second: some-more-broken-bits-and-pieces_11
+  - first:
+      213: 21300024
+    second: some-more-broken-bits-and-pieces_12
+  - first:
+      213: 21300026
+    second: some-more-broken-bits-and-pieces_13
+  - first:
+      213: 21300028
+    second: some-more-broken-bits-and-pieces_14
+  - first:
+      213: 21300030
+    second: some-more-broken-bits-and-pieces_15
+  - first:
+      213: 21300032
+    second: some-more-broken-bits-and-pieces_16
+  - first:
+      213: 21300034
+    second: some-more-broken-bits-and-pieces_17
+  - first:
+      213: 21300036
+    second: some-more-broken-bits-and-pieces_18
+  - first:
+      213: 21300038
+    second: some-more-broken-bits-and-pieces_19
+  - first:
+      213: 21300040
+    second: some-more-broken-bits-and-pieces_20
+  - first:
+      213: 21300042
+    second: some-more-broken-bits-and-pieces_21
+  - first:
+      213: 21300044
+    second: some-more-broken-bits-and-pieces_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440a9c4f40bb018468acede53bb81e70
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc1be5cce13a024b859d6af70e92ccc
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 164
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e77136c7e25110468236cf65b598906
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 164
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6829265346321447997f5385129f395
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991fcad543ee14a4aa1c9f3e32773756
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 159
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7568d07513330634aa8c7dcb148e4c88
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 137
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34e1454412ee4d448d9cec2796f3736
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5555397ad2acc448f6ed58d8163fbc
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 108
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c0934b9e9d23548bd179ee8c1a374a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 114
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f63bfdc08cf8d842a2b82e189efdace
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 115
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c112be4edf0816247a7dc6b6ac030b70
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 115
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c905fd68a3b21418712109a58e510b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 59
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94666e4ee0a07846a4e4258f0828b19
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 68
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d914f788cbe177f498667637e3d5e08b
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 72
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d8f69322c7b174ca1705b9c0991c21
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 80
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edc958e3f6714246ae53d9058796965
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 75
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64750ee61e9d324099054980c3cecef
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_17
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 79
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de98629d21130a14ca8c9fac23f8fa16
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 28
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959daa5bf532a9341bd3a3e9ba68ba86
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 42
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec5152f48452b346b8a0656505b7e74
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 42
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce661b6d0879142b2fb8e84a381d86
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_21
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 32
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf14ee219bb888344972d92baf69135c
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some-more-broken-bits-and-pieces_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 25
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1886bef182441741918578683d7ad55
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 314ea217cbfad8542a4e0492e42b1a04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

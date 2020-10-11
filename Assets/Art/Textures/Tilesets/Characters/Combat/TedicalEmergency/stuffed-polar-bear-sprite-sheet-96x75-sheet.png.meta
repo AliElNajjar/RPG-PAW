@@ -1,0 +1,1760 @@
+fileFormatVersion: 2
+guid: 5ede912090be9ac40ad4a23d9a4c0153
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_0
+  - first:
+      213: 21300002
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_1
+  - first:
+      213: 21300004
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_2
+  - first:
+      213: 21300006
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_3
+  - first:
+      213: 21300008
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_4
+  - first:
+      213: 21300010
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_5
+  - first:
+      213: 21300012
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_6
+  - first:
+      213: 21300014
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_7
+  - first:
+      213: 21300016
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_8
+  - first:
+      213: 21300018
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_9
+  - first:
+      213: 21300020
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_10
+  - first:
+      213: 21300022
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_11
+  - first:
+      213: 21300024
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_12
+  - first:
+      213: 21300026
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_13
+  - first:
+      213: 21300028
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_14
+  - first:
+      213: 21300030
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_15
+  - first:
+      213: 21300032
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_16
+  - first:
+      213: 21300034
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_17
+  - first:
+      213: 21300036
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_18
+  - first:
+      213: 21300038
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_19
+  - first:
+      213: 21300040
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_20
+  - first:
+      213: 21300042
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_21
+  - first:
+      213: 21300044
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_22
+  - first:
+      213: 21300046
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_23
+  - first:
+      213: 21300048
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_24
+  - first:
+      213: 21300050
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_25
+  - first:
+      213: 21300052
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_26
+  - first:
+      213: 21300054
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_27
+  - first:
+      213: 21300056
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_28
+  - first:
+      213: 21300058
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_29
+  - first:
+      213: 21300060
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_30
+  - first:
+      213: 21300062
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_31
+  - first:
+      213: 21300064
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_32
+  - first:
+      213: 21300066
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_33
+  - first:
+      213: 21300068
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_34
+  - first:
+      213: 21300070
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_35
+  - first:
+      213: 21300072
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_36
+  - first:
+      213: 21300074
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_37
+  - first:
+      213: 21300076
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_38
+  - first:
+      213: 21300078
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_39
+  - first:
+      213: 21300080
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_40
+  - first:
+      213: 21300082
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_41
+  - first:
+      213: 21300084
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_42
+  - first:
+      213: 21300086
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_43
+  - first:
+      213: 21300088
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_44
+  - first:
+      213: 21300090
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_45
+  - first:
+      213: 21300092
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_46
+  - first:
+      213: 21300094
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_47
+  - first:
+      213: 21300096
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_48
+  - first:
+      213: 21300098
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_49
+  - first:
+      213: 21300100
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_50
+  - first:
+      213: 21300102
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_51
+  - first:
+      213: 21300104
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_52
+  - first:
+      213: 21300106
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_53
+  - first:
+      213: 21300108
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_54
+  - first:
+      213: 21300110
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_55
+  - first:
+      213: 21300112
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_56
+  - first:
+      213: 21300114
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_57
+  - first:
+      213: 21300116
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_58
+  - first:
+      213: 21300118
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_59
+  - first:
+      213: 21300120
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_60
+  - first:
+      213: 21300122
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_61
+  - first:
+      213: 21300124
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_62
+  - first:
+      213: 21300126
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_63
+  - first:
+      213: 21300128
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_64
+  - first:
+      213: 21300130
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_65
+  - first:
+      213: 21300132
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_66
+  - first:
+      213: 21300134
+    second: stuffed-polar-bear-sprite-sheet-96x75-sheet_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1466d2ba71939524db9f26c940d676e5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 450
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4572131b1f459e409978f70e4437d46
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 450
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6018b3428a0fa488ffca6e256c5086
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 450
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807e82728337d084f817e5caffee1c22
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 450
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9a200461e4cf04c83c70753ebfe2e6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd21f73fde8f49e4b8bb0d85a34b9bc2
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 375
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c29564e9ab9a4487a9220ea38ca56
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 375
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcd98400434bd544be81f6999071b95
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 375
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4fdf570e73d2841acd9083caa6f60e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 375
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc141dac4e70e64c99ab18d1404d2cc
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 375
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b8f15592952f4fbebb6ae146cdb9d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83052f1f655b59429d6019f349965fe
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6779d4ef06af4b47a0d52ef21acd187
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87c62724506aa45bb2c4c3ce6a52f3
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5aeccfe28f6e54e85e479339c935b2
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c9d0b869b3114408e0cef087fdec65
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9997f9fd860528f4ead318aad2790976
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdca935edb606fc45b4615a719d7044a
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28938207fafbb84984dbb94f686df58
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7dd53c63258864d9f3e9a1fbe1f8bc
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593707b30cb71554c90333c345178509
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55654349977ff4d88819618edad8a2
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b6abe5fa31d34099135ba8eba1bc9
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c145db5fea23e41ab595b12c084f5f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 300
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ee1ca48ed64b478cfd98825dfa05d
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b38879883666154dae4b7f58a93b74a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c1e245f3229fc4db531c4738cc46fc
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917894ff67ca28d44a67b44ff14861dd
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5921b01e5ea62c542aebcbdb53600f18
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5a1bdebcba7f40972fb0192868dc0
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fecf64f03dfd464daa155c16dcce6f2
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdc65a664f91ea4caadf3b93f6a840d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0887e9efca974488cb2b4b1ccb01d9
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a1bd487d68c6478fbd8f18dc3073a
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed153f2d11bab0f44940f9ce3558af0f
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7678c927686b9442853a80b28969e9f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 225
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5e6894d9084f44ba10cfb163f4f373
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd51dd51c0b0794e9e8ba617948b97d
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e94472282c97c40af4ffb43a254f2f
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b296ded3616af7439975c7ccd489083
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3581123a3840af458d1763e2d0c052a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465af5a49dba86b4699963890d2dec1d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b1feeb005db14f990ffb2cca9d3c4
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79121f5260028fa408909c6f55b20b6b
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131a647a17dc1f34191f28564537bd54
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb55308ca5126224bac58fab15cfe801
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67145aef5412eb4a86f68606ad70cb2
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415eab84a54efdd4ea332388fa37c9c7
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd9816504665d54b977b3a5a88b634b
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc48076bcdaf52642ae86df7bd82f0e9
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 150
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599086804a364b4db3f2e566af218b4
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 75
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13ee241c9813a3428389cd676c46752
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 75
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c56aee1e915bcc42a25f4b8d6eb2f05
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 75
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ec0b87a98e32343ade6d0b1eaf41f7
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 75
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a84ee4dc5e6d143888a3f2656adec4
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 75
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b721ff3cb3df8d14aa3ca5cdd63dbe64
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 75
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e1fca9cf9bef4c88ad4d359ea1eb8
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 75
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057d4b9887bc26446bb6323cb6aa108d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 75
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a860043beb6a48b8e07c45f0b4ea9
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3437ae9950612234c87c41e029f794a3
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bcc270b6675d44e92f0e80dedcf3c8
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18459ab85db8f0489a8ecccf6cf114c
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3110ee8b93a3469c373d53d23d78f
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c947cf335979fc742a10ea036aa208de
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5a40a2ceef1b4fba351193c92e727
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7a889d32f11c489153622861c3d92
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8a2d314f22e2941b9697106e8c4140
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stuffed-polar-bear-sprite-sheet-96x75-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 96
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e93fb9b73fa89545855b244a2941048
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 348bb0f8fe02af44da4cd1ab6c153a5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

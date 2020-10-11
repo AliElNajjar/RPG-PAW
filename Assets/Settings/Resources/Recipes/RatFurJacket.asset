@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03348cbbfbe57549887e52c6eacae17, type: 3}
+  m_Name: RatFurJacket
+  m_EditorClassIdentifier: 
+  output: {fileID: 0}
+  ingredients:
+  - ingredient: {fileID: 3533412394276050327, guid: 57b6e02b9b2ae7b47870d1a0c7e8a424,
+      type: 3}
+    amount: 1
+  - ingredient: {fileID: 3533412394276050327, guid: 2ed294171daef8046a4ab1f686130f7c,
+      type: 3}
+    amount: 1
+  - ingredient: {fileID: 3533412394276050327, guid: 4ecc9eb1fc581244daba2445f22b4a7a,
+      type: 3}
+    amount: 1
+  gridPos: {x: 0, y: 0}

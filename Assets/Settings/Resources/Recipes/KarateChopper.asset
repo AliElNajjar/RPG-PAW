@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03348cbbfbe57549887e52c6eacae17, type: 3}
+  m_Name: KarateChopper
+  m_EditorClassIdentifier: 
+  output: {fileID: 1958456107237814482, guid: 79976b81b8ef84f45bc5cdcb9e8f63f4, type: 3}
+  ingredients:
+  - ingredient: {fileID: 2288014526910608980, guid: 6f4cb9bb7ef84a04abb55a175a1f450f,
+      type: 3}
+    amount: 2
+  - ingredient: {fileID: 2288014526910608980, guid: 6567f23631ca766498fb0a2a5e7314a4,
+      type: 3}
+    amount: 1
+  - ingredient: {fileID: 4088391613208810593, guid: 37f64c177f8799d4f8ed579f35dad51b,
+      type: 3}
+    amount: 1
+  gridPos: {x: 0, y: 0}

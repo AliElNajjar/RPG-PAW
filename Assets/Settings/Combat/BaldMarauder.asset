@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ffed36539b1614c8981851b5a9e67d, type: 3}
+  m_Name: BaldMarauder
+  m_EditorClassIdentifier: 
+  overWorldAnimations: {fileID: 0}
+  initiativeSprite: {fileID: 21300010, guid: 6ab385ba6dbe65147b63475a48b810e8, type: 3}
+  unitSkills: []
+  tagTeamManeuvers: []
+  tripleTagTeamManeuvers: []
+  enemyUnit:
+    unitName: Bald Marauder
+    level:
+      currentLevel: 1
+      currentExperience: 0
+    battleId: 0
+    strength:
+      baseValue: 15
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 15
+    speed:
+      baseValue: 4
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 4
+    sturdiness:
+      baseValue: 44
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 10
+    charisma:
+      baseValue: 2
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 2
+    talent:
+      baseValue: 5
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 5
+    luck:
+      baseValue: 5
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 5
+    accuracy:
+      baseValue: 20
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 20
+    defense:
+      baseValue: 1
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 1
+    dodge:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    resist:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    critChance:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    currentHealth:
+      baseValue: 600
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 600
+    currentActionPoints:
+      baseValue: 50
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 50
+    mainDamageSource: 0
+    damageType: 0
+    dmgCut: 1
+    unitType: 1
+    currentAilment: 0
+    expGiven: 270
+    goldGiven: 350
+    itemDrops:
+    - {fileID: 1886208852802351624, guid: 3246151d7cfc93c429274a984c424fb7, type: 3}
+  unitPrefab: {fileID: 187, guid: 54de6bf248a770645988f413212a4904, type: 3}

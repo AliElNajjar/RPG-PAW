@@ -1,0 +1,5576 @@
+fileFormatVersion: 2
+guid: d934b0a8aabca124a86e682fa8b741ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: __JUNGLAJI COMPLETE_0
+  - first:
+      213: 21300002
+    second: __JUNGLAJI COMPLETE_1
+  - first:
+      213: 21300004
+    second: __JUNGLAJI COMPLETE_2
+  - first:
+      213: 21300006
+    second: __JUNGLAJI COMPLETE_3
+  - first:
+      213: 21300008
+    second: __JUNGLAJI COMPLETE_4
+  - first:
+      213: 21300010
+    second: __JUNGLAJI COMPLETE_5
+  - first:
+      213: 21300012
+    second: __JUNGLAJI COMPLETE_6
+  - first:
+      213: 21300014
+    second: __JUNGLAJI COMPLETE_7
+  - first:
+      213: 21300016
+    second: __JUNGLAJI COMPLETE_8
+  - first:
+      213: 21300018
+    second: __JUNGLAJI COMPLETE_9
+  - first:
+      213: 21300020
+    second: __JUNGLAJI COMPLETE_10
+  - first:
+      213: 21300022
+    second: __JUNGLAJI COMPLETE_11
+  - first:
+      213: 21300024
+    second: __JUNGLAJI COMPLETE_12
+  - first:
+      213: 21300026
+    second: __JUNGLAJI COMPLETE_13
+  - first:
+      213: 21300028
+    second: __JUNGLAJI COMPLETE_14
+  - first:
+      213: 21300030
+    second: __JUNGLAJI COMPLETE_15
+  - first:
+      213: 21300032
+    second: __JUNGLAJI COMPLETE_16
+  - first:
+      213: 21300034
+    second: __JUNGLAJI COMPLETE_17
+  - first:
+      213: 21300036
+    second: __JUNGLAJI COMPLETE_18
+  - first:
+      213: 21300038
+    second: __JUNGLAJI COMPLETE_19
+  - first:
+      213: 21300040
+    second: __JUNGLAJI COMPLETE_20
+  - first:
+      213: 21300042
+    second: __JUNGLAJI COMPLETE_21
+  - first:
+      213: 21300044
+    second: __JUNGLAJI COMPLETE_22
+  - first:
+      213: 21300046
+    second: __JUNGLAJI COMPLETE_23
+  - first:
+      213: 21300048
+    second: __JUNGLAJI COMPLETE_24
+  - first:
+      213: 21300050
+    second: __JUNGLAJI COMPLETE_25
+  - first:
+      213: 21300052
+    second: __JUNGLAJI COMPLETE_26
+  - first:
+      213: 21300054
+    second: __JUNGLAJI COMPLETE_27
+  - first:
+      213: 21300056
+    second: __JUNGLAJI COMPLETE_28
+  - first:
+      213: 21300058
+    second: __JUNGLAJI COMPLETE_29
+  - first:
+      213: 21300060
+    second: __JUNGLAJI COMPLETE_30
+  - first:
+      213: 21300062
+    second: __JUNGLAJI COMPLETE_31
+  - first:
+      213: 21300064
+    second: __JUNGLAJI COMPLETE_32
+  - first:
+      213: 21300066
+    second: __JUNGLAJI COMPLETE_33
+  - first:
+      213: 21300068
+    second: __JUNGLAJI COMPLETE_34
+  - first:
+      213: 21300070
+    second: __JUNGLAJI COMPLETE_35
+  - first:
+      213: 21300072
+    second: __JUNGLAJI COMPLETE_36
+  - first:
+      213: 21300074
+    second: __JUNGLAJI COMPLETE_37
+  - first:
+      213: 21300076
+    second: __JUNGLAJI COMPLETE_38
+  - first:
+      213: 21300078
+    second: __JUNGLAJI COMPLETE_39
+  - first:
+      213: 21300080
+    second: __JUNGLAJI COMPLETE_40
+  - first:
+      213: 21300082
+    second: __JUNGLAJI COMPLETE_41
+  - first:
+      213: 21300084
+    second: __JUNGLAJI COMPLETE_42
+  - first:
+      213: 21300086
+    second: __JUNGLAJI COMPLETE_43
+  - first:
+      213: 21300088
+    second: __JUNGLAJI COMPLETE_44
+  - first:
+      213: 21300090
+    second: __JUNGLAJI COMPLETE_45
+  - first:
+      213: 21300092
+    second: __JUNGLAJI COMPLETE_46
+  - first:
+      213: 21300094
+    second: __JUNGLAJI COMPLETE_47
+  - first:
+      213: 21300096
+    second: __JUNGLAJI COMPLETE_48
+  - first:
+      213: 21300098
+    second: __JUNGLAJI COMPLETE_49
+  - first:
+      213: 21300100
+    second: __JUNGLAJI COMPLETE_50
+  - first:
+      213: 21300102
+    second: __JUNGLAJI COMPLETE_51
+  - first:
+      213: 21300104
+    second: __JUNGLAJI COMPLETE_52
+  - first:
+      213: 21300106
+    second: __JUNGLAJI COMPLETE_53
+  - first:
+      213: 21300108
+    second: __JUNGLAJI COMPLETE_54
+  - first:
+      213: 21300110
+    second: __JUNGLAJI COMPLETE_55
+  - first:
+      213: 21300112
+    second: __JUNGLAJI COMPLETE_56
+  - first:
+      213: 21300114
+    second: __JUNGLAJI COMPLETE_57
+  - first:
+      213: 21300116
+    second: __JUNGLAJI COMPLETE_58
+  - first:
+      213: 21300118
+    second: __JUNGLAJI COMPLETE_59
+  - first:
+      213: 21300120
+    second: __JUNGLAJI COMPLETE_60
+  - first:
+      213: 21300122
+    second: __JUNGLAJI COMPLETE_61
+  - first:
+      213: 21300124
+    second: __JUNGLAJI COMPLETE_62
+  - first:
+      213: 21300126
+    second: __JUNGLAJI COMPLETE_63
+  - first:
+      213: 21300128
+    second: __JUNGLAJI COMPLETE_64
+  - first:
+      213: 21300130
+    second: __JUNGLAJI COMPLETE_65
+  - first:
+      213: 21300132
+    second: __JUNGLAJI COMPLETE_66
+  - first:
+      213: 21300134
+    second: __JUNGLAJI COMPLETE_67
+  - first:
+      213: 21300136
+    second: __JUNGLAJI COMPLETE_68
+  - first:
+      213: 21300138
+    second: __JUNGLAJI COMPLETE_69
+  - first:
+      213: 21300140
+    second: __JUNGLAJI COMPLETE_70
+  - first:
+      213: 21300142
+    second: __JUNGLAJI COMPLETE_71
+  - first:
+      213: 21300144
+    second: __JUNGLAJI COMPLETE_72
+  - first:
+      213: 21300146
+    second: __JUNGLAJI COMPLETE_73
+  - first:
+      213: 21300148
+    second: __JUNGLAJI COMPLETE_74
+  - first:
+      213: 21300150
+    second: __JUNGLAJI COMPLETE_75
+  - first:
+      213: 21300152
+    second: __JUNGLAJI COMPLETE_76
+  - first:
+      213: 21300154
+    second: __JUNGLAJI COMPLETE_77
+  - first:
+      213: 21300156
+    second: __JUNGLAJI COMPLETE_78
+  - first:
+      213: 21300158
+    second: __JUNGLAJI COMPLETE_79
+  - first:
+      213: 21300160
+    second: __JUNGLAJI COMPLETE_80
+  - first:
+      213: 21300162
+    second: __JUNGLAJI COMPLETE_81
+  - first:
+      213: 21300164
+    second: __JUNGLAJI COMPLETE_82
+  - first:
+      213: 21300166
+    second: __JUNGLAJI COMPLETE_83
+  - first:
+      213: 21300168
+    second: __JUNGLAJI COMPLETE_84
+  - first:
+      213: 21300170
+    second: __JUNGLAJI COMPLETE_85
+  - first:
+      213: 21300172
+    second: __JUNGLAJI COMPLETE_86
+  - first:
+      213: 21300174
+    second: __JUNGLAJI COMPLETE_87
+  - first:
+      213: 21300176
+    second: __JUNGLAJI COMPLETE_88
+  - first:
+      213: 21300178
+    second: __JUNGLAJI COMPLETE_89
+  - first:
+      213: 21300180
+    second: __JUNGLAJI COMPLETE_90
+  - first:
+      213: 21300182
+    second: __JUNGLAJI COMPLETE_91
+  - first:
+      213: 21300184
+    second: __JUNGLAJI COMPLETE_92
+  - first:
+      213: 21300186
+    second: __JUNGLAJI COMPLETE_93
+  - first:
+      213: 21300188
+    second: __JUNGLAJI COMPLETE_94
+  - first:
+      213: 21300190
+    second: __JUNGLAJI COMPLETE_95
+  - first:
+      213: 21300192
+    second: __JUNGLAJI COMPLETE_96
+  - first:
+      213: 21300194
+    second: __JUNGLAJI COMPLETE_97
+  - first:
+      213: 21300196
+    second: __JUNGLAJI COMPLETE_98
+  - first:
+      213: 21300198
+    second: __JUNGLAJI COMPLETE_99
+  - first:
+      213: 21300200
+    second: __JUNGLAJI COMPLETE_100
+  - first:
+      213: 21300202
+    second: __JUNGLAJI COMPLETE_101
+  - first:
+      213: 21300204
+    second: __JUNGLAJI COMPLETE_102
+  - first:
+      213: 21300206
+    second: __JUNGLAJI COMPLETE_103
+  - first:
+      213: 21300208
+    second: __JUNGLAJI COMPLETE_104
+  - first:
+      213: 21300210
+    second: __JUNGLAJI COMPLETE_105
+  - first:
+      213: 21300212
+    second: __JUNGLAJI COMPLETE_106
+  - first:
+      213: 21300214
+    second: __JUNGLAJI COMPLETE_107
+  - first:
+      213: 21300216
+    second: __JUNGLAJI COMPLETE_108
+  - first:
+      213: 21300218
+    second: __JUNGLAJI COMPLETE_109
+  - first:
+      213: 21300220
+    second: __JUNGLAJI COMPLETE_110
+  - first:
+      213: 21300222
+    second: __JUNGLAJI COMPLETE_111
+  - first:
+      213: 21300224
+    second: __JUNGLAJI COMPLETE_112
+  - first:
+      213: 21300226
+    second: __JUNGLAJI COMPLETE_113
+  - first:
+      213: 21300228
+    second: __JUNGLAJI COMPLETE_114
+  - first:
+      213: 21300230
+    second: __JUNGLAJI COMPLETE_115
+  - first:
+      213: 21300232
+    second: __JUNGLAJI COMPLETE_116
+  - first:
+      213: 21300234
+    second: __JUNGLAJI COMPLETE_117
+  - first:
+      213: 21300236
+    second: __JUNGLAJI COMPLETE_118
+  - first:
+      213: 21300238
+    second: __JUNGLAJI COMPLETE_119
+  - first:
+      213: 21300240
+    second: __JUNGLAJI COMPLETE_120
+  - first:
+      213: 21300242
+    second: __JUNGLAJI COMPLETE_121
+  - first:
+      213: 21300244
+    second: __JUNGLAJI COMPLETE_122
+  - first:
+      213: 21300246
+    second: __JUNGLAJI COMPLETE_123
+  - first:
+      213: 21300248
+    second: __JUNGLAJI COMPLETE_124
+  - first:
+      213: 21300250
+    second: __JUNGLAJI COMPLETE_125
+  - first:
+      213: 21300252
+    second: __JUNGLAJI COMPLETE_126
+  - first:
+      213: 21300254
+    second: __JUNGLAJI COMPLETE_127
+  - first:
+      213: 21300256
+    second: __JUNGLAJI COMPLETE_128
+  - first:
+      213: 21300258
+    second: __JUNGLAJI COMPLETE_129
+  - first:
+      213: 21300260
+    second: __JUNGLAJI COMPLETE_130
+  - first:
+      213: 21300262
+    second: __JUNGLAJI COMPLETE_131
+  - first:
+      213: 21300264
+    second: __JUNGLAJI COMPLETE_132
+  - first:
+      213: 21300266
+    second: __JUNGLAJI COMPLETE_133
+  - first:
+      213: 21300268
+    second: __JUNGLAJI COMPLETE_134
+  - first:
+      213: 21300270
+    second: __JUNGLAJI COMPLETE_135
+  - first:
+      213: 21300272
+    second: __JUNGLAJI COMPLETE_136
+  - first:
+      213: 21300274
+    second: __JUNGLAJI COMPLETE_137
+  - first:
+      213: 21300276
+    second: __JUNGLAJI COMPLETE_138
+  - first:
+      213: 21300278
+    second: __JUNGLAJI COMPLETE_139
+  - first:
+      213: 21300280
+    second: __JUNGLAJI COMPLETE_140
+  - first:
+      213: 21300282
+    second: __JUNGLAJI COMPLETE_141
+  - first:
+      213: 21300284
+    second: __JUNGLAJI COMPLETE_142
+  - first:
+      213: 21300286
+    second: __JUNGLAJI COMPLETE_143
+  - first:
+      213: 21300288
+    second: __JUNGLAJI COMPLETE_144
+  - first:
+      213: 21300290
+    second: __JUNGLAJI COMPLETE_145
+  - first:
+      213: 21300292
+    second: __JUNGLAJI COMPLETE_146
+  - first:
+      213: 21300294
+    second: __JUNGLAJI COMPLETE_147
+  - first:
+      213: 21300296
+    second: __JUNGLAJI COMPLETE_148
+  - first:
+      213: 21300298
+    second: __JUNGLAJI COMPLETE_149
+  - first:
+      213: 21300300
+    second: __JUNGLAJI COMPLETE_150
+  - first:
+      213: 21300302
+    second: __JUNGLAJI COMPLETE_151
+  - first:
+      213: 21300304
+    second: __JUNGLAJI COMPLETE_152
+  - first:
+      213: 21300306
+    second: __JUNGLAJI COMPLETE_153
+  - first:
+      213: 21300308
+    second: __JUNGLAJI COMPLETE_154
+  - first:
+      213: 21300310
+    second: __JUNGLAJI COMPLETE_155
+  - first:
+      213: 21300312
+    second: __JUNGLAJI COMPLETE_156
+  - first:
+      213: 21300314
+    second: __JUNGLAJI COMPLETE_157
+  - first:
+      213: 21300316
+    second: __JUNGLAJI COMPLETE_158
+  - first:
+      213: 21300318
+    second: __JUNGLAJI COMPLETE_159
+  - first:
+      213: 21300320
+    second: __JUNGLAJI COMPLETE_160
+  - first:
+      213: 21300322
+    second: __JUNGLAJI COMPLETE_161
+  - first:
+      213: 21300324
+    second: __JUNGLAJI COMPLETE_162
+  - first:
+      213: 21300326
+    second: __JUNGLAJI COMPLETE_163
+  - first:
+      213: 21300328
+    second: __JUNGLAJI COMPLETE_164
+  - first:
+      213: 21300330
+    second: __JUNGLAJI COMPLETE_165
+  - first:
+      213: 21300332
+    second: __JUNGLAJI COMPLETE_166
+  - first:
+      213: 21300334
+    second: __JUNGLAJI COMPLETE_167
+  - first:
+      213: 21300336
+    second: __JUNGLAJI COMPLETE_168
+  - first:
+      213: 21300338
+    second: __JUNGLAJI COMPLETE_169
+  - first:
+      213: 21300340
+    second: __JUNGLAJI COMPLETE_170
+  - first:
+      213: 21300342
+    second: __JUNGLAJI COMPLETE_171
+  - first:
+      213: 21300344
+    second: __JUNGLAJI COMPLETE_172
+  - first:
+      213: 21300346
+    second: __JUNGLAJI COMPLETE_173
+  - first:
+      213: 21300348
+    second: __JUNGLAJI COMPLETE_174
+  - first:
+      213: 21300350
+    second: __JUNGLAJI COMPLETE_175
+  - first:
+      213: 21300352
+    second: __JUNGLAJI COMPLETE_176
+  - first:
+      213: 21300354
+    second: __JUNGLAJI COMPLETE_177
+  - first:
+      213: 21300356
+    second: __JUNGLAJI COMPLETE_178
+  - first:
+      213: 21300358
+    second: __JUNGLAJI COMPLETE_179
+  - first:
+      213: 21300360
+    second: __JUNGLAJI COMPLETE_180
+  - first:
+      213: 21300362
+    second: __JUNGLAJI COMPLETE_181
+  - first:
+      213: 21300364
+    second: __JUNGLAJI COMPLETE_182
+  - first:
+      213: 21300366
+    second: __JUNGLAJI COMPLETE_183
+  - first:
+      213: 21300368
+    second: __JUNGLAJI COMPLETE_184
+  - first:
+      213: 21300370
+    second: __JUNGLAJI COMPLETE_185
+  - first:
+      213: 21300372
+    second: __JUNGLAJI COMPLETE_186
+  - first:
+      213: 21300374
+    second: __JUNGLAJI COMPLETE_187
+  - first:
+      213: 21300376
+    second: __JUNGLAJI COMPLETE_188
+  - first:
+      213: 21300378
+    second: __JUNGLAJI COMPLETE_189
+  - first:
+      213: 21300380
+    second: __JUNGLAJI COMPLETE_190
+  - first:
+      213: 21300382
+    second: __JUNGLAJI COMPLETE_191
+  - first:
+      213: 21300384
+    second: __JUNGLAJI COMPLETE_192
+  - first:
+      213: 21300386
+    second: __JUNGLAJI COMPLETE_193
+  - first:
+      213: 21300388
+    second: __JUNGLAJI COMPLETE_194
+  - first:
+      213: 21300390
+    second: __JUNGLAJI COMPLETE_195
+  - first:
+      213: 21300392
+    second: __JUNGLAJI COMPLETE_196
+  - first:
+      213: 21300394
+    second: __JUNGLAJI COMPLETE_197
+  - first:
+      213: 21300396
+    second: __JUNGLAJI COMPLETE_198
+  - first:
+      213: 21300398
+    second: __JUNGLAJI COMPLETE_199
+  - first:
+      213: 21300400
+    second: __JUNGLAJI COMPLETE_200
+  - first:
+      213: 21300402
+    second: __JUNGLAJI COMPLETE_201
+  - first:
+      213: 21300404
+    second: __JUNGLAJI COMPLETE_202
+  - first:
+      213: 21300406
+    second: __JUNGLAJI COMPLETE_203
+  - first:
+      213: 21300408
+    second: __JUNGLAJI COMPLETE_204
+  - first:
+      213: 21300410
+    second: __JUNGLAJI COMPLETE_205
+  - first:
+      213: 21300412
+    second: __JUNGLAJI COMPLETE_206
+  - first:
+      213: 21300414
+    second: __JUNGLAJI COMPLETE_207
+  - first:
+      213: 21300416
+    second: __JUNGLAJI COMPLETE_208
+  - first:
+      213: 21300418
+    second: __JUNGLAJI COMPLETE_209
+  - first:
+      213: 21300420
+    second: __JUNGLAJI COMPLETE_210
+  - first:
+      213: 21300422
+    second: __JUNGLAJI COMPLETE_211
+  - first:
+      213: 21300424
+    second: __JUNGLAJI COMPLETE_212
+  - first:
+      213: 21300426
+    second: __JUNGLAJI COMPLETE_213
+  - first:
+      213: 21300428
+    second: __JUNGLAJI COMPLETE_214
+  - first:
+      213: 21300430
+    second: __JUNGLAJI COMPLETE_215
+  - first:
+      213: 21300432
+    second: __JUNGLAJI COMPLETE_216
+  - first:
+      213: 21300434
+    second: __JUNGLAJI COMPLETE_217
+  - first:
+      213: 21300436
+    second: __JUNGLAJI COMPLETE_218
+  - first:
+      213: 21300438
+    second: __JUNGLAJI COMPLETE_219
+  - first:
+      213: 21300440
+    second: __JUNGLAJI COMPLETE_220
+  - first:
+      213: 21300442
+    second: __JUNGLAJI COMPLETE_221
+  - first:
+      213: 21300444
+    second: __JUNGLAJI COMPLETE_222
+  - first:
+      213: 21300446
+    second: __JUNGLAJI COMPLETE_223
+  - first:
+      213: 21300448
+    second: __JUNGLAJI COMPLETE_224
+  - first:
+      213: 21300450
+    second: __JUNGLAJI COMPLETE_225
+  - first:
+      213: 21300452
+    second: __JUNGLAJI COMPLETE_226
+  - first:
+      213: 21300454
+    second: __JUNGLAJI COMPLETE_227
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2969
+        width: 116
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35faefb450c1f284c861cc3491e9de54
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2969
+        width: 103
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be858aa0115b9d4faccf933a878fc17
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2969
+        width: 112
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d61228bcbaaf82419ab6d5273ac2ac1
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2969
+        width: 110
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25e9babd0e0bed47b570986c9899713
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2969
+        width: 126
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ca63264dd2b9640b1f38b20f20355b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_5
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2969
+        width: 105
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7777b2ce6da418f418b27caf6c9235bb
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_6
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2969
+        width: 107
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d635199f696494f916eee2e3ee4081
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_7
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 3056
+        width: 36
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3de259bf5e45d409e189a9d48f3bcd
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_8
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 3056
+        width: 37
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e0eb276916c8f43acf3fd1e182db3e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_9
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 3056
+        width: 133
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e386f5a7fc15764190b2ad14067351e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_10
+      rect:
+        serializedVersion: 2
+        x: 4462
+        y: 3056
+        width: 132
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47134fe2a58f3744956f3159d7fd1f6
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_11
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2835
+        width: 351
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722fb4ef7c5240041a6aa5b2a08a6d83
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_12
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 2972
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c488940bd769d348a5294b7b17301d1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_13
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 3015
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaddb2a34e1b164083c24d0d3cea3e5
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_14
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 3015
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c449ec9b5f28468c8c809173b6214
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_15
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 3015
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f5e13d2f2fcc34b8967ae9ed1eb31c
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_16
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 2593
+        width: 486
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c9a5343fdaf4f469219b66c22fc7ef
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2801
+        width: 164
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7351f88a5942d4c4aa8c10e7fb98ef0b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_18
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2801
+        width: 165
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8340d731a41d4114f97717147b3478a4
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_19
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2833
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be81720d07887b54eadf766702283fdb
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2833
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3c350a01ea198408d633e73c181054
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2833
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b785b61dc22f11e4a84971c1a122458a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_22
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2817
+        width: 82
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc446389486da424ca0732cdfda8f4b9
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_23
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 2817
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9af602e33cc341ad63510606ccf98
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_24
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2817
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6bf7b0616194945bfa3b62804a425b
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_25
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2817
+        width: 219
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dfc3c4d3e3f174aa08183b7f3b8e2a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2609
+        width: 376
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6756f2a2a372f824bb4d40379023a0e1
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_27
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2609
+        width: 379
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e205fcac7f76d34e958909190de8cdc
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_28
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 2812
+        width: 187
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174dcb9cd3f2ea948aa169bb1852f44e
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_29
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 2753
+        width: 149
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489edeb28adb9c46947b10937ce4fbb
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_30
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 2910
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11a1feaf026f8740bb9967e7a7b48e8
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_31
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 2880
+        width: 82
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc55adb9cbac5a4aaf2c840a8265813
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_32
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 2609
+        width: 379
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84393f22f8ab0442a0e2cc214e754c3
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_33
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 2878
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f74b0f39430d1419908af324460684
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_34
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 2846
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac3d60044362744ca5bd176e5a1d642
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_35
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 2848
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754ad2792bf8e854291a7466eb50cda5
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_36
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 2821
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8053851dc34084790e84089d7af0f8
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_37
+      rect:
+        serializedVersion: 2
+        x: 4036
+        y: 2830
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19988def0a89b244aae7fe95893ddc88
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2657
+        width: 164
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa23e445d92b342ae723df2a73b599
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2657
+        width: 165
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0146f65adaf3e7547a110a6f769a9295
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2753
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66177b1e4309e9d4989735b7215cfc13
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_41
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 2787
+        width: 100
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f095ce2aa6e87147b044ffbd838733a
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_42
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 2769
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43a67d91ee132747943940bc9bf3c24
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2673
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfa903664fd3e044a79a6d261a27f2b
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_44
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2481
+        width: 324
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17d280eb8382844e9b96cdb371e10e5
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_45
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 2673
+        width: 164
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98ea4bb2b5cd04c830edb5af1fb164
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_46
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 2737
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ba0e1c50abe2447b224801b5bb3389
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_47
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 2705
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f7b72b89fbd754e9bf849a55fb320e
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_48
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2593
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf51959fad8c947aa845b57d543427
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_49
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2401
+        width: 303
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f298661ddd1044985284e26537b2c
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_50
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2643
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5509e3b263cea439db381d11b07957
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_51
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 2650
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071f0d53a9ab2194c899d4c47d0be53b
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_52
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 2643
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ffcc73d6773f4485f29f74e1000c4
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_53
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 2641
+        width: 201
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21801726b0736f0409c19db8135fa723
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_54
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 2643
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674fba6f19b69b547bef0f9a380f7521
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2529
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dcee9534b4a56458fcddc9611e0216
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_56
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2529
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc64c974aff66b42aac7dc2695ad26f
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_57
+      rect:
+        serializedVersion: 2
+        x: 3214
+        y: 2545
+        width: 66
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecff90c46dc69f4fb33dd1348120618
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_58
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 2625
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc6cbd2c290e324d886ed9ea41471af
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_59
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 2625
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80671ea0ff1bd5542a508b2f437f57fd
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_60
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 2625
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83b3c0ef96da2f44a434b5510ca36e8
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_61
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2319
+        width: 376
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1437694596030f544a2641befb8f5f17
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_62
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2319
+        width: 379
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ace4c576ec2a0d409a2ca88f920079f
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_63
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 2319
+        width: 379
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6d46c71439f2f4a9d0305cb2962cef
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_64
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 2545
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd169d6501ba3484cbf63199b40a3222
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_65
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 2577
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd473fa6c748ca64ab443d0b2b92ed28
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_66
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 2577
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc4fb4d07a0e9c4292536ec43da10a0
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_67
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 2545
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b01741060b7e42b377d2b2520394d
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_68
+      rect:
+        serializedVersion: 2
+        x: 4218
+        y: 2372
+        width: 233
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec7e35a4b9ffc4889a3dfdc3378b1a
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_69
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 2579
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3d086a83d45a14ca391b4ad28f5677
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_70
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2383
+        width: 130
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132ac98081af7534c88f5c69bf457d4c
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_71
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2383
+        width: 130
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ffde794ebc24449916144e8794035c
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_72
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 2529
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42d16c4047d7994daf30e14ca5c3918
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_73
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 2461
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3617249902a2ace46a7b947ecdc8d6b0
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_74
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2367
+        width: 116
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b164e5064fa803644aa2b06ff4aa8c35
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_75
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2367
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47ac94972a917e48bd50367afe92bbb
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_76
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 2470
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a5d04bf284f324b99b3dd474f716c7
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_77
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 2465
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6199abb4a5cf25c468bb68c63c5880b3
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_78
+      rect:
+        serializedVersion: 2
+        x: 3837
+        y: 2465
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1992d3830ae2d004d87e8e5ca3f95895
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_79
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 2465
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff45c3e04c14b84c913c0fb961cced8
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_80
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 2465
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca031fc80ce297a48b2b7646281b5a7f
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_81
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2192
+        width: 324
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad80df2114398c4f84139da6d2d2315
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_82
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 2388
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad2ef7497b79f64bbafbcb35cce44c4
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_83
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 2392
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c6a07df0d2fa7428633115bfb69f40
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_84
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 2386
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449c0e5daad6bef44acdaa636f46ccaf
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_85
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 2379
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db01549efeef5449e964098fbdd229
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_86
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2208
+        width: 130
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79875eb3f19c3e4ba5e98e1c9028f7f
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_87
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2208
+        width: 130
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2783285bc957c48b3a9db8aba65541
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_88
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 2244
+        width: 21
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8d0ca232b69e042a3382a7ba325c43
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_89
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2244
+        width: 130
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64a74a6fa004f488b4b3e2d0a3ebe2
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_90
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 2016
+        width: 253
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8750b65b8476184ab5fd3a8d52db7fa
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_91
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 2176
+        width: 132
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc684520427a664a9643148ac096de4
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_92
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2176
+        width: 133
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0930445925a70774a9e1319b75a94489
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_93
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 2176
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055569201a5fa1a4485bf9eb78f92861
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_94
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 2176
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91252c8cae577b24ba6d95568eafe66e
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_95
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 2224
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59561f949ceb7514aa10d0f55f160904
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_96
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 2224
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1d39cc3838b7241abfc302d4ebf44a
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_97
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 2224
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb1bd65a7222ed418fdd3b9ed633819
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_98
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1936
+        width: 78
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30260dd87bd22004dbc3dcf193ca9e50
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_99
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 2016
+        width: 93
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe77ae163fda447a563103c2b45e4d
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_100
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 2105
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca05ba6d636f914b876059979969414
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_101
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 2105
+        width: 119
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736abcd8d193f6e4da84854c4ebdd929
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_102
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 2016
+        width: 164
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2e8b23b6f6cf24d882c1c0ca098c66
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_103
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2016
+        width: 165
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1601909e7e6204ab41a757042c7202
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_104
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 2144
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2bfeed8b6013a46afc5298aef71354
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_105
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2000
+        width: 25
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d9a3b1911cc82459f08b66b785805b
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_106
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1920
+        width: 78
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de630dcfed570438da6f0bbdc1da00
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_107
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1904
+        width: 77
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ae817466dbf6645947ac54c1728755
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_108
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 2023
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43246e5132330a64a9628a3d5aa70985
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_109
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 2009
+        width: 37
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997f55fea84e410468393141da9b30e0
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_110
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 2016
+        width: 23
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c3bf69ce1e5843b3542edca0efa3e
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_111
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 2021
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee187ab1d28c9d488f5675048877858
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_112
+      rect:
+        serializedVersion: 2
+        x: 3903
+        y: 2016
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac2b92ce959452489facfd117296630
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_113
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 2016
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd18c5e487ed293489c3c356ba21fc09
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_114
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 2064
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dc391b06f47a24d827c0b665d70f33
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_115
+      rect:
+        serializedVersion: 2
+        x: 4382
+        y: 2000
+        width: 128
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f80ed5298fbeb428bd426609d8b511
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_116
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1904
+        width: 89
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ed35efd6af06479c072d39875b589
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_117
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1854
+        width: 87
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3925c2c6c7d1f4c89a30fdd5fabbe5
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_118
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1777
+        width: 253
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec707988e06442144ba531d54f7a1f1d
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_119
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1777
+        width: 256
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90314de05805d344a814325b6dc946f3
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_120
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1824
+        width: 118
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ebab84f23266d44bb0dfd0ec9d3d09
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_121
+      rect:
+        serializedVersion: 2
+        x: 4255
+        y: 1984
+        width: 100
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7de1558e8eef342a4df8018f859d31
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_122
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1606
+        width: 164
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbea294c5b6768499d3d03fb7bf36f1
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_123
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1809
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825e157c8b0f3904c87f015fd0fd2e98
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_124
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1904
+        width: 57
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c000b42f30ca324288a27ebadd54d75
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_125
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1777
+        width: 224
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d13781adaf0550409f1b765464bfb09
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_126
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 1827
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af1ecb5a0e884e46b4ffdfdab7afd84
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_127
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1660
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b4dac31f5516e4995965969b95c2c6
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_128
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1617
+        width: 93
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfcdac795c6a5e4cb1b037c5c2f2301
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_129
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 1786
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f0f6135d4bc8a40a9e10b935ec588b
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_130
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1827
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e52ae8d2318b8d49abaa2edb2c6544d
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_131
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 1827
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f23535a456d5842b694b30e317e423
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_132
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 1829
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f424d4a3f1a8447a9dbd85bf2dc1c7
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_133
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 1829
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ae39a9ca2391942b5bbc9b0052490b
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_134
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1596
+        width: 577
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c099c6d95c0d57e4f86971a90efaf2b2
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_135
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1683
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b8b019b4728f42a499c6e4d436ff2
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_136
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1685
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63e45d103db6942b736cc637f837f3
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_137
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1681
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b2c9367afac348b543b66faf3abcb
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_138
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1685
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d81f3fde2bd14c8575a346f7113c0
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_139
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 1681
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468211b8ee16da4393f983006810c73
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_140
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1683
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84712937b08dea408857430e9c438f5
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_141
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1685
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2de072f71aa2b4b8456a7a40ef8078
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_142
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1681
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41988f5dcbac6469588251eb725b09
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_143
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 1685
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c5b3f17fc8771438ce308726d14244
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_144
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 1681
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25448f814e3b424d8aef31d4f2932b2
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_145
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 1569
+        width: 267
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b8c70dc16ba8c4ca1c728b963176d9
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_146
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1569
+        width: 244
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed516d170cf154ba01ce9c0a829874
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_147
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 1569
+        width: 265
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3817d2a4ac9c61449969e1d6a8f6033d
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_148
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1606
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1e4ef0776b4424ba67f64f8e0e91be
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_149
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1606
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb3ab810b6884a418c43596aa0597a2
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_150
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1601
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e760b4bc574a5a4b9b98c20484a6298
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_151
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1603
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31200e415ffa5e6408ccced8eb92e3a4
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_152
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1606
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c654149f8fc28b409bd9e06b0151d1b
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_153
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1606
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83400f11a233760458b3e76412fef3a4
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_154
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 1601
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6c05453a87c6649b81046dfdd6ab13
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_155
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1603
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d77dbf207956448957e39d2564c94b
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_156
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1366
+        width: 196
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cd6e5b2bf3735488d95a8b7bfd6045
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_157
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1341
+        width: 577
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c64730603717418447a07f3837456
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_158
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1507
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de49490088fb70458e32240aec5e192
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_159
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1510
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33d8b058ff35e947ae8ab6843d13dd8
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_160
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1505
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ca725074a34b4e83b097ff0699ffc
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_161
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1510
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f518fbff7113a7448bbe93a7ac3cd0d7
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_162
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 1505
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab5ec533add3a643b72f75ed6c0e736
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_163
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1507
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50a7e4deb04bb418688a6be1202270
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_164
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1510
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e080232e3a4a04cbf267ffb84c3ef0
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_165
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1505
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d467cea309e4e4c83e12c762163b6a
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_166
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 1510
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b744bc6fe04674398a5d66512f60f3
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_167
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 1505
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba0246ff5e88648bb5302d9879f89a
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_168
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 1473
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489584d281a044140a144f9ef48c9f22
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_169
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1473
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc0f6cb57c3f24aab0b5c46beb5f61
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_170
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 1473
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838eee83f4277c24ba07ae2fdde97284
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_171
+      rect:
+        serializedVersion: 2
+        x: 3951
+        y: 1521
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e42b9465f0222b42b1a8be5bab905e6
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_172
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 1478
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37539df556fd21a4abd54b5031fac59e
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_173
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1430
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5923febe05b78ee4791f149b8dd9b76c
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_174
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1430
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3b6968b429a24fad259618dd1db18
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_175
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1425
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91045e93080bb14e8759ccedbe100ca
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_176
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1428
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c53a6d5e7f7ff47a0dbc76ad3de468
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_177
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1430
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666860b33d2fdba47af049cb9c857b72
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_178
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1430
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15bb945ff7a964a8d76a39532a61f4
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_179
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 1425
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea858d3a8b9fce54ab7cbb8ff597f518
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_180
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1428
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca430499ddf35c4cbbe3b9fb0a7129e
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_181
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 1473
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855b4a6dbab91af4ba6d6304373adcb5
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_182
+      rect:
+        serializedVersion: 2
+        x: 3951
+        y: 1473
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608c4e2b1bf25247b660e623d2ec8ea
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_183
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1377
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c267c2d01f883c247841d131e2f42a0b
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_184
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 1377
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2432ee8712a8d46aa63a53e9c145bb
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_185
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 1441
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d362862fe9384f8e3631341747829
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_186
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 1441
+        width: 78
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7bf33120ebab34391b6accf11b19dc
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_187
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 1330
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af995cdfb5ad25845857e7f89ae7e19d
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_188
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 1330
+        width: 79
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6466586f0d92ba43acdbcdc7239e202
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_189
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 1382
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bd5febabf6f7041a5053eff63a1030
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_190
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1332
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39107eaedba4cd64f9e4640a126d3e15
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_191
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1334
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c1276ca5443fe43806bd84f8a23a95
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_192
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1330
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a9c462b77b51746b20b723b8242bbc
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_193
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 1334
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6934f348df4a4c14eac0f34b7a494cf7
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_194
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 1332
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1492999788e9697428ed2a001d8b6b4c
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_195
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1334
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7935a99f568e9408f531e19ac6ccd0
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_196
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1330
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be678cff5507845909f450d5683a21
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_197
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 1334
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3d3b0bfc312be46828f7783d6f9e8b
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_198
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 1282
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb4746bb3d047c47a122c24ff8676d1
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_199
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 1282
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3afe33b7c34bc4c98a84ce3d0fbe70
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_200
+      rect:
+        serializedVersion: 2
+        x: 3828
+        y: 1282
+        width: 135
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a4f5b1932c068448410041ec82d7ca
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_201
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 360
+        width: 783
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f73cb0a144aecc4cbfc0b3a6e2e43a6
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_202
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1254
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf0a4c642e139541afdbd153c14eba6
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_203
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 1254
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb68e9e9eced354fa09f3cc142a4d65
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_204
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1247
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3050a34c72847094698e5326a0072795
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_205
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1252
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e9bfe3af0d31479e0254653aaddb6
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_206
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1254
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa8b99e53a15284eae242ae5bd54aa4
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_207
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1254
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf4c047475f62b4fbb1c7953e16d1b9
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_208
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 1247
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7256a5dfa644874a9aef678670ed729
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_209
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 1252
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c467e0f4b9461f54da138bd9d84f0d3e
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_210
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1202
+        width: 119
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef8dd46549a2ee4584e8fceed206608
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_211
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 1202
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff922d0ff9443e34aa7a4c3ef6602507
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_212
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 1202
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3df341782b2c1479b74d28dc191643
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_213
+      rect:
+        serializedVersion: 2
+        x: 3924
+        y: 1213
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f46f93251c36b4a9472e274181cd7a
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_214
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 753
+        width: 427
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e32c740c458bc40bb36f9a2ac39ff2
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_215
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 344
+        width: 783
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb76bf4aea6fd4093eceeb82283710
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_216
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 933
+        width: 185
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ddbf2e2f6b194ba058561152fae34
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_217
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 915
+        width: 169
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15c5b21ad7d23140874adbcd8cc33d8
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_218
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 915
+        width: 78
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5e1f31d466e64898963d2ae31a16a
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_219
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 855
+        width: 82
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ff067427eae647a15b8220ea66b2e
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_220
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 967
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e586e16a0971b4e8811af0223f75e5
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_221
+      rect:
+        serializedVersion: 2
+        x: 3794
+        y: 967
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ab62dc8ce91b445b9d7856ac92a298
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_222
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 967
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a15b7ad990d9b408afa9d2e14c3601
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_223
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 643
+        width: 219
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733170497a885e3469726fa6637bf609
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_224
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 338
+        width: 1132
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67a5366ca4718341990afcef5f08a01
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_225
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 196
+        width: 739
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c82013da104a004e9d1dd3c7693e663
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_226
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 80
+        width: 48
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5809e4202b52046af127588b940876
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __JUNGLAJI COMPLETE_227
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 66
+        width: 867
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7819b805a90de8e4db3d48d95bc65d71
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 002687a6d5c3e3e449be6c01f98bffb7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,483 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8955908488025045712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8955908488025045717}
+  - component: {fileID: 8955908488025045718}
+  - component: {fileID: 3506902180514853561}
+  - component: {fileID: 315002259992013462}
+  - component: {fileID: 1936974280733649063}
+  - component: {fileID: 8955908488025045713}
+  - component: {fileID: 6433596790005021204}
+  - component: {fileID: 8955908488025045715}
+  - component: {fileID: 7527251543663090404}
+  - component: {fileID: 7790193068516588193}
+  - component: {fileID: 372197303333137962}
+  - component: {fileID: 5095367059872099139}
+  m_Layer: 0
+  m_Name: WindDown
+  m_TagString: NPC
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8955908488025045717
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.61, y: -1.21, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &8955908488025045718
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 354844f569072344c851c3d6d3ad51be, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300042, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.16, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &3506902180514853561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6b6caae784af6418925eb7fcda5ea9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  translateUnit: 0.01
+  _runMultiplier: 2
+  moving: 0
+  isNPC: 1
+  _moveUnitsPerSecondScale: 200
+  state: 0
+  _running: 0
+  _state: 0
+  _lookingDir: 3
+--- !u!61 &315002259992013462
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.02515383, y: -0.18778816}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.48}
+    newSize: {x: 0.16, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.25030765, y: 0.13542897}
+  m_EdgeRadius: 0
+--- !u!61 &1936974280733649063
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0042476654, y: -0.0064557493}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.48}
+    newSize: {x: 0.16, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.9206524, y: 0.9818234}
+  m_EdgeRadius: 0
+--- !u!50 &8955908488025045713
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!114 &6433596790005021204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fadf3fb7fdeefa4984af1cfc083f159, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animations:
+  - name: IdleSide
+    frames:
+    - {fileID: 21300042, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: IdleUp
+    frames:
+    - {fileID: 21300156, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: IdleDown
+    frames:
+    - {fileID: 21300102, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: RunSide
+    frames:
+    - {fileID: 21300006, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300008, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300010, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300012, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300014, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300016, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300018, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300020, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300022, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300024, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300026, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300028, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300030, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300032, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300034, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300036, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: RunDown
+    frames:
+    - {fileID: 21300066, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300068, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300070, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300072, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300074, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300076, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300078, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300080, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300082, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300084, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300086, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300088, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300090, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300092, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300094, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300096, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: RunUp
+    frames:
+    - {fileID: 21300126, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300128, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300130, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300132, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300134, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300136, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300138, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300140, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300142, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300144, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300146, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300148, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300150, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkSide
+    frames:
+    - {fileID: 21300006, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300008, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300010, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300012, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300014, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300016, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300018, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300020, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300022, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300024, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300026, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300028, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300030, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300032, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300034, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300036, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkDown
+    frames:
+    - {fileID: 21300066, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300068, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300070, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300072, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300074, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300076, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300078, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300080, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300082, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300084, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300086, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300088, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300090, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300092, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300094, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300096, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkUp
+    frames:
+    - {fileID: 21300126, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300128, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300130, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300132, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300134, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300136, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300138, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300140, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300142, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300144, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300146, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300148, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300150, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: TalkSide
+    frames:
+    - {fileID: 21300042, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300044, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300046, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300048, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300050, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300052, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300054, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300056, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300058, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: TalkDown
+    frames:
+    - {fileID: 21300102, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300104, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300106, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300108, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300110, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300112, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300114, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300116, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300118, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300120, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: TalkUp
+    frames:
+    - {fileID: 21300156, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300158, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300160, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300162, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300164, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300166, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300168, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300170, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300172, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    - {fileID: 21300174, guid: db3a9fdb3bd46c843ad3904cbeb3dc9d, type: 3}
+    framesPerSec: 7
+    loop: 1
+  currentFrame: 0
+--- !u!114 &8955908488025045715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc0cf3274332ef45abb7ab098769499, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounds: {fileID: 1936974280733649063}
+  minWalkTime: 4
+  maxWalkTime: 5
+  walkingAround: 0
+  isStatic: 0
+--- !u!114 &7527251543663090404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba07d9095e869a41b49835b3906925b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactableMessage:
+  - speakerName: Wind Down
+    message: 'Man are you going solo? Don''t you know this game has 14 playable characters? '
+    source: 0
+  - speakerName: Muchachoman
+    message: "\xBFQu\xE9? 14? That is a lot! "
+    source: 1
+  - speakerName: Wind Down
+    message: 'Oh yeah it is! Each one has their own unique story and motivations.
+      Different combinations of characters will allow for different tag team maneuvers
+      too!  '
+    source: 0
+  - speakerName: Muchachoman
+    message: 'Wow, I can''t wait to build up my crew! '
+    source: 1
+  - speakerName: Wind Down
+    message: 'Hold on there, blanket boy. With the game''s Face/Heel system, your
+      actions and moral decisions will determine which characters will be willing
+      to join up with you. If you become a saint, or act like demon, you may even
+      unlock hidden Tag Team maneuvers! '
+    source: 0
+  - speakerName: Muchachoman
+    message: 'Wow! You''d have to play the game multiple times to experience every
+      party combination! '
+    source: 1
+  - speakerName: Wind Down
+    message: " That's right, mon fr\xE8re! WrestleQuest will keep you coming back
+      again and again! "
+    source: 0
+--- !u!114 &7790193068516588193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14c57f4e0a3e0424bbd8a975fb2d3f90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!61 &372197303333137962
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.03429681}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.48}
+    newSize: {x: 0.16, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.2637558, y: 0.4114064}
+  m_EdgeRadius: 0
+--- !u!114 &5095367059872099139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8955908488025045712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f306b762ecbdb6943a7e5a324a44ddf0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tooltips:
+  - "Looks like you won\u2019t be powerbombing this one alone! You\u2019ll have an
+    exciting cast of toy wrestlers and other characters to join in on your epic saga.
+    But what if players want to take a break from questing? Will they still have something
+    to do? Go talk to the fight promoter, Jack Bonus, to find out! He\u2019s the Troll
+    Doll to the right."

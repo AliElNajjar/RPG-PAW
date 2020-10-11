@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MoneyPigAnimationController
+  m_Controller: {fileID: 9100000, guid: f93fad880d8c1eb41908d288316120d1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 0188f15eff55f1548872fd07e3d868ff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: def6f90a415d3874fba3ecba5234459f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: cbe39af2a3efdca42a1e1ddf2cdb5994, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cf04c99326a86234098cd9a45724060a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e4cc715f50307c94bbf81092a425b84f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4a656b63bcb224347af9a68c0b7b51f4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9a8686ccc2937e94788f3a478ff1a5d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6d8f7343a743eb04db4ea9670e7e37fc, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 03e60afff93152b4fa2155cd27ef1939, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5160247a0311b894e9806d74e80175fe, type: 2}

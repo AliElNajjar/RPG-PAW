@@ -1,0 +1,3632 @@
+fileFormatVersion: 2
+guid: fc6036338e486744aa3ff80d492c65cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Junkyard-dungeon_tile-set_0
+  - first:
+      213: 21300002
+    second: Junkyard-dungeon_tile-set_1
+  - first:
+      213: 21300004
+    second: Junkyard-dungeon_tile-set_2
+  - first:
+      213: 21300006
+    second: Junkyard-dungeon_tile-set_3
+  - first:
+      213: 21300008
+    second: Junkyard-dungeon_tile-set_4
+  - first:
+      213: 21300010
+    second: Junkyard-dungeon_tile-set_5
+  - first:
+      213: 21300012
+    second: Junkyard-dungeon_tile-set_6
+  - first:
+      213: 21300014
+    second: Junkyard-dungeon_tile-set_7
+  - first:
+      213: 21300016
+    second: Junkyard-dungeon_tile-set_8
+  - first:
+      213: 21300018
+    second: Junkyard-dungeon_tile-set_9
+  - first:
+      213: 21300020
+    second: Junkyard-dungeon_tile-set_10
+  - first:
+      213: 21300022
+    second: Junkyard-dungeon_tile-set_11
+  - first:
+      213: 21300024
+    second: Junkyard-dungeon_tile-set_12
+  - first:
+      213: 21300026
+    second: Junkyard-dungeon_tile-set_13
+  - first:
+      213: 21300028
+    second: Junkyard-dungeon_tile-set_14
+  - first:
+      213: 21300030
+    second: Junkyard-dungeon_tile-set_15
+  - first:
+      213: 21300032
+    second: Junkyard-dungeon_tile-set_16
+  - first:
+      213: 21300034
+    second: Junkyard-dungeon_tile-set_17
+  - first:
+      213: 21300036
+    second: Junkyard-dungeon_tile-set_18
+  - first:
+      213: 21300038
+    second: Junkyard-dungeon_tile-set_19
+  - first:
+      213: 21300040
+    second: Junkyard-dungeon_tile-set_20
+  - first:
+      213: 21300042
+    second: Junkyard-dungeon_tile-set_21
+  - first:
+      213: 21300044
+    second: Junkyard-dungeon_tile-set_22
+  - first:
+      213: 21300046
+    second: Junkyard-dungeon_tile-set_23
+  - first:
+      213: 21300048
+    second: Junkyard-dungeon_tile-set_24
+  - first:
+      213: 21300050
+    second: Junkyard-dungeon_tile-set_25
+  - first:
+      213: 21300052
+    second: Junkyard-dungeon_tile-set_26
+  - first:
+      213: 21300054
+    second: Junkyard-dungeon_tile-set_27
+  - first:
+      213: 21300056
+    second: Junkyard-dungeon_tile-set_28
+  - first:
+      213: 21300058
+    second: Junkyard-dungeon_tile-set_29
+  - first:
+      213: 21300060
+    second: Junkyard-dungeon_tile-set_30
+  - first:
+      213: 21300062
+    second: Junkyard-dungeon_tile-set_31
+  - first:
+      213: 21300064
+    second: Junkyard-dungeon_tile-set_32
+  - first:
+      213: 21300066
+    second: Junkyard-dungeon_tile-set_33
+  - first:
+      213: 21300068
+    second: Junkyard-dungeon_tile-set_34
+  - first:
+      213: 21300070
+    second: Junkyard-dungeon_tile-set_35
+  - first:
+      213: 21300072
+    second: Junkyard-dungeon_tile-set_36
+  - first:
+      213: 21300074
+    second: Junkyard-dungeon_tile-set_37
+  - first:
+      213: 21300076
+    second: Junkyard-dungeon_tile-set_38
+  - first:
+      213: 21300078
+    second: Junkyard-dungeon_tile-set_39
+  - first:
+      213: 21300080
+    second: Junkyard-dungeon_tile-set_40
+  - first:
+      213: 21300082
+    second: Junkyard-dungeon_tile-set_41
+  - first:
+      213: 21300084
+    second: Junkyard-dungeon_tile-set_42
+  - first:
+      213: 21300086
+    second: Junkyard-dungeon_tile-set_43
+  - first:
+      213: 21300088
+    second: Junkyard-dungeon_tile-set_44
+  - first:
+      213: 21300090
+    second: Junkyard-dungeon_tile-set_45
+  - first:
+      213: 21300092
+    second: Junkyard-dungeon_tile-set_46
+  - first:
+      213: 21300094
+    second: Junkyard-dungeon_tile-set_47
+  - first:
+      213: 21300096
+    second: Junkyard-dungeon_tile-set_48
+  - first:
+      213: 21300098
+    second: Junkyard-dungeon_tile-set_49
+  - first:
+      213: 21300100
+    second: Junkyard-dungeon_tile-set_50
+  - first:
+      213: 21300102
+    second: Junkyard-dungeon_tile-set_51
+  - first:
+      213: 21300104
+    second: Junkyard-dungeon_tile-set_52
+  - first:
+      213: 21300106
+    second: Junkyard-dungeon_tile-set_53
+  - first:
+      213: 21300108
+    second: Junkyard-dungeon_tile-set_54
+  - first:
+      213: 21300110
+    second: Junkyard-dungeon_tile-set_55
+  - first:
+      213: 21300112
+    second: Junkyard-dungeon_tile-set_56
+  - first:
+      213: 21300114
+    second: Junkyard-dungeon_tile-set_57
+  - first:
+      213: 21300116
+    second: Junkyard-dungeon_tile-set_58
+  - first:
+      213: 21300118
+    second: Junkyard-dungeon_tile-set_59
+  - first:
+      213: 21300120
+    second: Junkyard-dungeon_tile-set_60
+  - first:
+      213: 21300122
+    second: Junkyard-dungeon_tile-set_61
+  - first:
+      213: 21300124
+    second: Junkyard-dungeon_tile-set_62
+  - first:
+      213: 21300126
+    second: Junkyard-dungeon_tile-set_63
+  - first:
+      213: 21300128
+    second: Junkyard-dungeon_tile-set_64
+  - first:
+      213: 21300130
+    second: Junkyard-dungeon_tile-set_65
+  - first:
+      213: 21300132
+    second: Junkyard-dungeon_tile-set_66
+  - first:
+      213: 21300134
+    second: Junkyard-dungeon_tile-set_67
+  - first:
+      213: 21300136
+    second: Junkyard-dungeon_tile-set_68
+  - first:
+      213: 21300138
+    second: Junkyard-dungeon_tile-set_69
+  - first:
+      213: 21300140
+    second: Junkyard-dungeon_tile-set_70
+  - first:
+      213: 21300142
+    second: Junkyard-dungeon_tile-set_71
+  - first:
+      213: 21300144
+    second: Junkyard-dungeon_tile-set_72
+  - first:
+      213: 21300146
+    second: Junkyard-dungeon_tile-set_73
+  - first:
+      213: 21300148
+    second: Junkyard-dungeon_tile-set_74
+  - first:
+      213: 21300150
+    second: Junkyard-dungeon_tile-set_75
+  - first:
+      213: 21300152
+    second: Junkyard-dungeon_tile-set_76
+  - first:
+      213: 21300154
+    second: Junkyard-dungeon_tile-set_77
+  - first:
+      213: 21300156
+    second: Junkyard-dungeon_tile-set_78
+  - first:
+      213: 21300158
+    second: Junkyard-dungeon_tile-set_79
+  - first:
+      213: 21300160
+    second: Junkyard-dungeon_tile-set_80
+  - first:
+      213: 21300162
+    second: Junkyard-dungeon_tile-set_81
+  - first:
+      213: 21300164
+    second: Junkyard-dungeon_tile-set_82
+  - first:
+      213: 21300166
+    second: Junkyard-dungeon_tile-set_83
+  - first:
+      213: 21300168
+    second: Junkyard-dungeon_tile-set_84
+  - first:
+      213: 21300170
+    second: Junkyard-dungeon_tile-set_85
+  - first:
+      213: 21300172
+    second: Junkyard-dungeon_tile-set_86
+  - first:
+      213: 21300174
+    second: Junkyard-dungeon_tile-set_87
+  - first:
+      213: 21300176
+    second: Junkyard-dungeon_tile-set_88
+  - first:
+      213: 21300178
+    second: Junkyard-dungeon_tile-set_89
+  - first:
+      213: 21300180
+    second: Junkyard-dungeon_tile-set_90
+  - first:
+      213: 21300182
+    second: Junkyard-dungeon_tile-set_91
+  - first:
+      213: 21300184
+    second: Junkyard-dungeon_tile-set_92
+  - first:
+      213: 21300186
+    second: Junkyard-dungeon_tile-set_93
+  - first:
+      213: 21300188
+    second: Junkyard-dungeon_tile-set_94
+  - first:
+      213: 21300190
+    second: Junkyard-dungeon_tile-set_95
+  - first:
+      213: 21300192
+    second: Junkyard-dungeon_tile-set_96
+  - first:
+      213: 21300194
+    second: Junkyard-dungeon_tile-set_97
+  - first:
+      213: 21300196
+    second: Junkyard-dungeon_tile-set_98
+  - first:
+      213: 21300198
+    second: Junkyard-dungeon_tile-set_99
+  - first:
+      213: 21300200
+    second: Junkyard-dungeon_tile-set_100
+  - first:
+      213: 21300202
+    second: Junkyard-dungeon_tile-set_101
+  - first:
+      213: 21300204
+    second: Junkyard-dungeon_tile-set_102
+  - first:
+      213: 21300206
+    second: Junkyard-dungeon_tile-set_103
+  - first:
+      213: 21300208
+    second: Junkyard-dungeon_tile-set_104
+  - first:
+      213: 21300210
+    second: Junkyard-dungeon_tile-set_105
+  - first:
+      213: 21300212
+    second: Junkyard-dungeon_tile-set_106
+  - first:
+      213: 21300214
+    second: Junkyard-dungeon_tile-set_107
+  - first:
+      213: 21300216
+    second: Junkyard-dungeon_tile-set_108
+  - first:
+      213: 21300218
+    second: Junkyard-dungeon_tile-set_109
+  - first:
+      213: 21300220
+    second: Junkyard-dungeon_tile-set_110
+  - first:
+      213: 21300222
+    second: Junkyard-dungeon_tile-set_111
+  - first:
+      213: 21300224
+    second: Junkyard-dungeon_tile-set_112
+  - first:
+      213: 21300226
+    second: Junkyard-dungeon_tile-set_113
+  - first:
+      213: 21300228
+    second: Junkyard-dungeon_tile-set_114
+  - first:
+      213: 21300230
+    second: Junkyard-dungeon_tile-set_115
+  - first:
+      213: 21300232
+    second: Junkyard-dungeon_tile-set_116
+  - first:
+      213: 21300234
+    second: Junkyard-dungeon_tile-set_117
+  - first:
+      213: 21300236
+    second: Junkyard-dungeon_tile-set_118
+  - first:
+      213: 21300238
+    second: Junkyard-dungeon_tile-set_119
+  - first:
+      213: 21300240
+    second: Junkyard-dungeon_tile-set_120
+  - first:
+      213: 21300242
+    second: Junkyard-dungeon_tile-set_121
+  - first:
+      213: 21300244
+    second: Junkyard-dungeon_tile-set_122
+  - first:
+      213: 21300246
+    second: Junkyard-dungeon_tile-set_123
+  - first:
+      213: 21300248
+    second: Junkyard-dungeon_tile-set_124
+  - first:
+      213: 21300250
+    second: Junkyard-dungeon_tile-set_125
+  - first:
+      213: 21300252
+    second: Junkyard-dungeon_tile-set_126
+  - first:
+      213: 21300254
+    second: Junkyard-dungeon_tile-set_127
+  - first:
+      213: 21300256
+    second: Junkyard-dungeon_tile-set_128
+  - first:
+      213: 21300258
+    second: Junkyard-dungeon_tile-set_129
+  - first:
+      213: 21300260
+    second: Junkyard-dungeon_tile-set_130
+  - first:
+      213: 21300262
+    second: Junkyard-dungeon_tile-set_131
+  - first:
+      213: 21300264
+    second: Junkyard-dungeon_tile-set_132
+  - first:
+      213: 21300266
+    second: Junkyard-dungeon_tile-set_133
+  - first:
+      213: 21300268
+    second: Junkyard-dungeon_tile-set_134
+  - first:
+      213: 21300270
+    second: Junkyard-dungeon_tile-set_137
+  - first:
+      213: 21300272
+    second: Junkyard-dungeon_tile-set_138
+  - first:
+      213: 21300274
+    second: Junkyard-dungeon_tile-set_139
+  - first:
+      213: 21300276
+    second: Junkyard-dungeon_tile-set_140
+  - first:
+      213: 21300278
+    second: Junkyard-dungeon_tile-set_141
+  - first:
+      213: 21300280
+    second: Junkyard-dungeon_tile-set_143
+  - first:
+      213: 21300282
+    second: Junkyard-dungeon_tile-set_144
+  - first:
+      213: 21300284
+    second: Junkyard-dungeon_tile-set_145
+  - first:
+      213: 21300286
+    second: Junkyard-dungeon_tile-set_146
+  - first:
+      213: 21300288
+    second: Junkyard-dungeon_tile-set_147
+  - first:
+      213: 21300290
+    second: Junkyard-dungeon_tile-set_135
+  - first:
+      213: 21300292
+    second: Junkyard-dungeon_tile-set_136
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 941
+        width: 118
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaac59b8cf98da4c9f7f999150d3613
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 961
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb364b3751f50c44846bee8e4505a6f
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_2
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 953
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94699522e5908964db54ec17c65a6d97
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 944
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbf5ea1e01ab9849b8c303fdcf06467
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 941
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d1c65c4176f04184ef02f8b9f419f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_5
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 911
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4517e3ec89159bf45852bad50f677e1f
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 911
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a192efd078ccd84491678ec7e8d092b
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 863
+        width: 273
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3366bc69432c96a478d26dc2fea19c05
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_8
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 843
+        width: 111
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e74237b34c15e4db3400b1c48d0bfe
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 870
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7e15f120467b54c8cdf90b76b6c127
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 924
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37e6ffd3fecf6c40b00a6780ea5455a
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 874
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d124870d00e734ba25acd479efd26c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 874
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37efa8997ae2d4744b5ce2d3904b4aa4
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 911
+        width: 74
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f6c988997f9da48a8457b549811e86
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 891
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961dfda389d7500418ef4265012b09f1
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 896
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac39ddfa6046b48a7213ebce8876dc
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 887
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22510304b5943b43a4e10c85ba48c63
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_17
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 627
+        width: 104
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd64f76799fc8d409185514ffb9f2e3
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 891
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6e95ced006494091fe2dcd93afef1
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_19
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 869
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8534ec22140762479e30a468dc25630
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 875
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536cfb7c971d8d34594bea079119b703
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_21
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 848
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59af073359dac3469b0b23329d33f4c
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 850
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e0d8efb05158e4cacdbef3c918a20c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_23
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 858
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd540405a310794a97ab218c916249b
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_24
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 834
+        width: 74
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5195c59c481538149a1951e354529e67
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 867
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6833782e335d6f140bb43c9ef014f0c5
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 863
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fe853849eef27428713963d6a2ab4c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 859
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b721fa284f6914e9ffcc86892c2640
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 853
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d22840be3ebbe4da4c87e739564b39
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 854
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de2ec5393b034e4aa271a853995e730
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 730
+        width: 115
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ab945b40ccede4eb4e67d72fdc90af
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_31
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 846
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58295ecb9d066b419c16a5bd4e1fa7f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_32
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 846
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966c164721ba34d4a952366b073592c6
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_33
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 838
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568ad568e6c570a41b19b40b84f07937
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_34
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 833
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d4e2591531e4e47866c99ed48857f0
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_35
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 795
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1e3e9930cdb6e4eb6c9d722175b1ac
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_36
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 512
+        width: 463
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d03301b8a77d4ba045c1f9ecf3046
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_37
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 819
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e2f18cd75d6b7429429863962f78ec
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_38
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 842
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd07a3533f559e84ba01628d357c9597
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_39
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 640
+        width: 70
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42604e5cac5b0094497a62c034b52d7b
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_40
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 834
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0636b373cd33dd2429a0ff8d80cc9160
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 821
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f147c7532e60c43aa02d83dcd3f397
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_42
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 785
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609746b635d24854299713dd1017e688
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_43
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 821
+        width: 71
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8317c7cea3641458bb5c07735fdbee
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_44
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 640
+        width: 50
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b26528d6657a240a26e3ce27927f17
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_45
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 817
+        width: 58
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44bd4e847a48e94aa4732f2d7937d3a
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_46
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 805
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb969a5c26a21b4fb75f13b1f6ea47c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_47
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 805
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f7acd0e808a554b88973b0dda27b58
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_48
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 805
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6f28fa268eaaa4f9bd8f1d35189297
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_49
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 809
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f06c47cb9332e4d828c39e07177202
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_50
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 803
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e654bc7810813a14db7df3652f0f96f8
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_51
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 784
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588d0a6f8b6edbc46b5b9462c4edd2d3
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_52
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 784
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896f262e3c5d6d4b9e3ae5ea9f81af5
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_53
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 805
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecabfacff14fd6468a82a6091476194
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_54
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 802
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef607a93a7974643a24de92e2aff357
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_55
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 792
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f42901ca15d9642a8266efdab45dde
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_56
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 640
+        width: 59
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e63a9dc83c2eb14a8931900bd5cd465
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_57
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 792
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6415e3d027e8f41a34f028fff9f909
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_58
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 734
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9a8ad8cbfa04a4695723d010230ec1
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_59
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 753
+        width: 76
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e99eb0a47f1e84ca5e43cb95de6b6d
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_60
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 788
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502bd9dd0cb4814c8f2bdff88059bfc
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_61
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 788
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92b6dc2b011cb04ba2feebbff7166ca
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_62
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 780
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0725e7344bd4b74d8f6b331ab0ce396
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_63
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 780
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682cb61c2178d14299e10ee986c209d
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_64
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 733
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61829e29c775ec49ad203423e3c1d7c
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 768
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2843fadf911205542b6f810d25ddd2eb
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_66
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 772
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b41b17ebfb1924daad8e6ac765a164
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_67
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 772
+        width: 78
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b5d69d439880243ab5f6cdd4ef9010
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_68
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 739
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f008ff6348bb93942b814659441ccb19
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_69
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 739
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa59cc8c55931cb4889757523c1ec55f
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 640
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be10b188ec4791e419fb27cd5cf8fe48
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_71
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 751
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be5bd63a54cc934fa2589272931f245
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_72
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 738
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee2ac0ba694ec843aa1fb4266ac9d79
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_73
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 735
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319cef63646cab1429de8bcad824f3d5
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_74
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 704
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbe938a4c471bd4093daacf69b8daca
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_75
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 730
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abd0961e756e7f4593186dfe3d32c7d
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_76
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 730
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6b541b8c0b54348993c80c8cc2fd66
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_77
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 718
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cc07314699492408af072358969bc9
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_78
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 718
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510657aed815e3d4e85a43b1fa97b4c0
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_79
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 684
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6904c438bb9173d4a94334ad9e5ee4ca
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_80
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 623
+        width: 104
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd96e95406830547a898f8215c33f4a
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_81
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 702
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbdf8c616ac93048b348b6d7bcf4072
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_82
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 702
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9172c28b590b18843b8bee61b4e75c85
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_83
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 697
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bacfbc69537d824a8d0be222c2e3a4b
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_84
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 640
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da70fb45a73ea42b35bb7421cd4232
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_85
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 642
+        width: 107
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35de2aad1f902984389493716e033a8a
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_86
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 640
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560232f47dc037744acfbe212e971b9c
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_87
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 685
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6dd1b43e1d49a4aab6e83a23ec5efa
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_88
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 665
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70c378b6f397284c9f95cfb4b86072c
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_89
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 660
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa9a74a3c8e0074bad5a4de10779bcf
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_90
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 605
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4155a42324227c4fadab4e12d3af7d6
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_91
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 627
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4068c4b4ef7753488dd5f0eb0ed0e26
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_92
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 615
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4529c5f312fbb88498c473bd240b87bd
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_93
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 574
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867682d39bb31954daefcad049c77a5c
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_94
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 574
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fead13762d02ee344a60b8ad343e87f9
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_95
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 570
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c62457574374046ab45d20460ee566
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_96
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 565
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c021e39d21487514ab1201295f567d56
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_97
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 375
+        width: 294
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c7351c10a041b4ead4cc3241b4a6ce
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_98
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 541
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d442251bf9605144a7026c1083be154
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_99
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 520
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba085fe7c7e4554f8be2d51247b8527
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_100
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 524
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8e1a959e06d8049b22b41af76004fd
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_101
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 318
+        width: 409
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b41b2d25e2a7043b6b0637b3bef6de
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_102
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 306
+        width: 74
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae260ff0013ac4783ee8bf111b2468
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_103
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 503
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e56dce22e22d3a4fa4000a85740eb8e
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_104
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 503
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777dbd327d6ca4d47a4a185f52684fcd
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_105
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 499
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bccd6f9a69e4447a16c444213ff6a2
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_106
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 490
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d658bd0a0ef184895cf4817cbaae83
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 495
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c88a67fe00e9b45bd144fc5c46628e
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_108
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 470
+        width: 146
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e01a393e330cde46827fab5d533de12
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_109
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 475
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa64c18d66bc6a438eed1f5ea046d5a
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_110
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 62
+        width: 82
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d967cd8281b24458698c4c47c304fe
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_111
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 258
+        width: 405
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d4ff6c5e56a744c8725d3946cfb79c
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_112
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 421
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f771975718fa8945ad0c103b0b5079f
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_113
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 409
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa44d73c7a5f7194485919207050ea0f
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_114
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 91
+        width: 104
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9507f24365f5174e972a5d777f69670
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_115
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 380
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90191cc8b893d42938f91fba08da95
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_116
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 239
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4cdd2c1f5a554e9b23f7dc165ac18
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_117
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 153
+        width: 50
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3eba61eba09c4eb0935dd8b55e857
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_118
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 157
+        width: 196
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728fda5efd33d87448d618a88e4ab59f
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_119
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 301
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c31ea4cc52e55e4bb87ae3a7080e199
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_120
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 357
+        width: 77
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb30d0ef55dd8d840a7e73fb7b091ff7
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_121
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 202
+        width: 224
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01739e8e6d2c784380f1b653fc84cf2
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_122
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 272
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d2c7c7671d14418f5c927180a85ff
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_123
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 264
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb8ea9f33c92145a16305aa2fcc8a4
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_124
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 256
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a3fab6bb7c8943996b62eae7013c4
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_125
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 219
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32560f932cad9e54f8f0f8d1d0bc918a
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_126
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 239
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a2f8eec1d4774697106b4e6e152ea
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_127
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 190
+        width: 120
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dc8aa1285158a4280e0230d2558554
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_128
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 227
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809812be5fc35e84fa6a8b3e4df30faf
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_129
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 219
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5cf0eed57c2e44a93762afeca9c6d1
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_130
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 227
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64ff67e1f48005458877da5385c371f
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_131
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 157
+        width: 145
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d7a9517f781b45b65b7f7bce253e0
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_132
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 223
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed44e712a628834bba4448a1dafa17d
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_133
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 219
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd42c9f6bc580764280e7e2bb7fda67b
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_134
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 219
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4449193890f4f419da8ede7b57cb5c
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_137
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 215
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2013aaad2fa97949b756f61b36861f3
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_138
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 99
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5ffdbed5b9c1a4b850ac936ee986a3
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_139
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 69
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400681fbd2ab13346bfc82d4fc4202f2
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_140
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 107
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b60aeeb278584142a69d270305a88a1
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_141
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 78
+        width: 396
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e711578cb24e15469c4182de1cb275c
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_143
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 134
+        width: 111
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4249c68010d3c43824182e6adc0e16
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_144
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 12
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e414aef73561d4ba3608c264474838
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_145
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 99
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342ec74fdce9afb43b9fea2e25373786
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_146
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 131
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776120fdd7cc534fa52873773a17f8f
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_147
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 45
+        width: 177
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02690d315b008143a39259fc274bc9c
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_135
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 727
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb2067bebd4af4fad90923dab80b9d
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junkyard-dungeon_tile-set_136
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 821
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ab9d9c04526d42a9b03cd702e6862
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 598fcb43654463a4a81c3392fce2bf4e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

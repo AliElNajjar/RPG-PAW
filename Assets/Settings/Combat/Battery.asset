@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61115b4c2e816ca4f98a275f20caec37, type: 3}
+  m_Name: Battery
+  m_EditorClassIdentifier: 
+  initiativeSprite: {fileID: 0}
+  unitSkills:
+  - skillData: {fileID: 4420811480170679148, guid: 5d0dfecd742a52b48b46af31b3259b37,
+      type: 3}
+    isUnlocked: 1
+  tagTeamManeuvers: []
+  combatHazardData:
+    unitName: Battery
+    level: 0
+    strength:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    speed:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    sturdiness:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    charisma:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    talent:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    luck:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    accuracy:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    defense:
+      baseValue: 99999
+      modifiers: []
+      _value: 0
+    dodge:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    resist:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    critChance:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    currentHealth:
+      baseValue: 99999
+      modifiers: []
+      _value: 0
+    currentActionPoints:
+      baseValue: 999999
+      modifiers: []
+      _value: 0
+    mainDamageSource: 0
+    damageType: 0
+    dmgCut: 0
+    unitType: 0
+    currentAilment: 0

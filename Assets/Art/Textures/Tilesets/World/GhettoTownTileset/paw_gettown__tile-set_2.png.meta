@@ -1,0 +1,6908 @@
+fileFormatVersion: 2
+guid: e6af2470b853f0d4fb51f7f2a67a2d58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: buildings2
+  - first:
+      213: 21300002
+    second: buildings3
+  - first:
+      213: 21300004
+    second: buildings4
+  - first:
+      213: 21300006
+    second: paw_gettown__tile-set_2_3
+  - first:
+      213: 21300008
+    second: paw_gettown__tile-set_2_4
+  - first:
+      213: 21300010
+    second: paw_gettown__tile-set_2_5
+  - first:
+      213: 21300012
+    second: paw_gettown__tile-set_2_6
+  - first:
+      213: 21300014
+    second: paw_gettown__tile-set_2_7
+  - first:
+      213: 21300016
+    second: paw_gettown__tile-set_2_8
+  - first:
+      213: 21300018
+    second: paw_gettown__tile-set_2_9
+  - first:
+      213: 21300020
+    second: paw_gettown__tile-set_2_10
+  - first:
+      213: 21300022
+    second: paw_gettown__tile-set_2_11
+  - first:
+      213: 21300024
+    second: paw_gettown__tile-set_2_12
+  - first:
+      213: 21300026
+    second: paw_gettown__tile-set_2_13
+  - first:
+      213: 21300028
+    second: paw_gettown__tile-set_2_14
+  - first:
+      213: 21300030
+    second: LamppostFront
+  - first:
+      213: 21300032
+    second: LamppostSide
+  - first:
+      213: 21300034
+    second: buildings5
+  - first:
+      213: 21300036
+    second: paw_gettown__tile-set_2_18
+  - first:
+      213: 21300038
+    second: paw_gettown__tile-set_2_19
+  - first:
+      213: 21300040
+    second: paw_gettown__tile-set_2_20
+  - first:
+      213: 21300042
+    second: paw_gettown__tile-set_2_21
+  - first:
+      213: 21300044
+    second: paw_gettown__tile-set_2_22
+  - first:
+      213: 21300046
+    second: paw_gettown__tile-set_2_23
+  - first:
+      213: 21300048
+    second: paw_gettown__tile-set_2_24
+  - first:
+      213: 21300050
+    second: treewithbase
+  - first:
+      213: 21300052
+    second: paw_gettown__tile-set_2_26
+  - first:
+      213: 21300054
+    second: paw_gettown__tile-set_2_27
+  - first:
+      213: 21300056
+    second: paw_gettown__tile-set_2_28
+  - first:
+      213: 21300058
+    second: paw_gettown__tile-set_2_29
+  - first:
+      213: 21300060
+    second: paw_gettown__tile-set_2_30
+  - first:
+      213: 21300062
+    second: paw_gettown__tile-set_2_31
+  - first:
+      213: 21300064
+    second: paw_gettown__tile-set_2_32
+  - first:
+      213: 21300066
+    second: paw_gettown__tile-set_2_33
+  - first:
+      213: 21300068
+    second: buildings10
+  - first:
+      213: 21300070
+    second: paw_gettown__tile-set_2_35
+  - first:
+      213: 21300072
+    second: paw_gettown__tile-set_2_36
+  - first:
+      213: 21300074
+    second: paw_gettown__tile-set_2_37
+  - first:
+      213: 21300076
+    second: buildings13
+  - first:
+      213: 21300078
+    second: paw_gettown__tile-set_2_39
+  - first:
+      213: 21300080
+    second: paw_gettown__tile-set_2_40
+  - first:
+      213: 21300082
+    second: paw_gettown__tile-set_2_41
+  - first:
+      213: 21300084
+    second: buildings11
+  - first:
+      213: 21300086
+    second: buildings12
+  - first:
+      213: 21300088
+    second: gymmockup
+  - first:
+      213: 21300090
+    second: paw_gettown__tile-set_2_45
+  - first:
+      213: 21300092
+    second: paw_gettown__tile-set_2_46
+  - first:
+      213: 21300094
+    second: paw_gettown__tile-set_2_47
+  - first:
+      213: 21300096
+    second: gymbuilding
+  - first:
+      213: 21300098
+    second: paw_gettown__tile-set_2_49
+  - first:
+      213: 21300100
+    second: paw_gettown__tile-set_2_50
+  - first:
+      213: 21300102
+    second: paw_gettown__tile-set_2_51
+  - first:
+      213: 21300104
+    second: trashbindownopen
+  - first:
+      213: 21300106
+    second: trashbindownopenfull
+  - first:
+      213: 21300108
+    second: paw_gettown__tile-set_2_54
+  - first:
+      213: 21300110
+    second: paw_gettown__tile-set_2_55
+  - first:
+      213: 21300112
+    second: paw_gettown__tile-set_2_56
+  - first:
+      213: 21300114
+    second: paw_gettown__tile-set_2_57
+  - first:
+      213: 21300116
+    second: truckwhite
+  - first:
+      213: 21300118
+    second: CarPink
+  - first:
+      213: 21300120
+    second: CarPinkDown
+  - first:
+      213: 21300122
+    second: paw_gettown__tile-set_2_61
+  - first:
+      213: 21300124
+    second: buildings1
+  - first:
+      213: 21300126
+    second: buildings6
+  - first:
+      213: 21300128
+    second: buildings7
+  - first:
+      213: 21300130
+    second: buildings8
+  - first:
+      213: 21300132
+    second: buildings9
+  - first:
+      213: 21300134
+    second: paw_gettown__tile-set_2_67
+  - first:
+      213: 21300136
+    second: paw_gettown__tile-set_2_68
+  - first:
+      213: 21300138
+    second: truckred
+  - first:
+      213: 21300140
+    second: paw_gettown__tile-set_2_70
+  - first:
+      213: 21300142
+    second: CarGreenUp
+  - first:
+      213: 21300144
+    second: paw_gettown__tile-set_2_72
+  - first:
+      213: 21300146
+    second: paw_gettown__tile-set_2_73
+  - first:
+      213: 21300148
+    second: paw_gettown__tile-set_2_74
+  - first:
+      213: 21300150
+    second: paw_gettown__tile-set_2_75
+  - first:
+      213: 21300152
+    second: paw_gettown__tile-set_2_76
+  - first:
+      213: 21300154
+    second: paw_gettown__tile-set_2_77
+  - first:
+      213: 21300156
+    second: paw_gettown__tile-set_2_78
+  - first:
+      213: 21300158
+    second: truckblue
+  - first:
+      213: 21300160
+    second: CarRed
+  - first:
+      213: 21300162
+    second: paw_gettown__tile-set_2_81
+  - first:
+      213: 21300164
+    second: paw_gettown__tile-set_2_82
+  - first:
+      213: 21300166
+    second: paw_gettown__tile-set_2_83
+  - first:
+      213: 21300168
+    second: CarYellow
+  - first:
+      213: 21300170
+    second: paw_gettown__tile-set_2_85
+  - first:
+      213: 21300172
+    second: paw_gettown__tile-set_2_86
+  - first:
+      213: 21300174
+    second: paw_gettown__tile-set_2_87
+  - first:
+      213: 21300176
+    second: paw_gettown__tile-set_2_88
+  - first:
+      213: 21300178
+    second: paw_gettown__tile-set_2_89
+  - first:
+      213: 21300180
+    second: FireBarrelFrontLayer
+  - first:
+      213: 21300182
+    second: fire1
+  - first:
+      213: 21300184
+    second: fire2
+  - first:
+      213: 21300186
+    second: fire3
+  - first:
+      213: 21300188
+    second: paw_gettown__tile-set_2_94
+  - first:
+      213: 21300190
+    second: paw_gettown__tile-set_2_95
+  - first:
+      213: 21300192
+    second: brokentruck1
+  - first:
+      213: 21300194
+    second: brokencarpink
+  - first:
+      213: 21300196
+    second: brokencarpinkvertical
+  - first:
+      213: 21300198
+    second: hospitalmockup
+  - first:
+      213: 21300200
+    second: GUNmockup
+  - first:
+      213: 21300202
+    second: drugmockup
+  - first:
+      213: 21300204
+    second: paw_gettown__tile-set_2_102
+  - first:
+      213: 21300206
+    second: paw_gettown__tile-set_2_103
+  - first:
+      213: 21300208
+    second: gymbase
+  - first:
+      213: 21300210
+    second: paw_gettown__tile-set_2_105
+  - first:
+      213: 21300212
+    second: paw_gettown__tile-set_2_106
+  - first:
+      213: 21300214
+    second: paw_gettown__tile-set_2_107
+  - first:
+      213: 21300216
+    second: paw_gettown__tile-set_2_108
+  - first:
+      213: 21300218
+    second: paw_gettown__tile-set_2_109
+  - first:
+      213: 21300220
+    second: wallcornerR
+  - first:
+      213: 21300222
+    second: paw_gettown__tile-set_2_111
+  - first:
+      213: 21300224
+    second: paw_gettown__tile-set_2_112
+  - first:
+      213: 21300226
+    second: giraffe
+  - first:
+      213: 21300228
+    second: brokentruck2
+  - first:
+      213: 21300230
+    second: brokencargreen
+  - first:
+      213: 21300232
+    second: brokencargreenvertical
+  - first:
+      213: 21300234
+    second: paw_gettown__tile-set_2_117
+  - first:
+      213: 21300236
+    second: wallBody
+  - first:
+      213: 21300238
+    second: paw_gettown__tile-set_2_119
+  - first:
+      213: 21300240
+    second: junkyardfence
+  - first:
+      213: 21300242
+    second: brokentruck3
+  - first:
+      213: 21300244
+    second: brokencaryellow
+  - first:
+      213: 21300246
+    second: brokencarred
+  - first:
+      213: 21300248
+    second: brokencarblue
+  - first:
+      213: 21300250
+    second: paw_gettown__tile-set_2_125
+  - first:
+      213: 21300252
+    second: paw_gettown__tile-set_2_126
+  - first:
+      213: 21300254
+    second: WallEnd1
+  - first:
+      213: 21300256
+    second: paw_gettown__tile-set_2_128
+  - first:
+      213: 21300258
+    second: paw_gettown__tile-set_2_129
+  - first:
+      213: 21300260
+    second: junkyardoface1
+  - first:
+      213: 21300262
+    second: 1i_interior
+  - first:
+      213: 21300264
+    second: 6IMockup
+  - first:
+      213: 21300266
+    second: 4imockup
+  - first:
+      213: 21300268
+    second: paw_gettown__tile-set_2_134
+  - first:
+      213: 21300270
+    second: paw_gettown__tile-set_2_135
+  - first:
+      213: 21300272
+    second: WallEnd2
+  - first:
+      213: 21300274
+    second: i1Room_BG
+  - first:
+      213: 21300276
+    second: 6iBG
+  - first:
+      213: 21300278
+    second: hospitalbg
+  - first:
+      213: 21300280
+    second: GUNBG
+  - first:
+      213: 21300282
+    second: drugBG
+  - first:
+      213: 21300284
+    second: chopshopinterior2
+  - first:
+      213: 21300286
+    second: paw_gettown__tile-set_2_143
+  - first:
+      213: 21300288
+    second: gymsandbag
+  - first:
+      213: 21300290
+    second: paw_gettown__tile-set_2_145
+  - first:
+      213: 21300292
+    second: gymwrestlinghexagon
+  - first:
+      213: 21300294
+    second: paw_gettown__tile-set_2_147
+  - first:
+      213: 21300296
+    second: 4ibg
+  - first:
+      213: 21300298
+    second: paw_gettown__tile-set_2_149
+  - first:
+      213: 21300300
+    second: paw_gettown__tile-set_2_150
+  - first:
+      213: 21300302
+    second: GUNWall
+  - first:
+      213: 21300304
+    second: gymmats
+  - first:
+      213: 21300306
+    second: gympillar
+  - first:
+      213: 21300308
+    second: paw_gettown__tile-set_2_154
+  - first:
+      213: 21300310
+    second: paw_gettown__tile-set_2_155
+  - first:
+      213: 21300312
+    second: drugwall
+  - first:
+      213: 21300314
+    second: paw_gettown__tile-set_2_157
+  - first:
+      213: 21300316
+    second: paw_gettown__tile-set_2_158
+  - first:
+      213: 21300318
+    second: GUNprop1
+  - first:
+      213: 21300320
+    second: GUNprop2
+  - first:
+      213: 21300322
+    second: drugprops1
+  - first:
+      213: 21300324
+    second: drugprops8
+  - first:
+      213: 21300326
+    second: gymwrestlingring
+  - first:
+      213: 21300328
+    second: i1room_bgwall1
+  - first:
+      213: 21300330
+    second: i1room_bgwall2
+  - first:
+      213: 21300332
+    second: 6IWall
+  - first:
+      213: 21300334
+    second: paw_gettown__tile-set_2_167
+  - first:
+      213: 21300336
+    second: 4iwall
+  - first:
+      213: 21300338
+    second: drugprops2
+  - first:
+      213: 21300340
+    second: i1props1
+  - first:
+      213: 21300342
+    second: paw_gettown__tile-set_2_171
+  - first:
+      213: 21300344
+    second: 6IProps2
+  - first:
+      213: 21300346
+    second: paw_gettown__tile-set_2_173
+  - first:
+      213: 21300348
+    second: paw_gettown__tile-set_2_174
+  - first:
+      213: 21300350
+    second: 4iprops1
+  - first:
+      213: 21300352
+    second: paw_gettown__tile-set_2_176
+  - first:
+      213: 21300354
+    second: drugprops4
+  - first:
+      213: 21300356
+    second: paw_gettown__tile-set_2_178
+  - first:
+      213: 21300358
+    second: i1props2
+  - first:
+      213: 21300360
+    second: paw_gettown__tile-set_2_180
+  - first:
+      213: 21300362
+    second: 6IProps1
+  - first:
+      213: 21300364
+    second: 4iprops3
+  - first:
+      213: 21300366
+    second: drugprops3
+  - first:
+      213: 21300368
+    second: drugprops5
+  - first:
+      213: 21300370
+    second: drugprops6
+  - first:
+      213: 21300372
+    second: drugprops7
+  - first:
+      213: 21300374
+    second: i1props4
+  - first:
+      213: 21300376
+    second: 4iprops2
+  - first:
+      213: 21300378
+    second: hospitalwall1
+  - first:
+      213: 21300380
+    second: hospitalwall2
+  - first:
+      213: 21300382
+    second: i1props3
+  - first:
+      213: 21300384
+    second: i1props5
+  - first:
+      213: 21300386
+    second: paw_gettown__tile-set_2_193
+  - first:
+      213: 21300388
+    second: paw_gettown__tile-set_2_194
+  - first:
+      213: 21300390
+    second: paw_gettown__tile-set_2_195
+  - first:
+      213: 21300392
+    second: paw_gettown__tile-set_2_196
+  - first:
+      213: 21300394
+    second: paw_gettown__tile-set_2_197
+  - first:
+      213: 21300396
+    second: paw_gettown__tile-set_2_198
+  - first:
+      213: 21300398
+    second: paw_gettown__tile-set_2_199
+  - first:
+      213: 21300400
+    second: paw_gettown__tile-set_2_200
+  - first:
+      213: 21300402
+    second: paw_gettown__tile-set_2_201
+  - first:
+      213: 21300404
+    second: paw_gettown__tile-set_2_202
+  - first:
+      213: 21300406
+    second: paw_gettown__tile-set_2_203
+  - first:
+      213: 21300408
+    second: paw_gettown__tile-set_2_204
+  - first:
+      213: 21300410
+    second: paw_gettown__tile-set_2_205
+  - first:
+      213: 21300412
+    second: paw_gettown__tile-set_2_206
+  - first:
+      213: 21300414
+    second: paw_gettown__tile-set_2_207
+  - first:
+      213: 21300416
+    second: paw_gettown__tile-set_2_208
+  - first:
+      213: 21300418
+    second: paw_gettown__tile-set_2_209
+  - first:
+      213: 21300420
+    second: paw_gettown__tile-set_2_210
+  - first:
+      213: 21300422
+    second: paw_gettown__tile-set_2_211
+  - first:
+      213: 21300424
+    second: paw_gettown__tile-set_2_212
+  - first:
+      213: 21300426
+    second: paw_gettown__tile-set_2_213
+  - first:
+      213: 21300428
+    second: hospitalprops5
+  - first:
+      213: 21300430
+    second: hospitalprops6
+  - first:
+      213: 21300432
+    second: paw_gettown__tile-set_2_216
+  - first:
+      213: 21300434
+    second: paw_gettown__tile-set_2_217
+  - first:
+      213: 21300436
+    second: paw_gettown__tile-set_2_218
+  - first:
+      213: 21300438
+    second: paw_gettown__tile-set_2_219
+  - first:
+      213: 21300440
+    second: paw_gettown__tile-set_2_220
+  - first:
+      213: 21300442
+    second: paw_gettown__tile-set_2_221
+  - first:
+      213: 21300444
+    second: paw_gettown__tile-set_2_222
+  - first:
+      213: 21300446
+    second: paw_gettown__tile-set_2_223
+  - first:
+      213: 21300448
+    second: paw_gettown__tile-set_2_224
+  - first:
+      213: 21300450
+    second: paw_gettown__tile-set_2_225
+  - first:
+      213: 21300452
+    second: paw_gettown__tile-set_2_226
+  - first:
+      213: 21300454
+    second: paw_gettown__tile-set_2_227
+  - first:
+      213: 21300456
+    second: paw_gettown__tile-set_2_228
+  - first:
+      213: 21300458
+    second: paw_gettown__tile-set_2_229
+  - first:
+      213: 21300460
+    second: paw_gettown__tile-set_2_230
+  - first:
+      213: 21300462
+    second: paw_gettown__tile-set_2_231
+  - first:
+      213: 21300464
+    second: paw_gettown__tile-set_2_232
+  - first:
+      213: 21300466
+    second: paw_gettown__tile-set_2_233
+  - first:
+      213: 21300468
+    second: hospitalprops1
+  - first:
+      213: 21300470
+    second: hospitalprops3
+  - first:
+      213: 21300472
+    second: hospitalprops2
+  - first:
+      213: 21300474
+    second: hospitalprops4
+  - first:
+      213: 21300476
+    second: paw_gettown__tile-set_2_238
+  - first:
+      213: 21300478
+    second: paw_gettown__tile-set_2_239
+  - first:
+      213: 21300480
+    second: paw_gettown__tile-set_2_240
+  - first:
+      213: 21300482
+    second: paw_gettown__tile-set_2_241
+  - first:
+      213: 21300484
+    second: paw_gettown__tile-set_2_242
+  - first:
+      213: 21300486
+    second: paw_gettown__tile-set_2_243
+  - first:
+      213: 21300488
+    second: paw_gettown__tile-set_2_244
+  - first:
+      213: 21300490
+    second: hospitalprops10
+  - first:
+      213: 21300492
+    second: hospitalprops12
+  - first:
+      213: 21300494
+    second: paw_gettown__tile-set_2_247
+  - first:
+      213: 21300496
+    second: paw_gettown__tile-set_2_248
+  - first:
+      213: 21300498
+    second: paw_gettown__tile-set_2_249
+  - first:
+      213: 21300500
+    second: paw_gettown__tile-set_2_250
+  - first:
+      213: 21300502
+    second: hospitalprops11
+  - first:
+      213: 21300504
+    second: hospitalprops9
+  - first:
+      213: 21300506
+    second: hospitalprops7
+  - first:
+      213: 21300508
+    second: hospitalprops8
+  - first:
+      213: 21300510
+    second: trashbindownclosed
+  - first:
+      213: 21300512
+    second: chopshopinside1
+  - first:
+      213: 21300514
+    second: SingleCouch
+  - first:
+      213: 21300516
+    second: gymbells
+  - first:
+      213: 21300518
+    second: gymbigbell
+  - first:
+      213: 21300520
+    second: lampposterino
+  - first:
+      213: 21300522
+    second: telephonebooth
+  - first:
+      213: 21300524
+    second: stophammertime
+  - first:
+      213: 21300526
+    second: lampvarianttop
+  - first:
+      213: 21300528
+    second: lampvariantfront
+  - first:
+      213: 21300530
+    second: lampvariantside
+  - first:
+      213: 21300532
+    second: biglamp
+  - first:
+      213: 21300534
+    second: busstop
+  - first:
+      213: 21300536
+    second: busstopsign
+  - first:
+      213: 21300538
+    second: sign1
+  - first:
+      213: 21300540
+    second: sign2
+  - first:
+      213: 21300542
+    second: sign3
+  - first:
+      213: 21300544
+    second: wallNoTop
+  - first:
+      213: 21300546
+    second: paw_gettown__tile-set_2_0
+  - first:
+      213: 21300548
+    second: wall_side_2
+  - first:
+      213: 21300550
+    second: wall_side
+  - first:
+      213: 21300552
+    second: paw_gettown__tile-set_2_1
+  - first:
+      213: 21300554
+    second: paw_gettown__tile-set_2_2
+  - first:
+      213: 21300556
+    second: paw_gettown__tile-set_2_15
+  - first:
+      213: 21300558
+    second: paw_gettown__tile-set_2_16
+  - first:
+      213: 21300560
+    second: paw_gettown__tile-set_2_17
+  - first:
+      213: 21300562
+    second: paw_gettown__tile-set_2_25
+  - first:
+      213: 21300564
+    second: paw_gettown__tile-set_2_34
+  - first:
+      213: 21300566
+    second: paw_gettown__tile-set_2_38
+  - first:
+      213: 21300568
+    second: paw_gettown__tile-set_2_42
+  - first:
+      213: 21300570
+    second: junkyardfence1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buildings3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1811
+        width: 250
+        height: 282
+      alignment: 9
+      pivot: {x: 0.4831897, y: 0.28155604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca4a2c5885279a4fac7fc33ceacb0c1
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings4
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1798
+        width: 258
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30995822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547371ba1c696a74bab5bc9ba15b85a8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_3
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 2061
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e0f53154cbbc24db5e4ef0fbecd64f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_4
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 2061
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e691ef3669fcf92469214ff28d1c4703
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_5
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 2061
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b43383df2e3da44ebdc2bd3fd357427
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_6
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 2061
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68785053ce64eb6499e4c545fe79cecd
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_7
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 2061
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb197a9df76cc664fa3341e57b6e20ba
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_8
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 2061
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b8bc43bcae99048aacc2f2e93d660b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_9
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 2029
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e5db04851632749913ebcb9fafb6f3
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_10
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 2029
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70fa04081ae4384b9cbddab4e9ac256
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_11
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 2029
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a118f6e4902553439261f3124226c98
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_12
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 2029
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9214c6f526cc843865ae2a0a09e9cc
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_13
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 2029
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d49335e1c277548a42a9f7bfba7c2c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_14
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 2029
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66169d503c6972e41884614f8aee5001
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LamppostFront
+      rect:
+        serializedVersion: 2
+        x: 4645
+        y: 1936
+        width: 39
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27427506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229f4bb5ec3deb94ea4f4da6f978d847
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LamppostSide
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 1936
+        width: 15
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f81ce25276fac4e9aca6f50e7fe19d
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings5
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1822
+        width: 220
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41729704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305f01ceebe596149ba6cdaef456545c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_18
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1997
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03b0cd299133f24c82c20cff1997c46
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_19
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 1997
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3151b6fd54e25343be11e465d178986
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_20
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 1997
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98edac139f079241bf807acc3d291b1
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_21
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 1997
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e5c95d6a3cffb4fa4b28d54cae5414
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_22
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1997
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a423b5a5e2358bb429953cfa98a94821
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_23
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 1997
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0dfd7ab9c99ed4ebbf689c815ac193
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_24
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 1937
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fd54dbe8b0ad94588664e689b7db97
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treewithbase
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1935
+        width: 59
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0.33421913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5571d833fc08949868a4b0e98d6238
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_26
+      rect:
+        serializedVersion: 2
+        x: 4719
+        y: 1935
+        width: 18
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde44c60cdf5492448008be48ec6add1
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_27
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1886
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9303d52636805498ad7eeae10b9acd
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_28
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1935
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5051c306d08080f4d818b4f48040579f
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_29
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1967
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585c42ca5a44b7429d8b0289b7038f6
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_30
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1967
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a97706ed1e245744904ea233800542a
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_31
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1967
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c130e80571f78418182b15fba06012
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_32
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 1935
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3b98bcf3bfe0a45be5a7ec4fdefc9a
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_33
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 1935
+        width: 43
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.61691284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8a8137a4022504aab558f8a8886240
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings10
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1593
+        width: 306
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3958338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9b2c1669878704abf1b5e7bbd0e239
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_35
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1935
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb173ef79a6b904d87b1b8e42605697
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_36
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1935
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfc2944684cd32428f411eedfb0a3a7
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_37
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1935
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3141d4ce759c0468277d233f3b628e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings13
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 1610
+        width: 287
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26805568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e606ca97ed26a6c4ba576a02d6d28daa
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_39
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1905
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dca38aea7577241ba1c71438c2bfd1
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_40
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1903
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834a416fd1dd38145865b8398986bf58
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_41
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1905
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89b093b16033254a8c9fb3005e14714
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings11
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1631
+        width: 470
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26307324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c65f2c05028dd4bb38344ab70c13ec
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings12
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1631
+        width: 355
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56770974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763f6f65508a30419c9a2fa44c88d73
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymmockup
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1551
+        width: 483
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638b5a99e4315e4f9314737987317ef
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_45
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1838
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d3e9777521f745aa7c9c892d9c745
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_46
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1870
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7818f201b9764f931ad02028de713
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_47
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1870
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748d95cb8d8f32e4788599915e091cd1
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymbuilding
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1615
+        width: 228
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3989972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983bdc7aa35d99243bf9b50f6bfee3a3
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_49
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 1838
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268af7867bf26f342a37cefdfd5b5bb9
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_50
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 1838
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c05eeeefdd7850438ff72c565a3e732
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashbindownopen
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 1746
+        width: 63
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5703789}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d135e949b8866a749abe888d8d3a05bc
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashbindownopenfull
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 1746
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44adbddad97030b4ab7ca1c7bf27f854
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_54
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1712
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bf5ec51f2dcd94ea2f7aee5ba9e131
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_55
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 1712
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd6d976c0ce2a643b735deaabf7fb54
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_56
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 1712
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3ee88e3d4df94eb69e92e1d5c7ae7
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_57
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 1696
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3006e36ca131cf143a63cf20faa3fa1d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: truckwhite
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 1744
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab8d28e00227ae47bf8a441b7fd96f2
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarPink
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 1760
+        width: 70
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6899541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1524db4b86ffd4ca87c0168955d698
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarPinkDown
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 1728
+        width: 37
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.67226624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ddb8844d5eff140b4d4548b6e985ce
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_61
+      rect:
+        serializedVersion: 2
+        x: 5054
+        y: 1731
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3000cd18d387442b9c5ba8dfff14f9
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1499
+        width: 142
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29607996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf17dac50d5cce42ba4f59563c4b709
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1502
+        width: 139
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41499105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc4362f91762e841a63c750698271e1
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1459
+        width: 239
+        height: 272
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4037157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2014d85c326fbe543a4ef8bfae35fc81
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings8
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1499
+        width: 209
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2968066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7ad659f1c7e540bc6b919141682cb
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buildings9
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1499
+        width: 209
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5, y: 0.29868817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56955bd8e17dd9e4c9a41ae2ab495d7b
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_67
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 1698
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105cf86f4edda274999115d0dd3296e7
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_68
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1698
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a8a52390c3ce499865a5d81bae734
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: truckred
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1677
+        width: 78
+        height: 68
+      alignment: 9
+      pivot: {x: 0, y: 0.60540247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac863bb82a8df3b43ae890c8d29501bf
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_70
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1693
+        width: 64
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.74438703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df399b39a8bbac04a9fb24b5b2ee36de
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarGreenUp
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 1663
+        width: 46
+        height: 57
+      alignment: 9
+      pivot: {x: 0.50663424, y: 0.933446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e3ff2d4d16db4e94a10fe74e41495
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_72
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 1636
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6901c362cee554141a4d5eabe68d5b4f
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_73
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 1599
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650854012f090f3458d379efff751e5b
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_74
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1636
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfe1c3b1937cb04a9ea1715db6fe7e4
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_75
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 1636
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbfc4c9a0b1ea941ad3b4e760227e9f
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_76
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 1636
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c4e8f05345cdd41bde048ed0eb1737
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_77
+      rect:
+        serializedVersion: 2
+        x: 4533
+        y: 1653
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661967088d0c70c44954458056b15d43
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_78
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 1658
+        width: 56
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad87c604c05a8d7449e5e192ad0aa2f3
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: truckblue
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1615
+        width: 78
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6145985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3532de1aa525eb4b845e27b6e8ee849
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarRed
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1631
+        width: 67
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.70994824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4560108319cbc7c42b3d468f0616f353
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_81
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 1599
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d68a2bc07985a2449f069af6d2aecaf
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_82
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 1615
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29de71bd64891e4d848a5567327d0dc
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_83
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1615
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b75eeb71085b94eb4a3264853b23b6
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarYellow
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1583
+        width: 67
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5, y: 0.70700973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f35cc1e348ab9409e70d1338d56eba
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_85
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 1518
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301d769cc5d7084daf8079d9aae254b
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_86
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1521
+        width: 65
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029862088c690346b30de3d085ea8ba
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_87
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 1521
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b35c0e59c5ff94fa1ae8cfaab8ce29
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_88
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 1518
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfa6a5354874446bdcd88148c24fbc
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_89
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 1521
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1f307ce76a18144a987f324f29f56a
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBarrelFrontLayer
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 1521
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e754735d6a3f49f468d04ebf0574f580
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire1
+      rect:
+        serializedVersion: 2
+        x: 4485
+        y: 1522
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56f9fa69c32d94380d5ba238ea1b69
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire2
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 1522
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002b45cb94ee3e8498373b6271a139e9
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fire3
+      rect:
+        serializedVersion: 2
+        x: 4547
+        y: 1522
+        width: 29
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275bbb253cd71d443ba41e01b0e8601e
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_94
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 1522
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a387681b1b758249bf186bdffacc885
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_95
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 1522
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b1184a4ff4e44449aab3b506e5e2ba
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokentruck1
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 1489
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e89e5f4516e6d64e95f858708ada0e0
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokencarpink
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 1502
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef65287f2b27b9d44b1e80d1809bdd95
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokencarpinkvertical
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 1475
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2967642d13bc09744a2e094513208135
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalmockup
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1056
+        width: 421
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36801d7c620c9949bc6507c691e297c
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUNmockup
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1215
+        width: 293
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab132db460f63488255b3a01db0a2f
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugmockup
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 1182
+        width: 322
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296a6f69981b54469a99e87a8971284
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_102
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 1134
+        width: 354
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae802169c487a214e8ba08436ede2b2f
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_103
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 1306
+        width: 64
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307ae85134a4a24981a7bee8e62c67d
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymbase
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1200
+        width: 483
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7389c971f52be4cad495c09914bb3d
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_105
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 1327
+        width: 38
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26d9df8d5bc715438ae2a24d4b11f23
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_106
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1329
+        width: 16
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0d7cb516aa2ac488283d7bb3cfa45d
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_107
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 1405
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5965a72775820408e57b1e52cfd491
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_108
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 1341
+        width: 35
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a99f50b5869cf242abcd6caedff989b
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_109
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 1422
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9f14feb7e1a14481646ae287a445a
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallcornerR
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1344
+        width: 32
+        height: 57
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6b6b9558b2f2c45a674f21688a37fa
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_111
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 1405
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc39ed7ea10948042a983cb3a6208dc9
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_112
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1422
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf06dbaae8a787458a1ecc363e48d23
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: giraffe
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 1424
+        width: 67
+        height: 30
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010a49472e7840343b91b4f470181858
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokentruck2
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1424
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f575d3002f824488c2767d8adc873b
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokencargreen
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1438
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141095d44e4673244a96a7329254a39c
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokencargreenvertical
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 1408
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9216e023c43a924c82050c023be2295
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_117
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1236
+        width: 72
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd2cffe5561cb4d9b79873b01ad1c8
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallBody
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1344
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678aa4732e2ebc642a0ce4f7a3ada465
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_119
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1357
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4188589d68349e8439cc7bb29a404034
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junkyardfence
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 1376
+        width: 67
+        height: 35
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eeba1557d38824eba7bf104abac058
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokentruck3
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 1357
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029137e113945440a82e085734d1d27
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokencaryellow
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1325
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8858d31117e893442ba7e862e8c60730
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokencarred
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 1376
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd8c5c8e4c251b45b7a1525daa1d9ec
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brokencarblue
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 1344
+        width: 40
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.73793703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded3a4cb8ce925840b2147b7de45d7af
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_125
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 1311
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab8b63860e5e44f98ae809d11d7a0e
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_126
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 1268
+        width: 89
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5155784, y: 0.07299672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f204eb31a3daf74da8cdd76ce918cd1
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallEnd1
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1280
+        width: 16
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d08779c86a094ba85e21d1d63a78a
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_128
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1279
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7472e6e5c163bc4abaf8d7ba0a2c717
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_129
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1293
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91a2f072a101894aa7ae3198ff23104
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junkyardoface1
+      rect:
+        serializedVersion: 2
+        x: 4622
+        y: 1314
+        width: 67
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882fef0ede84dc459c9fa2f326b1d2a
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1i_interior
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1056
+        width: 341
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e97c07089edb047ba6631ed0858d7d
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6IMockup
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1056
+        width: 339
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d3e14d38f564f40b48f3df36fe46a2
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4imockup
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1056
+        width: 306
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101468275ffc3640b5fc4a0389d4379
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_134
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1188
+        width: 67
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d303aca9406754c99c05859f51cf2d
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_135
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1193
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ef5c029c52cde4b891956374ca03a1
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallEnd2
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 1231
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9cd4161e34563418c9f39dcbfbbc6b
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i1Room_BG
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 787
+        width: 341
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7cdf0b3581a9b4b991d5dce5f2abae
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6iBG
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 787
+        width: 339
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b9caae4a55eb43a52e174229aacf1
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalbg
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 637
+        width: 421
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9925bbe20b50a4797de2f940525bc0
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUNBG
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 989
+        width: 293
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10a77cba76963478eac4626b550616
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugBG
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 941
+        width: 322
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b3cf19feb10be42b8dec72b7faa895
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chopshopinterior2
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 758
+        width: 354
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdd6d13a3c07ef429edb9cfa8f47097
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_143
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 1032
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084fdd7c645ffc44f8ed258759ac1450
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymsandbag
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1033
+        width: 24
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18774082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0fb53258d0974ea0fe7a4010a8589
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_145
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 932
+        width: 30
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60334971504b848a08cb403fc672fa
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymwrestlinghexagon
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 917
+        width: 217
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3927343e647644bdc35109b17d0cd
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_147
+      rect:
+        serializedVersion: 2
+        x: 4531
+        y: 1040
+        width: 99
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb1026e84048c44b7bafcd22c6c6c7
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4ibg
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 830
+        width: 306
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a6f7bc984a104bb5dbbb2a42c0e04
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_149
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 782
+        width: 78
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cec99c5ed13e24db0841c955e33643
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUNWall
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 879
+        width: 291
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd08f0d8c73ba73469b7a80190960844
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymmats
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 901
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a0c413187cf2e48a97d4d6f1bcd9f1
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gympillar
+      rect:
+        serializedVersion: 2
+        x: 3659
+        y: 944
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8e588ce16bede429e60924552f6a00
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_154
+      rect:
+        serializedVersion: 2
+        x: 3784
+        y: 941
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80b77fe945da44aa0a97374fd211af
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_155
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 881
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7523e7be80df29e468fbba0a35668922
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugwall
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 879
+        width: 322
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdd83ed0ca52d64e929da3f033cd216
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_157
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 906
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70486fa5ceab35a4ea9a2cc39acc6ad9
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_158
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 696
+        width: 121
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddfafc2c932b5d439733d2a12775466
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUNprop1
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 750
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420dbddf50fb1a4bb419a157ee2564c
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GUNprop2
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 790
+        width: 35
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5040667, y: 0.66487604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8732d65b9ea30e6409197e5809891bcb
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugprops1
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 755
+        width: 124
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efd305d2c9e8e44e87d9326a5baad8f
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugprops8
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 739
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086da419bf722a7419f7312180c24b7e
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymwrestlingring
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 691
+        width: 198
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b648b461b466744b7d139354e870a2
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i1room_bgwall1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 717
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3897483e2eabd2429461217cebd4e77
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i1room_bgwall2
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 717
+        width: 212
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927d7e93756460641ac9b07087e2f1dc
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6IWall
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 721
+        width: 338
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5c709e36d54bb41b0082c5f7a1961e
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4iwall
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 717
+        width: 306
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580b3914a2d3ca246b21c4d89ac45ad8
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugprops2
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 736
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42c94fc24d6fcd4d8fb875d1a000292
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i1props1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 578
+        width: 32
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca4fd91d5acf6d4c8a37304264e63c6
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_171
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 521
+        width: 11
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a5f6dace262744e87bcdce42f279da
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6IProps2
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 543
+        width: 252
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255a3ec001920c4d9270d81aeba0170
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_173
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 521
+        width: 11
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080617ee65c756e4eb1b635b2ee3478c
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_174
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 524
+        width: 10
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f65638bd1120b498c89e9a003c0a64
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4iprops1
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 586
+        width: 148
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1b39bf01aa35143a4c02f1129f4b00
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_176
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 524
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4681a17577cda38409ad1f1149830197
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugprops4
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 685
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03869bb2bd1977944b8afd539856ef8d
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_178
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 521
+        width: 11
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27061ed326f1f2a40877f48dc2b4c4d2
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i1props2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 559
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a3918ef22f18f49ae4d2d8157e84be
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_180
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 521
+        width: 11
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a99633f01987c4faa65bddb29dfd97
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6IProps1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 543
+        width: 53
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6c1742805296e4ba7ab6da4222a59f
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4iprops3
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 532
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298fe019f5ef7894db3d0696340a03ac
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugprops3
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 640
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66135d01735f0c4385ce07ae544187c
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugprops5
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 621
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dd3c40050f63246b57ef7ff126f7ed
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugprops6
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 621
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecd40c4fa613fe4f9958c5bb0c6ae74
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drugprops7
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 621
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b2cacf38416a140902c78b8eb07a25
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i1props4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 594
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0b625f46a31f84ebb36c27557e958b
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4iprops2
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 551
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d180de224e61354488377b0d202a2c04
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalwall1
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 575
+        width: 86
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04584d613d171e740a528934a5927a83
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalwall2
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 575
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d4c82a4cc726a419593f1c30dc40ed
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i1props3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 543
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51acac9e5e3cee48904a97c99f69805
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i1props5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 551
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5cd8028141c845893138b8e79cb1e
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_193
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 322
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0845c760e454408d0d58b516d2879
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 449
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d43d82f77dfb540abc5f065fe02370
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_195
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 454
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e0bc569267ae74da6666504d84514c
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_196
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 468
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5ba2f0331e894fa7e1543a62e0647
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_197
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 365
+        width: 80
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db8fb22542bb514dbe8442de9eeda34
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_198
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 470
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbc72d3a55c13142bca7a33a3fda62f
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_199
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 322
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d38fe798b98a3046bd51d5b19ba4ce1
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_200
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 322
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d21c53c66418e54794df6102aee3371
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_201
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 435
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9045e25dd64b21644a4c9991ba6cf37d
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_202
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 422
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d78554d65e224aa73d2f9aa2861b3
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_203
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 427
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879e051c2e30e7944b9190d6dc697fb7
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_204
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 446
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7091fe3c90875f34e86bbb9ccbec08de
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_205
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 322
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab170a68bde3d4419668b25eee51f98
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_206
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 325
+        width: 10
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fcf24c62c1d304f9582040df980c26
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_207
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 403
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90281a598ac61c4e80d0e088555cd50
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_208
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 443
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f573b9469b74daf428a4fe66626c8de7
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_209
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 425
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7703f6dc7990f5409c0dfb2b7314d40
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_210
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 433
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff9de5cad788e840bb296f1d0c91702
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_211
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 411
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b73b2f6832ba54393d19cc59cd5235
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_212
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 325
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679cc449ae9e77d4ab151b3523e24e03
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_213
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 202
+        width: 11
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32d9c17b153f4946be9b79858b2142b
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops5
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 446
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14385699a97901f4bb81d7dc55b4ca04
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops6
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 447
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab835156a30d85448fc6c0de47157b8
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_216
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 202
+        width: 11
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e74356f06ce74e86ef775bb8f383a
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_217
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 379
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d4cf464f3663439e23bd28290e294
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_218
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 419
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51440895daf98b43942a0a8da2f3ed9
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_219
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 438
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1acd21751adef349b4cd613632f3b24
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_220
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 406
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321f4246d4edad4dab22a93580b4fc7
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_221
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 422
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af0e5581651ce249ab180c725922af9
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_222
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 382
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e6b3fc9fbc334cb7a0465af5e7c29
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_223
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 379
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e58b10c0cf20ec4da8dc5dd83b44369
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_224
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 376
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65663a00a0d522428d7e5cb3bd5ec5a
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_225
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 341
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13679d01c6526f43ac8029df864838f
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_226
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 336
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3f9e874459d8444816bcbafcb93a39
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_227
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 336
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6157e7c107cbd4c91c4066f61d1fd6
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_228
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 368
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6195cb477b614a84c65d8b645b4e9
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_229
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 355
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70ca58d6db0c0d47b18f3204c29014e
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_230
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 379
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022bc4de79faed14082c2432a2295d4a
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_231
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 341
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7385d4294dff46871df1dec640cde
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_232
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 355
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a75076b66d42647b6be0e6435e496f
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_233
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 336
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60f33444c591624b9da6a3e6a7567d3
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops1
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 255
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a36df4f2f4cd549925c8ce917427dc
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops3
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 247
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2560c8b721804a14284d86e17564a9db
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops2
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 210
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd726e2777c61f4f968f55898c2bc1e
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops4
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 210
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff1f5e793f4e34585c6576489acc9f
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_238
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 5
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cde923883ea5b48baa0874df9d6555
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_239
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 81
+        width: 84
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dee7096f1c293149b87e48704a926f5
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_240
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 137
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdabac483e7a44419ca415be204a920
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_241
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 86
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b456d77c2c028e4f994f5e0156c3580
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_242
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 121
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c333effaffa2a54b92f7b7f139e6ffc
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_243
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 116
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a7de8b2fa277943963b569e728d078
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_244
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 62
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721b15339a0577f40be0c61f304d19ac
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops10
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 134
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52010907a805c984c881c0e071b6e9da
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops12
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 129
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf58f87f0702c0d4782c08f6e982a184
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_247
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 5
+        width: 11
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c72c7eda949b7c46b45d2422df25625
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_248
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 32
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91623bdf0cd69a24fbf12d15a6c82ec0
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_249
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 32
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd904752f02f4904398198893f5eb3fb
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_250
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 62
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc93b13dc5b7ea94e8faffeec85c74f6
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops11
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 67
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9db49e1e00db54e9a1632f5d1cdd34
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops9
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 38
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1013f478b30443f4bb929a355214cd03
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops7
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 13
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2abe95736e465e4aae7a4ca20eb53f3
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hospitalprops8
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 11
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec656d1428d1704c9110b7ee16378a8
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trashbindownclosed
+      rect:
+        serializedVersion: 2
+        x: 4336
+        y: 1698
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b218f305dd2b8c340bf4c8594dd7f563
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chopshopinside1
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 704
+        width: 352
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0013fdaad1008a347b85dd0e78b0968d
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingleCouch
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 657
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fcb093fc26dee499851144b058bec1
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymbells
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1076
+        width: 95
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c8c096bd5d1ee468d3baeab0f4e92a
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gymbigbell
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 1043
+        width: 93
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d934c50b06f6644c9bba461b829c2c5
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lampposterino
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 1936
+        width: 39
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27427506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f93e0e250b18a41876bd0a947c5c32
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: telephonebooth
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 1936
+        width: 31
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31060532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826455b2399f9ae45bf2b9e1da3d2aa3
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stophammertime
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 1842
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967dab96adc773f418e462544dc03b0d
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lampvarianttop
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 1812
+        width: 14
+        height: 118
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27427506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f40d2bfd2c85d942af8f8228067afec
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lampvariantfront
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 1812
+        width: 15
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27427506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b10ef5cd316e65449c6a15f7da7be4f
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lampvariantside
+      rect:
+        serializedVersion: 2
+        x: 4647
+        y: 1812
+        width: 57
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27427506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fa99157b6ca0e40a8c7f74c39e7e5f
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: biglamp
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 1812
+        width: 15
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db147649bb53043ba89e9b9ee8f9e5
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: busstop
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 1859
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c01ad1c0d1864ba0a1bde50e683ad
+      internalID: 21300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: busstopsign
+      rect:
+        serializedVersion: 2
+        x: 4891
+        y: 1859
+        width: 33
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5239702, y: 0.4588038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0787f750bf49c640a24210b90ceaf8c
+      internalID: 21300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sign1
+      rect:
+        serializedVersion: 2
+        x: 4866
+        y: 1936
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27427506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e1178ff5ca21345960d4ee1f0f8b61
+      internalID: 21300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sign2
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 1936
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27427506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e59428c2e3e4e4792cb0ffdb7b6b75
+      internalID: 21300540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sign3
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 1936
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27427506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263eeb3b286460449b9dc184592381a1
+      internalID: 21300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallNoTop
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1344
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b93b91764c61a4194f7900a5f886ca
+      internalID: 21300544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1825
+        width: 388
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63363b126d52443af0652c7ad69a1a
+      internalID: 21300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_side_2
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 1228
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1c2020ad25c9242bdfcaafb3999d44
+      internalID: 21300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wall_side
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 1228
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159499c59286424cb20b01c2df3a775
+      internalID: 21300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_1
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 1763
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479050051d3c58c408696d19079039ff
+      internalID: 21300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_2
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 1762
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fdd4df2d63eae45a694b0706cf98e2
+      internalID: 21300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_15
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1760
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4af201227975a64d9f980e2efeec92e
+      internalID: 21300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_16
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 1730
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8e08acea7bb8e45aeec04219a0ac6b
+      internalID: 21300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_17
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 1732
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9062ce503cc7a04a9cec40e37a76a91
+      internalID: 21300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_25
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 1732
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0dd5b21a8d4a04db2e4400f03daf84
+      internalID: 21300562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_34
+      rect:
+        serializedVersion: 2
+        x: 4165
+        y: 1696
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d96553bc25f0784298acc9ef0778adb
+      internalID: 21300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_38
+      rect:
+        serializedVersion: 2
+        x: 4197
+        y: 1701
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aab77e7f149c54497a09373cad298a
+      internalID: 21300566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paw_gettown__tile-set_2_42
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 1701
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4876c838acb64464fa04e5773fc910a5
+      internalID: 21300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: junkyardfence1
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 1379
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56178a66ae2d1e94bb2a44f500761693
+      internalID: 21300570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9f357dff0c7336740a41062033bef658
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

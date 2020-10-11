@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ffed36539b1614c8981851b5a9e67d, type: 3}
+  m_Name: MoneyPig
+  m_EditorClassIdentifier: 
+  overWorldAnimations: {fileID: 0}
+  initiativeSprite: {fileID: 21300010, guid: 6ab385ba6dbe65147b63475a48b810e8, type: 3}
+  unitSkills: []
+  tagTeamManeuvers: []
+  tripleTagTeamManeuvers: []
+  enemyUnit:
+    unitName: Money Pig
+    level:
+      currentLevel: 1
+      currentExperience: 0
+    battleId: 0
+    strength:
+      baseValue: 4
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 4
+    speed:
+      baseValue: 3
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 3
+    sturdiness:
+      baseValue: 111
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 3
+    charisma:
+      baseValue: 8
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 8
+    talent:
+      baseValue: 6
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 6
+    luck:
+      baseValue: 10
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 10
+    accuracy:
+      baseValue: 20
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 20
+    defense:
+      baseValue: 1
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 1
+    dodge:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    resist:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    critChance:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    currentHealth:
+      baseValue: 200
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 200
+    currentActionPoints:
+      baseValue: 60
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 60
+    mainDamageSource: 0
+    damageType: 0
+    dmgCut: 1
+    unitType: 0
+    currentAilment: 0
+    expGiven: 341
+    goldGiven: 478
+    itemDrops: []
+  unitPrefab: {fileID: 187, guid: b1a821df36625b14398ead958ed59ad8, type: 3}

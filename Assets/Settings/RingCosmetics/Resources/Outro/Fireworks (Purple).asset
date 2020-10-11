@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20c95adcd240aeb47824b6bb9064b8be, type: 3}
+  m_Name: Fireworks (Purple)
+  m_EditorClassIdentifier: 
+  cosmeticName: Fireworks (Purple)
+  cosmeticDescription: The pre-fight finale!
+  category: 2
+  playerParticles: {fileID: 0}
+  generalParticles: {fileID: 3056963131267504028, guid: d2067edb3034f4a42ae6a1e837f85f8d,
+    type: 3}
+  extraEffects: []
+  animationToPlay: 
+  soundFX: {fileID: 0}
+  cosmeticTime: 1
+  isNew: 1
+  isEquipped: 0
+  isUnlocked: 1

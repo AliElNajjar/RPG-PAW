@@ -1,0 +1,397 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4020266523638759384
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4020266523638759389}
+  - component: {fileID: 4020266523638759390}
+  - component: {fileID: 8874370246264485809}
+  - component: {fileID: 5754475151534485406}
+  - component: {fileID: 5864425118908870063}
+  - component: {fileID: 4020266523638759385}
+  - component: {fileID: 1354359156912766748}
+  - component: {fileID: 4020266523638759387}
+  - component: {fileID: 2591037832492359660}
+  - component: {fileID: 2855087660973080489}
+  - component: {fileID: 3246764918324615292}
+  - component: {fileID: 6934094263625661754}
+  m_Layer: 0
+  m_Name: _Display Stand_ Dane
+  m_TagString: NPC
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4020266523638759389
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.61, y: -4.97, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &4020266523638759390
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 354844f569072344c851c3d6d3ad51be, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300042, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.16, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &8874370246264485809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6b6caae784af6418925eb7fcda5ea9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  translateUnit: 0.01
+  _runMultiplier: 2
+  moving: 0
+  isNPC: 1
+  _moveUnitsPerSecondScale: 200
+  state: 0
+  _running: 0
+  _state: 0
+  _lookingDir: 3
+--- !u!61 &5754475151534485406
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.009508088, y: -0.17883322}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.48}
+    newSize: {x: 0.16, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.21901616, y: 0.15333885}
+  m_EdgeRadius: 0
+--- !u!61 &5864425118908870063
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.0042476654, y: -0.0064557493}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.48}
+    newSize: {x: 0.16, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.9206524, y: 0.9818234}
+  m_EdgeRadius: 0
+--- !u!50 &4020266523638759385
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!114 &1354359156912766748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fadf3fb7fdeefa4984af1cfc083f159, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animations:
+  - name: IdleSide
+    frames:
+    - {fileID: 21300042, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: IdleUp
+    frames:
+    - {fileID: 21300050, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: IdleDown
+    frames:
+    - {fileID: 21300046, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 0
+  - name: RunSide
+    frames:
+    - {fileID: 21300000, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300002, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300004, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300006, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300008, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300010, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300012, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: RunDown
+    frames:
+    - {fileID: 21300014, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300016, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300018, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300020, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300022, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300024, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300026, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: RunUp
+    frames:
+    - {fileID: 21300028, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300030, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300032, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300034, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300036, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300038, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300040, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkSide
+    frames:
+    - {fileID: 21300000, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300002, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300004, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300006, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300008, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300010, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300012, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkDown
+    frames:
+    - {fileID: 21300014, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300016, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300018, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300020, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300022, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300024, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300026, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: WalkUp
+    frames:
+    - {fileID: 21300028, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300030, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300032, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300034, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300036, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300038, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300040, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 15
+    loop: 1
+  - name: TalkSide
+    frames:
+    - {fileID: 21300044, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300042, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: TalkDown
+    frames:
+    - {fileID: 21300048, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300046, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 7
+    loop: 1
+  - name: TalkUp
+    frames:
+    - {fileID: 21300050, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    - {fileID: 21300052, guid: a4ddfce6267ad8b46b1b971aed29c896, type: 3}
+    framesPerSec: 7
+    loop: 1
+  currentFrame: 0
+--- !u!114 &4020266523638759387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abc0cf3274332ef45abb7ab098769499, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounds: {fileID: 5864425118908870063}
+  minWalkTime: 4
+  maxWalkTime: 5
+  walkingAround: 0
+  isStatic: 0
+--- !u!114 &2591037832492359660
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ba07d9095e869a41b49835b3906925b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactableMessage:
+  - speakerName: '"Display Stand" Dane'
+    message: 'Yo, if you need a break from all those power bombs and choke slams,
+      why don''t you build out your action figure collection? '
+    source: 0
+  - speakerName: Muchachoman
+    message: 'I have been known to collect from time to time. '
+    source: 1
+  - speakerName: '"Display Stand" Dane'
+    message: WrestleQuest has more than enough content to satisfy that itch. You can
+      earn action figures for special fights, side quests, and other activities.
+    source: 0
+  - speakerName: '"Display Stand" Dane'
+    message: 'These can tell you a bit about the world of the Toy Room, and some can
+      even give you special powers! Showcase your best items to your friends in your
+      Trophy Display Case! '
+    source: 0
+--- !u!114 &2855087660973080489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14c57f4e0a3e0424bbd8a975fb2d3f90, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!61 &3246764918324615292
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.48}
+    newSize: {x: 0.16, y: 0.32}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.19540755, y: 0.48}
+  m_EdgeRadius: 0
+--- !u!114 &6934094263625661754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4020266523638759384}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f306b762ecbdb6943a7e5a324a44ddf0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tooltips:
+  - "Nice! What else does this game have to offer, you ask? Chat with Brick House,
+    she\u2019s right there by that car."

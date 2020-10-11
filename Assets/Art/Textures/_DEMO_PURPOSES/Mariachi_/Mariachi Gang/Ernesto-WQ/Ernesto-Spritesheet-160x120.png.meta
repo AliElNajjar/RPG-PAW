@@ -1,0 +1,2765 @@
+fileFormatVersion: 2
+guid: cc124d5c608c64bd1ba14ea548d4cd14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ernesto-Spritesheet-160x120_0
+  - first:
+      213: 21300002
+    second: Ernesto-Spritesheet-160x120_1
+  - first:
+      213: 21300004
+    second: Ernesto-Spritesheet-160x120_2
+  - first:
+      213: 21300006
+    second: Ernesto-Spritesheet-160x120_3
+  - first:
+      213: 21300008
+    second: Ernesto-Spritesheet-160x120_4
+  - first:
+      213: 21300010
+    second: Ernesto-Spritesheet-160x120_5
+  - first:
+      213: 21300012
+    second: Ernesto-Spritesheet-160x120_6
+  - first:
+      213: 21300014
+    second: Ernesto-Spritesheet-160x120_7
+  - first:
+      213: 21300016
+    second: Ernesto-Spritesheet-160x120_8
+  - first:
+      213: 21300018
+    second: Ernesto-Spritesheet-160x120_9
+  - first:
+      213: 21300020
+    second: Ernesto-Spritesheet-160x120_10
+  - first:
+      213: 21300022
+    second: Ernesto-Spritesheet-160x120_11
+  - first:
+      213: 21300024
+    second: Ernesto-Spritesheet-160x120_12
+  - first:
+      213: 21300026
+    second: Ernesto-Spritesheet-160x120_13
+  - first:
+      213: 21300028
+    second: Ernesto-Spritesheet-160x120_14
+  - first:
+      213: 21300030
+    second: Ernesto-Spritesheet-160x120_15
+  - first:
+      213: 21300032
+    second: Ernesto-Spritesheet-160x120_16
+  - first:
+      213: 21300034
+    second: Ernesto-Spritesheet-160x120_17
+  - first:
+      213: 21300036
+    second: Ernesto-Spritesheet-160x120_18
+  - first:
+      213: 21300038
+    second: Ernesto-Spritesheet-160x120_19
+  - first:
+      213: 21300040
+    second: Ernesto-Spritesheet-160x120_20
+  - first:
+      213: 21300042
+    second: Ernesto-Spritesheet-160x120_21
+  - first:
+      213: 21300044
+    second: Ernesto-Spritesheet-160x120_22
+  - first:
+      213: 21300046
+    second: Ernesto-Spritesheet-160x120_23
+  - first:
+      213: 21300048
+    second: Ernesto-Spritesheet-160x120_24
+  - first:
+      213: 21300050
+    second: Ernesto-Spritesheet-160x120_25
+  - first:
+      213: 21300052
+    second: Ernesto-Spritesheet-160x120_26
+  - first:
+      213: 21300054
+    second: Ernesto-Spritesheet-160x120_27
+  - first:
+      213: 21300056
+    second: Ernesto-Spritesheet-160x120_28
+  - first:
+      213: 21300058
+    second: Ernesto-Spritesheet-160x120_29
+  - first:
+      213: 21300060
+    second: Ernesto-Spritesheet-160x120_30
+  - first:
+      213: 21300062
+    second: Ernesto-Spritesheet-160x120_31
+  - first:
+      213: 21300064
+    second: Ernesto-Spritesheet-160x120_32
+  - first:
+      213: 21300066
+    second: Ernesto-Spritesheet-160x120_33
+  - first:
+      213: 21300068
+    second: Ernesto-Spritesheet-160x120_34
+  - first:
+      213: 21300070
+    second: Ernesto-Spritesheet-160x120_35
+  - first:
+      213: 21300072
+    second: Ernesto-Spritesheet-160x120_36
+  - first:
+      213: 21300074
+    second: Ernesto-Spritesheet-160x120_37
+  - first:
+      213: 21300076
+    second: Ernesto-Spritesheet-160x120_38
+  - first:
+      213: 21300078
+    second: Ernesto-Spritesheet-160x120_39
+  - first:
+      213: 21300080
+    second: Ernesto-Spritesheet-160x120_40
+  - first:
+      213: 21300082
+    second: Ernesto-Spritesheet-160x120_41
+  - first:
+      213: 21300084
+    second: Ernesto-Spritesheet-160x120_42
+  - first:
+      213: 21300086
+    second: Ernesto-Spritesheet-160x120_43
+  - first:
+      213: 21300088
+    second: Ernesto-Spritesheet-160x120_44
+  - first:
+      213: 21300090
+    second: Ernesto-Spritesheet-160x120_45
+  - first:
+      213: 21300092
+    second: Ernesto-Spritesheet-160x120_46
+  - first:
+      213: 21300094
+    second: Ernesto-Spritesheet-160x120_47
+  - first:
+      213: 21300096
+    second: Ernesto-Spritesheet-160x120_48
+  - first:
+      213: 21300098
+    second: Ernesto-Spritesheet-160x120_49
+  - first:
+      213: 21300100
+    second: Ernesto-Spritesheet-160x120_50
+  - first:
+      213: 21300102
+    second: Ernesto-Spritesheet-160x120_51
+  - first:
+      213: 21300104
+    second: Ernesto-Spritesheet-160x120_52
+  - first:
+      213: 21300106
+    second: Ernesto-Spritesheet-160x120_53
+  - first:
+      213: 21300108
+    second: Ernesto-Spritesheet-160x120_54
+  - first:
+      213: 21300110
+    second: Ernesto-Spritesheet-160x120_55
+  - first:
+      213: 21300112
+    second: Ernesto-Spritesheet-160x120_56
+  - first:
+      213: 21300114
+    second: Ernesto-Spritesheet-160x120_57
+  - first:
+      213: 21300116
+    second: Ernesto-Spritesheet-160x120_58
+  - first:
+      213: 21300118
+    second: Ernesto-Spritesheet-160x120_59
+  - first:
+      213: 21300120
+    second: Ernesto-Spritesheet-160x120_60
+  - first:
+      213: 21300122
+    second: Ernesto-Spritesheet-160x120_61
+  - first:
+      213: 21300124
+    second: Ernesto-Spritesheet-160x120_62
+  - first:
+      213: 21300126
+    second: Ernesto-Spritesheet-160x120_63
+  - first:
+      213: 21300128
+    second: Ernesto-Spritesheet-160x120_64
+  - first:
+      213: 21300130
+    second: Ernesto-Spritesheet-160x120_65
+  - first:
+      213: 21300132
+    second: Ernesto-Spritesheet-160x120_66
+  - first:
+      213: 21300134
+    second: Ernesto-Spritesheet-160x120_67
+  - first:
+      213: 21300136
+    second: Ernesto-Spritesheet-160x120_68
+  - first:
+      213: 21300138
+    second: Ernesto-Spritesheet-160x120_69
+  - first:
+      213: 21300140
+    second: Ernesto-Spritesheet-160x120_70
+  - first:
+      213: 21300142
+    second: Ernesto-Spritesheet-160x120_71
+  - first:
+      213: 21300144
+    second: Ernesto-Spritesheet-160x120_72
+  - first:
+      213: 21300146
+    second: Ernesto-Spritesheet-160x120_73
+  - first:
+      213: 21300148
+    second: Ernesto-Spritesheet-160x120_74
+  - first:
+      213: 21300150
+    second: Ernesto-Spritesheet-160x120_75
+  - first:
+      213: 21300152
+    second: Ernesto-Spritesheet-160x120_76
+  - first:
+      213: 21300154
+    second: Ernesto-Spritesheet-160x120_77
+  - first:
+      213: 21300156
+    second: Ernesto-Spritesheet-160x120_78
+  - first:
+      213: 21300158
+    second: Ernesto-Spritesheet-160x120_79
+  - first:
+      213: 21300160
+    second: Ernesto-Spritesheet-160x120_80
+  - first:
+      213: 21300162
+    second: Ernesto-Spritesheet-160x120_81
+  - first:
+      213: 21300164
+    second: Ernesto-Spritesheet-160x120_82
+  - first:
+      213: 21300166
+    second: Ernesto-Spritesheet-160x120_83
+  - first:
+      213: 21300168
+    second: Ernesto-Spritesheet-160x120_84
+  - first:
+      213: 21300170
+    second: Ernesto-Spritesheet-160x120_85
+  - first:
+      213: 21300172
+    second: Ernesto-Spritesheet-160x120_86
+  - first:
+      213: 21300174
+    second: Ernesto-Spritesheet-160x120_87
+  - first:
+      213: 21300176
+    second: Ernesto-Spritesheet-160x120_88
+  - first:
+      213: 21300178
+    second: Ernesto-Spritesheet-160x120_89
+  - first:
+      213: 21300180
+    second: Ernesto-Spritesheet-160x120_90
+  - first:
+      213: 21300182
+    second: Ernesto-Spritesheet-160x120_91
+  - first:
+      213: 21300184
+    second: Ernesto-Spritesheet-160x120_92
+  - first:
+      213: 21300186
+    second: Ernesto-Spritesheet-160x120_93
+  - first:
+      213: 21300188
+    second: Ernesto-Spritesheet-160x120_94
+  - first:
+      213: 21300190
+    second: Ernesto-Spritesheet-160x120_95
+  - first:
+      213: 21300192
+    second: Ernesto-Spritesheet-160x120_96
+  - first:
+      213: 21300194
+    second: Ernesto-Spritesheet-160x120_97
+  - first:
+      213: 21300196
+    second: Ernesto-Spritesheet-160x120_98
+  - first:
+      213: 21300198
+    second: Ernesto-Spritesheet-160x120_99
+  - first:
+      213: 21300200
+    second: Ernesto-Spritesheet-160x120_101
+  - first:
+      213: 21300202
+    second: Ernesto-Spritesheet-160x120_102
+  - first:
+      213: 21300204
+    second: Ernesto-Spritesheet-160x120_103
+  - first:
+      213: 21300206
+    second: Ernesto-Spritesheet-160x120_104
+  - first:
+      213: 21300208
+    second: Ernesto-Spritesheet-160x120_105
+  - first:
+      213: 21300210
+    second: Ernesto-Spritesheet-160x120_106
+  - first:
+      213: 21300212
+    second: Ernesto-Spritesheet-160x120_107
+  - first:
+      213: 21300214
+    second: Ernesto-Spritesheet-160x120_108
+  - first:
+      213: 21300216
+    second: Ernesto-Spritesheet-160x120_109
+  - first:
+      213: 21300218
+    second: Ernesto-Spritesheet-160x120_110
+  - first:
+      213: 21300220
+    second: Ernesto-Spritesheet-160x120_111
+  - first:
+      213: 21300222
+    second: Ernesto-Spritesheet-160x120_112
+  - first:
+      213: 21300224
+    second: Ernesto-Spritesheet-160x120_113
+  - first:
+      213: 21300226
+    second: Ernesto-Spritesheet-160x120_114
+  - first:
+      213: 21300228
+    second: Ernesto-Spritesheet-160x120_115
+  - first:
+      213: 21300230
+    second: Ernesto-Spritesheet-160x120_116
+  - first:
+      213: 21300232
+    second: Ernesto-Spritesheet-160x120_117
+  - first:
+      213: 21300234
+    second: Ernesto-Spritesheet-160x120_118
+  - first:
+      213: 21300236
+    second: Ernesto-Spritesheet-160x120_119
+  - first:
+      213: 21300238
+    second: Ernesto-Spritesheet-160x120_120
+  - first:
+      213: 21300240
+    second: Ernesto-Spritesheet-160x120_121
+  - first:
+      213: 21300242
+    second: Ernesto-Spritesheet-160x120_122
+  - first:
+      213: 21300244
+    second: Ernesto-Spritesheet-160x120_123
+  - first:
+      213: 21300246
+    second: Ernesto-Spritesheet-160x120_124
+  - first:
+      213: 21300248
+    second: Ernesto-Spritesheet-160x120_125
+  - first:
+      213: 21300250
+    second: Ernesto-Spritesheet-160x120_126
+  - first:
+      213: 21300252
+    second: Ernesto-Spritesheet-160x120_127
+  - first:
+      213: 21300254
+    second: Ernesto-Spritesheet-160x120_128
+  - first:
+      213: 21300256
+    second: Ernesto-Spritesheet-160x120_129
+  - first:
+      213: 21300258
+    second: Ernesto-Spritesheet-160x120_130
+  - first:
+      213: 21300260
+    second: Ernesto-Spritesheet-160x120_131
+  - first:
+      213: 21300262
+    second: Ernesto-Spritesheet-160x120_132
+  - first:
+      213: 21300264
+    second: Ernesto-Spritesheet-160x120_133
+  - first:
+      213: 21300266
+    second: Ernesto-Spritesheet-160x120_134
+  - first:
+      213: 21300268
+    second: Ernesto-Spritesheet-160x120_135
+  - first:
+      213: 21300270
+    second: Ernesto-Spritesheet-160x120_136
+  - first:
+      213: 21300272
+    second: Ernesto-Spritesheet-160x120_137
+  - first:
+      213: 21300274
+    second: Ernesto-Spritesheet-160x120_100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1283d42f341e84f5fae76dd81b7c04b4
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1440
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90bbb0b37a7841c08e4f7253998e4f2
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1440
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2ab141b3814ba58a83bbf7a615624
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f3b1defdb2b4d02a5107d2342d40e9
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64a59a32dda14783a9be88cda907afd
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1440
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9d0da3535264f0e83a1e625a216e5d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8bd47a7a08f4e4ca81fa8d2edf276e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1320
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3bdaae60b54e80825372d2ae00c10
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1320
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f970fa5ac564fbeaf7eb2fd538afa7
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1320
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130da72b2a0b14e2bac8f6503a7c2191
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1320
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8506f5fc0aee345be82bc2a07db5fd5d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1320
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be088bae03e5a46b698a57bab0b2e767
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75469350ac9304750b127dedfdb1f05a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1200
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138898b5536fe4331b1f91f6ed2a9864
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1200
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189185cb5f184455fbf3e8606cbb7e01
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe5e45bb83d349f3be83d2438c0f0d7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1200
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca29e6050ed74972adc663f95e0232e
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab63500e94742da8371a2ef0de2646
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dbba2ca23fb400d849d8440713f592
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1080
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d16151a8cd14166a38c5bcfed617eb
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1080
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caacd02628b724c89bcba14a58f00637
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6062292e9322a4e7eac599b0f132232e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1080
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f586e62e1d82846d8bb59cea824a43cb
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1080
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547f3c0688f564b8a95e1b44d1514b28
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a749452ee8964d3aa8c8e69dc4d4b6d
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d75978095ac4c3ba4a05881f970ac6
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d6678bc45594d9c84cbeeb39e99d1f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105ff98f51c464212a670cd28f522128
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f68fa75fcc448a0991178d5debcc61
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88662334fb9643019978b9c40d9c294
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d364c2aebba844c1babb4ee421eb77e
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_31
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3849479ebe85483b98bea892bf639a8
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6634f3a04dc44af7833ec259f8f7328
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_33
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006d6ab0750924339909ec5ccde0e845
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 960
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd29acad47f34b019907a087e0dfbb6
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7019eeb0350ca44c0b14c127b7438ac6
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6957b7ec795b74275b3a1efcabd4fb68
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf162ca575c7480d8095dec12753443
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_38
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e513fdabbe435baea802c8abb639a
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd847f315d784470085e9e5650cba65a
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da30cea159231483cae9192357aa6022
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3de33d867da4ebcbae5b3a1869b44e
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_42
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c76ba182f914a3792a89e7e828c9c8
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_43
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9660bbeffa1044e0c9784c236454717e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_44
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f3a8589b9a345fe8d62bae22aa8be5
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_45
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff707a79bef5a40e68b4bac8dcc288cb
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_46
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 840
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53070d34967b84572bc4e10763b2c75c
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38b0a93fc968409bb4c87e48037d027
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5738b9b3fe04407a22d6d0f217f6e7
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601fcc3b885bb46888d6389a982b6934
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffaf5bf420a243ab93becd10b2a320d
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294f4e6e9c66d46cf9c5eec68b58fe07
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c17463c41cb4928a239026508341c0
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271079cb2ccdf403790e37e77d36f511
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66a9a8a3b7404b189f47222fe60ed1f
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_55
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c83e350c1164c5491bcceeff9ca2b6
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_56
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2919f45366304300ad7f59cfe082e2f
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_57
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ff86ca15c3c46d0a7b62d4abab89a6
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1de59f96f484b81a21eda3e714158e
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fb28f7ca9b345dba1f54caaea9feb2
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_60
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0947a3ca36ef44261b479aaa4fce1d14
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_61
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 600
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe659dd3e87a84b88a84325de0807d61
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84041c3b96e6b48c9a5ffb84ffc0e4ad
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d584b2e8b777461f84d0a9c17082f9d
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d31a7f6f9ab426a9c68fe99f83c10b
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ead2e1648a9c42acb8dcdf8dfbbff4a
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c0e4ee2ad7e42b085d32928441ac66
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8448cec37844f75bc36c2ced9bff09
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_68
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf0ad00c3dc34e6781bb9745b07673b
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_69
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa6e9f805f9f46638bb2eb9628fe1d9
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6959ebdc6a3e04e8ea07bd3a3b8d66a1
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_71
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24fdff2eacac4158b96fe84482e25c6
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_72
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ccd32611a34594a08d45f451503cd
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_73
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 480
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5f74685ef6d41a5a928fbf7226708b
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a603c453a06145bca1239c174fb0ae4
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a77bbe7e9489458484501679559e766
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd0dd9fa24a94e77a7cad71dcf8c55b
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461a2c4b1d3b54cb5b2069e295593fb8
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_78
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eb00083a5e349139e3e2a7c2cac6ac
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c570866ac9a4e3b9884bc4b8e8788a
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1f340d0eef6467183f62af20854f7e
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4c407dbc83e42e4bbfabc1674278e2
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_82
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a426b668a040e6b219d7a2fe26369
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_83
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a724a2c177754874a69ecc368bb3f8f
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_84
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bbd56f465af4314b0b925c26cb8321
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b542a3acd84d9da116d325f8539e3
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3878f5d97914b46bf87c93af9c68ba19
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_87
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d8b4603cade4f80bc785c1312969f8
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3715ceb51e34b4606a29b8bc0b6b88b0
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_89
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5931c23dfae4c35a3d02d530aafd13
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_90
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa4d5e97b26044388ca6048262e1dbb
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_91
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e381223457b184a958abdf3b76ffbad9
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_92
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa0883c4f5804a7eaca49717aa851c5
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_93
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471976ae6f5cc484fa2cb142abf307b2
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_94
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d26f56bb7b42e5ac7a027bdcb1e1a
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_95
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5be1c34b3f754f8fa580d6713a2a5ec
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f638d15c15e794cb4be07f4539ebd122
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_97
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed16579051c4ef28966541e325e907
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56944e3a09e7a41ee8d96c81d6588fc4
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_99
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d835de09ca9a435f9b1c452b2fb87b5
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_100
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829cb611c4b894e70b78122c87ecbb99
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437f5af4d0527468dbc4c6643078bbf3
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_102
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33845614745754af6aa82f4516e446d4
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_103
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca0ebc897b0a43dd8756de4a92fd6be
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_104
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55c230e2391743129b48e145fd0e9c0
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_105
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90537118de5c45f7a078ab2ea914196
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ernesto-Spritesheet-160x120_106
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf376894401a47e2bdbbd863011e587
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0df54d0c67a3a4d8d91862c9053ab9d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

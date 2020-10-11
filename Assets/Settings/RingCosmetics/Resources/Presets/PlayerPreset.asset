@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e9bf0fe4b7a8d14eabc9396edf0109b, type: 3}
+  m_Name: PlayerPreset
+  m_EditorClassIdentifier: 
+  presetName: PlayerPreset
+  initialCosmetic: {fileID: 0}
+  rampCosmetics:
+  - {fileID: 11400000, guid: bfa8311d9117ed647ac5c2994040a750, type: 2}
+  - {fileID: 11400000, guid: 7f4a10c17b565f6489042714ff89b2a7, type: 2}
+  - {fileID: 11400000, guid: d6d5727ae8d767140a9985ddcdd070f0, type: 2}
+  outroCosmetic: {fileID: 0}
+  passiveCosmetics: []

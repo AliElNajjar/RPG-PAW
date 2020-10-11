@@ -1,0 +1,7976 @@
+fileFormatVersion: 2
+guid: 0dcce13a0a52e5543bbac7e652eefc2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: __Complete_0
+  - first:
+      213: 21300002
+    second: __CompleteHotel_0
+  - first:
+      213: 21300004
+    second: __CompleteHotel_1
+  - first:
+      213: 21300006
+    second: __CompleteHotel_2
+  - first:
+      213: 21300008
+    second: __CompleteHotel_3
+  - first:
+      213: 21300010
+    second: __CompleteHotel_4
+  - first:
+      213: 21300012
+    second: __CompleteHotel_5
+  - first:
+      213: 21300014
+    second: __CompleteHotel_6
+  - first:
+      213: 21300016
+    second: __CompleteHotel_7
+  - first:
+      213: 21300018
+    second: __CompleteHotel_8
+  - first:
+      213: 21300020
+    second: __CompleteHotel_9
+  - first:
+      213: 21300022
+    second: __CompleteHotel_10
+  - first:
+      213: 21300024
+    second: __CompleteHotel_11
+  - first:
+      213: 21300026
+    second: __CompleteHotel_12
+  - first:
+      213: 21300028
+    second: __CompleteHotel_13
+  - first:
+      213: 21300030
+    second: __CompleteHotel_14
+  - first:
+      213: 21300032
+    second: __CompleteHotel_15
+  - first:
+      213: 21300034
+    second: __CompleteHotel_16
+  - first:
+      213: 21300036
+    second: __CompleteHotel_17
+  - first:
+      213: 21300038
+    second: __CompleteHotel_18
+  - first:
+      213: 21300040
+    second: __CompleteHotel_19
+  - first:
+      213: 21300042
+    second: __CompleteHotel_20
+  - first:
+      213: 21300044
+    second: __CompleteHotel_21
+  - first:
+      213: 21300046
+    second: __CompleteHotel_22
+  - first:
+      213: 21300048
+    second: __CompleteHotel_23
+  - first:
+      213: 21300050
+    second: __CompleteHotel_24
+  - first:
+      213: 21300052
+    second: __CompleteHotel_25
+  - first:
+      213: 21300054
+    second: __CompleteHotel_26
+  - first:
+      213: 21300056
+    second: __CompleteHotel_27
+  - first:
+      213: 21300058
+    second: __CompleteHotel_28
+  - first:
+      213: 21300060
+    second: __CompleteHotel_29
+  - first:
+      213: 21300062
+    second: __CompleteHotel_30
+  - first:
+      213: 21300064
+    second: __CompleteHotel_31
+  - first:
+      213: 21300066
+    second: __CompleteHotel_32
+  - first:
+      213: 21300068
+    second: __CompleteHotel_33
+  - first:
+      213: 21300070
+    second: __CompleteHotel_34
+  - first:
+      213: 21300072
+    second: __CompleteHotel_35
+  - first:
+      213: 21300074
+    second: __CompleteHotel_36
+  - first:
+      213: 21300076
+    second: __CompleteHotel_37
+  - first:
+      213: 21300078
+    second: __CompleteHotel_38
+  - first:
+      213: 21300080
+    second: __CompleteHotel_39
+  - first:
+      213: 21300082
+    second: __CompleteHotel_40
+  - first:
+      213: 21300084
+    second: __CompleteHotel_41
+  - first:
+      213: 21300086
+    second: __CompleteHotel_42
+  - first:
+      213: 21300088
+    second: __CompleteHotel_43
+  - first:
+      213: 21300090
+    second: __CompleteHotel_44
+  - first:
+      213: 21300092
+    second: __CompleteHotel_45
+  - first:
+      213: 21300094
+    second: __CompleteHotel_46
+  - first:
+      213: 21300096
+    second: __CompleteHotel_47
+  - first:
+      213: 21300098
+    second: __CompleteHotel_48
+  - first:
+      213: 21300100
+    second: __CompleteHotel_49
+  - first:
+      213: 21300102
+    second: __CompleteHotel_50
+  - first:
+      213: 21300104
+    second: __CompleteHotel_51
+  - first:
+      213: 21300106
+    second: __CompleteHotel_52
+  - first:
+      213: 21300108
+    second: __CompleteHotel_53
+  - first:
+      213: 21300110
+    second: __CompleteHotel_54
+  - first:
+      213: 21300112
+    second: __CompleteHotel_55
+  - first:
+      213: 21300114
+    second: __CompleteHotel_56
+  - first:
+      213: 21300116
+    second: __CompleteHotel_57
+  - first:
+      213: 21300118
+    second: __CompleteHotel_58
+  - first:
+      213: 21300120
+    second: __CompleteHotel_59
+  - first:
+      213: 21300122
+    second: __CompleteHotel_60
+  - first:
+      213: 21300124
+    second: __CompleteHotel_61
+  - first:
+      213: 21300126
+    second: __CompleteHotel_62
+  - first:
+      213: 21300128
+    second: __CompleteHotel_63
+  - first:
+      213: 21300130
+    second: __CompleteHotel_64
+  - first:
+      213: 21300132
+    second: __CompleteHotel_65
+  - first:
+      213: 21300134
+    second: __CompleteHotel_66
+  - first:
+      213: 21300136
+    second: __CompleteHotel_67
+  - first:
+      213: 21300138
+    second: __CompleteHotel_68
+  - first:
+      213: 21300140
+    second: __CompleteHotel_69
+  - first:
+      213: 21300142
+    second: __CompleteHotel_70
+  - first:
+      213: 21300144
+    second: __CompleteHotel_71
+  - first:
+      213: 21300146
+    second: __CompleteHotel_72
+  - first:
+      213: 21300148
+    second: __CompleteHotel_73
+  - first:
+      213: 21300150
+    second: __CompleteHotel_74
+  - first:
+      213: 21300152
+    second: __CompleteHotel_75
+  - first:
+      213: 21300154
+    second: __CompleteHotel_76
+  - first:
+      213: 21300156
+    second: __CompleteHotel_77
+  - first:
+      213: 21300158
+    second: __CompleteHotel_78
+  - first:
+      213: 21300160
+    second: __CompleteHotel_79
+  - first:
+      213: 21300162
+    second: __CompleteHotel_80
+  - first:
+      213: 21300164
+    second: __CompleteHotel_81
+  - first:
+      213: 21300166
+    second: __CompleteHotel_82
+  - first:
+      213: 21300168
+    second: __CompleteHotel_83
+  - first:
+      213: 21300170
+    second: __CompleteHotel_84
+  - first:
+      213: 21300172
+    second: __CompleteHotel_85
+  - first:
+      213: 21300174
+    second: __CompleteHotel_86
+  - first:
+      213: 21300176
+    second: __CompleteHotel_87
+  - first:
+      213: 21300178
+    second: __CompleteHotel_88
+  - first:
+      213: 21300180
+    second: __CompleteHotel_89
+  - first:
+      213: 21300182
+    second: __CompleteHotel_90
+  - first:
+      213: 21300184
+    second: __CompleteHotel_91
+  - first:
+      213: 21300186
+    second: __CompleteHotel_92
+  - first:
+      213: 21300188
+    second: __CompleteHotel_93
+  - first:
+      213: 21300190
+    second: __CompleteHotel_94
+  - first:
+      213: 21300192
+    second: __CompleteHotel_95
+  - first:
+      213: 21300194
+    second: __CompleteHotel_96
+  - first:
+      213: 21300196
+    second: __CompleteHotel_97
+  - first:
+      213: 21300198
+    second: __CompleteHotel_98
+  - first:
+      213: 21300200
+    second: __CompleteHotel_99
+  - first:
+      213: 21300202
+    second: __CompleteHotel_100
+  - first:
+      213: 21300204
+    second: __CompleteHotel_101
+  - first:
+      213: 21300206
+    second: __CompleteHotel_102
+  - first:
+      213: 21300208
+    second: __CompleteHotel_103
+  - first:
+      213: 21300210
+    second: __CompleteHotel_104
+  - first:
+      213: 21300212
+    second: __CompleteHotel_105
+  - first:
+      213: 21300214
+    second: __CompleteHotel_106
+  - first:
+      213: 21300216
+    second: __CompleteHotel_107
+  - first:
+      213: 21300218
+    second: __CompleteHotel_108
+  - first:
+      213: 21300220
+    second: __CompleteHotel_109
+  - first:
+      213: 21300222
+    second: __CompleteHotel_110
+  - first:
+      213: 21300224
+    second: __CompleteHotel_111
+  - first:
+      213: 21300226
+    second: __CompleteHotel_112
+  - first:
+      213: 21300228
+    second: __CompleteHotel_113
+  - first:
+      213: 21300230
+    second: __CompleteHotel_114
+  - first:
+      213: 21300232
+    second: __CompleteHotel_115
+  - first:
+      213: 21300234
+    second: __CompleteHotel_116
+  - first:
+      213: 21300236
+    second: __CompleteHotel_117
+  - first:
+      213: 21300238
+    second: __CompleteHotel_118
+  - first:
+      213: 21300240
+    second: __CompleteHotel_119
+  - first:
+      213: 21300242
+    second: __CompleteHotel_120
+  - first:
+      213: 21300244
+    second: __CompleteHotel_121
+  - first:
+      213: 21300246
+    second: __CompleteHotel_122
+  - first:
+      213: 21300248
+    second: __CompleteHotel_123
+  - first:
+      213: 21300250
+    second: __CompleteHotel_124
+  - first:
+      213: 21300252
+    second: __CompleteHotel_125
+  - first:
+      213: 21300254
+    second: __CompleteHotel_126
+  - first:
+      213: 21300256
+    second: __CompleteHotel_127
+  - first:
+      213: 21300258
+    second: __CompleteHotel_128
+  - first:
+      213: 21300260
+    second: __CompleteHotel_129
+  - first:
+      213: 21300262
+    second: __CompleteHotel_130
+  - first:
+      213: 21300264
+    second: __CompleteHotel_131
+  - first:
+      213: 21300266
+    second: __CompleteHotel_132
+  - first:
+      213: 21300268
+    second: __CompleteHotel_133
+  - first:
+      213: 21300270
+    second: __CompleteHotel_134
+  - first:
+      213: 21300272
+    second: __CompleteHotel_135
+  - first:
+      213: 21300274
+    second: __CompleteHotel_136
+  - first:
+      213: 21300276
+    second: __CompleteHotel_137
+  - first:
+      213: 21300278
+    second: __CompleteHotel_138
+  - first:
+      213: 21300280
+    second: __CompleteHotel_139
+  - first:
+      213: 21300282
+    second: __CompleteHotel_140
+  - first:
+      213: 21300284
+    second: __CompleteHotel_141
+  - first:
+      213: 21300286
+    second: __CompleteHotel_142
+  - first:
+      213: 21300288
+    second: __CompleteHotel_143
+  - first:
+      213: 21300290
+    second: __CompleteHotel_144
+  - first:
+      213: 21300292
+    second: __CompleteHotel_145
+  - first:
+      213: 21300294
+    second: __CompleteHotel_146
+  - first:
+      213: 21300296
+    second: __CompleteHotel_147
+  - first:
+      213: 21300298
+    second: __CompleteHotel_148
+  - first:
+      213: 21300300
+    second: __CompleteHotel_149
+  - first:
+      213: 21300302
+    second: __CompleteHotel_150
+  - first:
+      213: 21300304
+    second: __CompleteHotel_151
+  - first:
+      213: 21300306
+    second: __CompleteHotel_152
+  - first:
+      213: 21300308
+    second: __CompleteHotel_153
+  - first:
+      213: 21300310
+    second: __CompleteHotel_154
+  - first:
+      213: 21300312
+    second: __CompleteHotel_155
+  - first:
+      213: 21300314
+    second: __CompleteHotel_156
+  - first:
+      213: 21300316
+    second: __CompleteHotel_157
+  - first:
+      213: 21300318
+    second: __CompleteHotel_158
+  - first:
+      213: 21300320
+    second: __CompleteHotel_159
+  - first:
+      213: 21300322
+    second: __CompleteHotel_160
+  - first:
+      213: 21300324
+    second: __CompleteHotel_161
+  - first:
+      213: 21300326
+    second: __CompleteHotel_162
+  - first:
+      213: 21300328
+    second: __CompleteHotel_163
+  - first:
+      213: 21300330
+    second: __CompleteHotel_164
+  - first:
+      213: 21300332
+    second: __CompleteHotel_165
+  - first:
+      213: 21300334
+    second: __CompleteHotel_166
+  - first:
+      213: 21300336
+    second: __CompleteHotel_167
+  - first:
+      213: 21300338
+    second: __CompleteHotel_168
+  - first:
+      213: 21300340
+    second: __CompleteHotel_169
+  - first:
+      213: 21300342
+    second: __CompleteHotel_170
+  - first:
+      213: 21300344
+    second: __CompleteHotel_171
+  - first:
+      213: 21300346
+    second: __CompleteHotel_172
+  - first:
+      213: 21300348
+    second: __CompleteHotel_173
+  - first:
+      213: 21300350
+    second: __CompleteHotel_174
+  - first:
+      213: 21300352
+    second: __CompleteHotel_175
+  - first:
+      213: 21300354
+    second: __CompleteHotel_176
+  - first:
+      213: 21300356
+    second: __CompleteHotel_177
+  - first:
+      213: 21300358
+    second: __CompleteHotel_178
+  - first:
+      213: 21300360
+    second: __CompleteHotel_179
+  - first:
+      213: 21300362
+    second: __CompleteHotel_180
+  - first:
+      213: 21300364
+    second: __CompleteHotel_181
+  - first:
+      213: 21300366
+    second: __CompleteHotel_182
+  - first:
+      213: 21300368
+    second: __CompleteHotel_183
+  - first:
+      213: 21300370
+    second: __CompleteHotel_184
+  - first:
+      213: 21300372
+    second: __CompleteHotel_185
+  - first:
+      213: 21300374
+    second: __CompleteHotel_186
+  - first:
+      213: 21300376
+    second: __CompleteHotel_187
+  - first:
+      213: 21300378
+    second: __CompleteHotel_188
+  - first:
+      213: 21300380
+    second: __CompleteHotel_189
+  - first:
+      213: 21300382
+    second: __CompleteHotel_190
+  - first:
+      213: 21300384
+    second: __CompleteHotel_191
+  - first:
+      213: 21300386
+    second: __CompleteHotel_192
+  - first:
+      213: 21300388
+    second: __CompleteHotel_193
+  - first:
+      213: 21300390
+    second: __CompleteHotel_194
+  - first:
+      213: 21300392
+    second: __CompleteHotel_195
+  - first:
+      213: 21300394
+    second: __CompleteHotel_196
+  - first:
+      213: 21300396
+    second: __CompleteHotel_197
+  - first:
+      213: 21300398
+    second: __CompleteHotel_198
+  - first:
+      213: 21300400
+    second: __CompleteHotel_199
+  - first:
+      213: 21300402
+    second: __CompleteHotel_200
+  - first:
+      213: 21300404
+    second: __CompleteHotel_201
+  - first:
+      213: 21300406
+    second: __CompleteHotel_202
+  - first:
+      213: 21300408
+    second: __CompleteHotel_203
+  - first:
+      213: 21300410
+    second: __CompleteHotel_204
+  - first:
+      213: 21300412
+    second: __CompleteHotel_205
+  - first:
+      213: 21300414
+    second: __CompleteHotel_206
+  - first:
+      213: 21300416
+    second: __CompleteHotel_207
+  - first:
+      213: 21300418
+    second: __CompleteHotel_208
+  - first:
+      213: 21300420
+    second: __CompleteHotel_209
+  - first:
+      213: 21300422
+    second: __CompleteHotel_210
+  - first:
+      213: 21300424
+    second: __CompleteHotel_211
+  - first:
+      213: 21300426
+    second: __CompleteHotel_212
+  - first:
+      213: 21300428
+    second: __CompleteHotel_213
+  - first:
+      213: 21300430
+    second: __CompleteHotel_214
+  - first:
+      213: 21300432
+    second: __CompleteHotel_215
+  - first:
+      213: 21300434
+    second: __CompleteHotel_216
+  - first:
+      213: 21300436
+    second: __CompleteHotel_217
+  - first:
+      213: 21300438
+    second: __CompleteHotel_218
+  - first:
+      213: 21300440
+    second: __CompleteHotel_219
+  - first:
+      213: 21300442
+    second: __CompleteHotel_220
+  - first:
+      213: 21300444
+    second: __CompleteHotel_221
+  - first:
+      213: 21300446
+    second: __CompleteHotel_222
+  - first:
+      213: 21300448
+    second: __CompleteHotel_223
+  - first:
+      213: 21300450
+    second: __CompleteHotel_224
+  - first:
+      213: 21300452
+    second: __CompleteHotel_225
+  - first:
+      213: 21300454
+    second: __CompleteHotel_226
+  - first:
+      213: 21300456
+    second: __CompleteHotel_227
+  - first:
+      213: 21300458
+    second: __CompleteHotel_228
+  - first:
+      213: 21300460
+    second: __CompleteHotel_229
+  - first:
+      213: 21300462
+    second: __CompleteHotel_230
+  - first:
+      213: 21300464
+    second: __CompleteHotel_231
+  - first:
+      213: 21300466
+    second: __CompleteHotel_232
+  - first:
+      213: 21300468
+    second: __CompleteHotel_233
+  - first:
+      213: 21300470
+    second: __CompleteHotel_234
+  - first:
+      213: 21300472
+    second: __CompleteHotel_235
+  - first:
+      213: 21300474
+    second: __CompleteHotel_236
+  - first:
+      213: 21300476
+    second: __CompleteHotel_237
+  - first:
+      213: 21300478
+    second: __CompleteHotel_238
+  - first:
+      213: 21300480
+    second: __CompleteHotel_239
+  - first:
+      213: 21300482
+    second: __CompleteHotel_240
+  - first:
+      213: 21300484
+    second: __CompleteHotel_241
+  - first:
+      213: 21300486
+    second: __CompleteHotel_242
+  - first:
+      213: 21300488
+    second: __CompleteHotel_243
+  - first:
+      213: 21300490
+    second: __CompleteHotel_244
+  - first:
+      213: 21300492
+    second: __CompleteHotel_245
+  - first:
+      213: 21300494
+    second: __CompleteHotel_246
+  - first:
+      213: 21300496
+    second: __CompleteHotel_247
+  - first:
+      213: 21300498
+    second: __CompleteHotel_248
+  - first:
+      213: 21300500
+    second: __CompleteHotel_249
+  - first:
+      213: 21300502
+    second: __CompleteHotel_250
+  - first:
+      213: 21300504
+    second: __CompleteHotel_251
+  - first:
+      213: 21300506
+    second: __CompleteHotel_252
+  - first:
+      213: 21300508
+    second: __CompleteHotel_253
+  - first:
+      213: 21300510
+    second: __CompleteHotel_254
+  - first:
+      213: 21300512
+    second: __CompleteHotel_255
+  - first:
+      213: 21300514
+    second: __CompleteHotel_256
+  - first:
+      213: 21300516
+    second: __CompleteHotel_257
+  - first:
+      213: 21300518
+    second: __CompleteHotel_258
+  - first:
+      213: 21300520
+    second: __CompleteHotel_259
+  - first:
+      213: 21300522
+    second: __CompleteHotel_260
+  - first:
+      213: 21300524
+    second: __CompleteHotel_261
+  - first:
+      213: 21300526
+    second: __CompleteHotel_262
+  - first:
+      213: 21300528
+    second: __CompleteHotel_263
+  - first:
+      213: 21300530
+    second: __CompleteHotel_264
+  - first:
+      213: 21300532
+    second: __CompleteHotel_265
+  - first:
+      213: 21300534
+    second: __CompleteHotel_266
+  - first:
+      213: 21300536
+    second: __CompleteHotel_267
+  - first:
+      213: 21300538
+    second: __CompleteHotel_268
+  - first:
+      213: 21300540
+    second: __CompleteHotel_269
+  - first:
+      213: 21300542
+    second: __CompleteHotel_270
+  - first:
+      213: 21300544
+    second: __CompleteHotel_271
+  - first:
+      213: 21300546
+    second: __CompleteHotel_272
+  - first:
+      213: 21300548
+    second: __CompleteHotel_273
+  - first:
+      213: 21300550
+    second: __CompleteHotel_274
+  - first:
+      213: 21300552
+    second: __CompleteHotel_275
+  - first:
+      213: 21300554
+    second: __CompleteHotel_276
+  - first:
+      213: 21300556
+    second: __CompleteHotel_277
+  - first:
+      213: 21300558
+    second: __CompleteHotel_278
+  - first:
+      213: 21300560
+    second: __CompleteHotel_279
+  - first:
+      213: 21300562
+    second: __CompleteHotel_280
+  - first:
+      213: 21300564
+    second: __CompleteHotel_281
+  - first:
+      213: 21300566
+    second: __CompleteHotel_282
+  - first:
+      213: 21300568
+    second: __CompleteHotel_283
+  - first:
+      213: 21300570
+    second: __CompleteHotel_284
+  - first:
+      213: 21300572
+    second: __CompleteHotel_285
+  - first:
+      213: 21300574
+    second: __CompleteHotel_286
+  - first:
+      213: 21300576
+    second: __CompleteHotel_287
+  - first:
+      213: 21300578
+    second: __CompleteHotel_288
+  - first:
+      213: 21300580
+    second: __CompleteHotel_289
+  - first:
+      213: 21300582
+    second: __CompleteHotel_290
+  - first:
+      213: 21300584
+    second: __CompleteHotel_291
+  - first:
+      213: 21300586
+    second: __CompleteHotel_292
+  - first:
+      213: 21300588
+    second: __CompleteHotel_293
+  - first:
+      213: 21300590
+    second: __CompleteHotel_294
+  - first:
+      213: 21300592
+    second: __CompleteHotel_295
+  - first:
+      213: 21300594
+    second: __CompleteHotel_296
+  - first:
+      213: 21300596
+    second: __CompleteHotel_297
+  - first:
+      213: 21300598
+    second: __CompleteHotel_298
+  - first:
+      213: 21300600
+    second: __CompleteHotel_299
+  - first:
+      213: 21300602
+    second: __CompleteHotel_300
+  - first:
+      213: 21300604
+    second: __CompleteHotel_301
+  - first:
+      213: 21300606
+    second: __CompleteHotel_302
+  - first:
+      213: 21300608
+    second: __CompleteHotel_303
+  - first:
+      213: 21300610
+    second: __CompleteHotel_304
+  - first:
+      213: 21300612
+    second: __CompleteHotel_305
+  - first:
+      213: 21300614
+    second: __CompleteHotel_306
+  - first:
+      213: 21300616
+    second: __CompleteHotel_307
+  - first:
+      213: 21300618
+    second: __CompleteHotel_308
+  - first:
+      213: 21300620
+    second: __CompleteHotel_309
+  - first:
+      213: 21300622
+    second: __CompleteHotel_310
+  - first:
+      213: 21300624
+    second: __CompleteHotel_311
+  - first:
+      213: 21300626
+    second: __CompleteHotel_312
+  - first:
+      213: 21300628
+    second: __CompleteHotel_313
+  - first:
+      213: 21300630
+    second: __CompleteHotel_314
+  - first:
+      213: 21300632
+    second: __CompleteHotel_315
+  - first:
+      213: 21300634
+    second: __CompleteHotel_316
+  - first:
+      213: 21300636
+    second: __CompleteHotel_317
+  - first:
+      213: 21300638
+    second: __CompleteHotel_318
+  - first:
+      213: 21300640
+    second: __CompleteHotel_319
+  - first:
+      213: 21300642
+    second: __CompleteHotel_320
+  - first:
+      213: 21300644
+    second: __CompleteHotel_321
+  - first:
+      213: 21300646
+    second: __CompleteHotel_322
+  - first:
+      213: 21300648
+    second: __CompleteHotel_323
+  - first:
+      213: 21300650
+    second: __CompleteHotel_324
+  - first:
+      213: 21300652
+    second: __CompleteHotel_325
+  - first:
+      213: 21300654
+    second: __CompleteHotel_326
+  - first:
+      213: 21300656
+    second: __CompleteHotel_327
+  - first:
+      213: 21300658
+    second: __CompleteHotel_328
+  - first:
+      213: 21300660
+    second: __CompleteHotel_329
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: __CompleteHotel_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2985
+        width: 112
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a194139f86f74945a377c2d1eaa5f38
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2985
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f9a4bb9f826564183264635a909121
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2985
+        width: 107
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d844d56a9272efd4ab283cc4400f47f1
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2985
+        width: 104
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb529d426ed173043ba4cbab2a1d8f7a
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2985
+        width: 120
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fdaa1907217af49af61d87e8ac1147
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2985
+        width: 100
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245709edf6d469c4cbf12f177f035633
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_6
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2985
+        width: 104
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3797517e01868448b17e59e8534c2e8
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_7
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2851
+        width: 348
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5175a913c841f79409b95dc23abf8f06
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_8
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 2988
+        width: 108
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcc8538df0c48a428e8c55975ec451b
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_9
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 2608
+        width: 482
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff736ce73ec4b47a4d69f6435873c5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 3024
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e4c15692b06fa4baa793a8ee9dea79
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_11
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 3024
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61acb6852983e545b18de251ebceb77
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_12
+      rect:
+        serializedVersion: 2
+        x: 5296
+        y: 3024
+        width: 160
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9aab6df214e34eaa37b9427c2ed7c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_13
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 3024
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db501b20b36fb1846bd144402275caec
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_14
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 3024
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6776cff2648dff4182235de523aa8f4
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_15
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2832
+        width: 214
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e7b0a2a087734a8dd2c3a288adfcf
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_16
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 2624
+        width: 374
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf6b81d3ac88a4cb4ad9ddcdb24a15
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_17
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2960
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b47b88d55fff8a4db5af27b5a363fdf
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_18
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 2960
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a947835836754a8edce121ff3e7d6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_19
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 2928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58688d637b5eea04b88dced75b94d6cf
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_20
+      rect:
+        serializedVersion: 2
+        x: 5207
+        y: 2944
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92c362bac5acc64eb35fa2ead27df0a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_21
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2944
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b570d11745321d4987cdb4ef8b719dd
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2816
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0af01a3e9096941b51d5872e0d2e32
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2816
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875795a041941e943bcfc9dfe5f7f753
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2848
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144b2a0374e9166409dd64f08c2aa91b
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2848
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d2eed766bf4e74e9f9b605389c300b
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_26
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2848
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81be16cdd2e7c2547a2e62eb78b4d14f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2832
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e26f29b3418b4a90c5c3f954fda52
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2832
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168d65c2589192c48be32133394b4426
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_29
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2832
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997883d02fdc1c942ae67a984475b6ff
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_30
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2624
+        width: 374
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adff0e4fd152754d8abb3a2900338fd
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_31
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 2624
+        width: 374
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613f2d0513ac3b3468d8b446bbff6c84
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_32
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 2827
+        width: 184
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a07589873ad9a94f9901c5f8d3ec99d
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_33
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2912
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ad33e24d89c64484ec90459f015b8
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_34
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 2832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bab79e3f6bb30d4cb71346a40c38a03
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_35
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e0fbb6bc0c7e4a91c663a65770063
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_36
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2853
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa4447b32fcbc04890d1e07ff5a251f
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_37
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 2672
+        width: 124
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783416ede48a53b4b94dfdeb230966a8
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2768
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e69824d2379d4c479e8ab0cfc05d6ab
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_39
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 2803
+        width: 97
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cd96db86f561e4e8816dd6b7a122b9
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_40
+      rect:
+        serializedVersion: 2
+        x: 4549
+        y: 2785
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078633f2044db274b9beefd378f09a18
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_41
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 2739
+        width: 34
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305e051867af464f8823300642505fd
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_42
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 2739
+        width: 33
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30620b9cb565f7340bf90c84a0b2afc7
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_43
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 2739
+        width: 128
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7039c0a474a6a74ab6db045e3e36dcb
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_44
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 2739
+        width: 128
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e292ee24f02462e429910ec93ce77dba
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_45
+      rect:
+        serializedVersion: 2
+        x: 5213
+        y: 2741
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45757364566eb047a3963c7c5d497ed
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_46
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2741
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a20197ca2a3eb419bb80342b4b0960
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_47
+      rect:
+        serializedVersion: 2
+        x: 6102
+        y: 2800
+        width: 118
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03853417ca9a17041801252bb4727739
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_48
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 2800
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6e3604634013b49b37c1ad2594d0f1
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_49
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 2800
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85391dcbfdb789f40886eb49d8639a96
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2800
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f7698c3b77d014c98e4eb6c0d17623
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2672
+        width: 160
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e6933f27541341a44db552d8a0109
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2672
+        width: 160
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b49c168c4a02c94a944a0ed2964f1ab
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2688
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d212a31ef274844908e046abf6aadc
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_54
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2496
+        width: 320
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e8f685c2657f042a139e7fe125a1ad
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_55
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 2721
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6183ba81637914249ab978c44e9f9f07
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_56
+      rect:
+        serializedVersion: 2
+        x: 5392
+        y: 2736
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708f12049a8b984b89c09e0b97b58b0
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_57
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 2736
+        width: 112
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8fa1f9f724954ebaf3089740bc323
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_58
+      rect:
+        serializedVersion: 2
+        x: 6249
+        y: 2736
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2924c0591395a143acc1850ffa91e8c
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_59
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 2736
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23886069e913a0f4fb57057fffe609e8
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_60
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2736
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6e8c682d557d84792a90f6f04f5a97
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_61
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 2736
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e44a1913fd514aa20a4b9064d05d4
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_62
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2418
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978849492f1fe4c4ca9f2b95778229cd
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_63
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 2659
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908f730d45e07b141b40454680945c0d
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_64
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 2665
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc167d7eb21f34cba212e2ed9534c0
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_65
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2659
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed73d11b638034246aa878b1bdb4cc1f
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_66
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 2659
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2405092c537bf094590db99bebad1cd5
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_67
+      rect:
+        serializedVersion: 2
+        x: 6097
+        y: 2672
+        width: 124
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96b827a3187c624a9757300dcac3b36
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_68
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 2672
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef6dccd241bfb74caf3331508a1ea6e
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_69
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 2672
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4c6aab28e1ea944931b851987ccecb
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_70
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2672
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a36b0cf9780944ba69f07660e368c2
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_71
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 2672
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3738aadbeea0c9248abad78d21eafd5e
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_72
+      rect:
+        serializedVersion: 2
+        x: 6625
+        y: 2608
+        width: 14
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf99fee43b63934cb51f3916027400e
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_73
+      rect:
+        serializedVersion: 2
+        x: 6655
+        y: 2608
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf90a7bb4b41a941ba364bba3606e02
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_74
+      rect:
+        serializedVersion: 2
+        x: 6688
+        y: 2589
+        width: 32
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfae133109bd5e41968dbf6864ab548
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_75
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 2604
+        width: 25
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5cc082ddb0d224ea6374c713af2553
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_76
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 2610
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f819fd83bdd14414580348f9af9ec103
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_77
+      rect:
+        serializedVersion: 2
+        x: 6842
+        y: 2610
+        width: 22
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d946b1c67fedff94b8b478dbe3b44d49
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_78
+      rect:
+        serializedVersion: 2
+        x: 6898
+        y: 2610
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b0a02cf6f020047a90accf8b976ef0
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_79
+      rect:
+        serializedVersion: 2
+        x: 6978
+        y: 2562
+        width: 60
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f69ae490e7c0b45845c3cc1fc7baea
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2544
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f63fcc164b71d47b879e52719d8a60
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2544
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea11f4822af9024bae24ffffbafdb55
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_82
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2608
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b94f7f8a4efde34db2d74a6a69fc902
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_83
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 2560
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71605fcb166f3a346afba9b1891b5148
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_84
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 2595
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff670d5abde6c949910ba045f353c5a
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_85
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 2616
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553191e28f514034dba245aa40e20f51
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_86
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 2336
+        width: 374
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8177897abdea84aa4951c39bf12267
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_87
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 2336
+        width: 374
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefbe7a811cb0fe45a545d67b9bc42a0
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_88
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 2336
+        width: 374
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb1f4a0ad68a34da03455473f1afb4
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_89
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 2560
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebbb3d88de07134bb910512102ffd5c
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_90
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 2388
+        width: 227
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee8ba05e2111684c81edfe34a3b2dc5
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_91
+      rect:
+        serializedVersion: 2
+        x: 6111
+        y: 2576
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a52a85ef4d2c478794b48e5643517
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_92
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2576
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361487c88a4ad2c47a306855e6f9aa36
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_93
+      rect:
+        serializedVersion: 2
+        x: 6368
+        y: 2576
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f548b8cfb0dea74b9c2df2a0b760c21
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_94
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2400
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab26af6e8e63e04aa18886b80dc9ed2
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2400
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b71f77c8ce12947aef191c92ed1410
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_96
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2400
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667da90d548b2ec4d99a592e7d661f1c
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_97
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 2400
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f27c22caf4d376449f356f5a6daadf4
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_98
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 2400
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17accdea7c8f375499b80ad04d8fe110
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_99
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 2400
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3e251d7a40af4f8daf6f671cfdcc6
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_100
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 2528
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c421271db4d4241802771208c9eb19
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_101
+      rect:
+        serializedVersion: 2
+        x: 6368
+        y: 2528
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e6364ad551b2544a3fbc631f259c9b
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_102
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 2464
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c9f38bad076249b4eec463c5911ae
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_103
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 2464
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be2ce9c895fed24a9de709bf8a43d1b
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_104
+      rect:
+        serializedVersion: 2
+        x: 6667
+        y: 2512
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fe06b977879f64cb2a2391b59fee43
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_105
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 2475
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a88ce4409b7a6498602875e4c330ee
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_106
+      rect:
+        serializedVersion: 2
+        x: 7115
+        y: 2176
+        width: 394
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c706a2be64f63204d88da4779cbc13ee
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_107
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2384
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4db1468b84c4874aa2841a1df4930de
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2384
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bab03457da486a42b08d844966141f9
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_109
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2208
+        width: 320
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82d411c7d024b4290fe8a583b07255
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_110
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 2458
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24379d8ef02bed54fbaf4f4dc32bf287
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_111
+      rect:
+        serializedVersion: 2
+        x: 6107
+        y: 2458
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac5a0126bd5aff45a59fa980d8ec156
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_112
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 2448
+        width: 176
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8421997ba4cd1cc4ea5b0002797e53d7
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_113
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 2458
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d77b44b5358aab44bf9fea0354c3090
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_114
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2458
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e22363a108f72949a438275180a6b83
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_115
+      rect:
+        serializedVersion: 2
+        x: 6667
+        y: 2402
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0784faa5a1d2845887227708311c33
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_116
+      rect:
+        serializedVersion: 2
+        x: 6515
+        y: 2400
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e754e668c6a2aa144bdfa66036d4bbc9
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_117
+      rect:
+        serializedVersion: 2
+        x: 6786
+        y: 2306
+        width: 60
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45c70c879b928f498a927446c0c3651
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_118
+      rect:
+        serializedVersion: 2
+        x: 6866
+        y: 2306
+        width: 51
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15216940bbc5cff4993bf17d1d22dfa7
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_119
+      rect:
+        serializedVersion: 2
+        x: 6939
+        y: 2306
+        width: 51
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fce2c88d5f0084f98f8852eef128ad
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_120
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2224
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cc3a3e5e7d935449321a72923f50bd
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2224
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1354eae30667044aae154f439d4c54
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_122
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 2315
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5212747eee92b7f4ea3fbdaf7209d7e2
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_123
+      rect:
+        serializedVersion: 2
+        x: 6059
+        y: 2315
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a489df3acbf1854683566c06f30ef6f
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_124
+      rect:
+        serializedVersion: 2
+        x: 6107
+        y: 2304
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1810c80a1a76a4fa44f9d0b8f7ffd5
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_125
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 2304
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d27c143b2c38743b8c3fd9f8a25d1a
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_126
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 2315
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221eb39d378b7824f8af772820e741a9
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_127
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 2304
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3860e8b5aa004a4388464cd5d4a36fc
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_128
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2315
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5187b2d8a8cb4f44fbd412462ac24ae5
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_129
+      rect:
+        serializedVersion: 2
+        x: 6448
+        y: 2315
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a97ead536fa94d8cea5c58709dcf4
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_130
+      rect:
+        serializedVersion: 2
+        x: 6513
+        y: 2352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21a2e1eefd8e8a46bf5164b73d1fb57
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_131
+      rect:
+        serializedVersion: 2
+        x: 6567
+        y: 2374
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e0be1e2af78fe4da442892dc60a832
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_132
+      rect:
+        serializedVersion: 2
+        x: 6658
+        y: 2306
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59462d3b540ec9149924226d8b884184
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_133
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2192
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133fe7c3d7a551945954354df956f11a
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_134
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 2192
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2abadc40f435d40a9618685539e4df
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_135
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 2240
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ac84a252ee41a4c9ad9ac553988cb2
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_136
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 2240
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99473b15841c8b345b1f193e6c4bfac1
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_137
+      rect:
+        serializedVersion: 2
+        x: 5488
+        y: 2240
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f29d9b6b51b3e74fb5a4ce8bca0d148
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_138
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 2240
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0362c3d88ecac74ab786071eb1f8092
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_139
+      rect:
+        serializedVersion: 2
+        x: 6564
+        y: 2338
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0e268740a5809498e676f39cab29f3
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_140
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2260
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f851d0f41ffd27440a9cc343f1f8c3be
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_141
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2260
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029daf701732d54aae0b92d2a37ea1b
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_142
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 2260
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6814cab26abc364eb5554b92ac751c5
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_143
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2260
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca854d332ae689f44837a83cde666d2f
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_144
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 2260
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e28d6fcc0cb5144880de2eca342796
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_145
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 2260
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fd9864fe55ab145ab305e69c6ff455
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_146
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 2260
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34adf8239f239a947982f33fb79551ec
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_147
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 2260
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7003087fcb99e524f8a0e9bd6d2c0099
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_148
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 2260
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f4a2b4f5914b4899650b47fd4843f
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_149
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 2261
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1759756deeaf1e4e8862ad2ea6e8574
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_150
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2260
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4222476349de44ab8c423a70e57981
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_151
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2240
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1bdb0d19f454d45a5c91c12c6c99e2
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_152
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 2240
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649d9a1a6739b8245b2c0095c6328a6a
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_153
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 2240
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a21518b30271409eb8ac2b7849432
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_154
+      rect:
+        serializedVersion: 2
+        x: 6512
+        y: 2304
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fd6e8aabeef614685747e00dedec5e
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_155
+      rect:
+        serializedVersion: 2
+        x: 6559
+        y: 2303
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586966ec91f1e9b41ade7a872516397d
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_156
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 2032
+        width: 90
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b3d01b80ba9244299ffb1e4970823d
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_157
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2032
+        width: 250
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185324fda1acb8840b648f4108cfec2d
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_158
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 2192
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a99278f0c0d5694789219cfe3903ec3
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_159
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 2192
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523aeb930c60cf64196e9c14301b3e5a
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_160
+      rect:
+        serializedVersion: 2
+        x: 6037
+        y: 2208
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c73ec40da33ef4bab0a2c908ef374d
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_161
+      rect:
+        serializedVersion: 2
+        x: 6076
+        y: 2208
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585c4275ee111e0459f4a3b48129fc74
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_162
+      rect:
+        serializedVersion: 2
+        x: 6141
+        y: 2207
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac93536ad98ff0499270ab267413d01
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_163
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 2240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbbe713f2a35e7468d23924aa791da8
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_164
+      rect:
+        serializedVersion: 2
+        x: 6304
+        y: 2240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d2bfc6fb7897143b55002082e9103e
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_165
+      rect:
+        serializedVersion: 2
+        x: 6496
+        y: 2237
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d8ca93838bd7f4c81bc72a5aec32eb
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_166
+      rect:
+        serializedVersion: 2
+        x: 6544
+        y: 2218
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fe41290ed1973469e5dec70b0f5d14
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_167
+      rect:
+        serializedVersion: 2
+        x: 6658
+        y: 2194
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3856e4cad740f5f44bbcc43cf78df586
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_168
+      rect:
+        serializedVersion: 2
+        x: 6786
+        y: 2194
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8c54878e9ed104296b43973045ff54
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_169
+      rect:
+        serializedVersion: 2
+        x: 6866
+        y: 2194
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f50dea2dcbc5b4f9e8fd4efc5a1f7c
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_170
+      rect:
+        serializedVersion: 2
+        x: 6939
+        y: 2194
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0764b20289b9d4d9275f46f267a9f1
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_171
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2032
+        width: 73
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410130796416a1f498cd752cc80bcb3c
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_172
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2121
+        width: 114
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c713ed1461c83447b0e6bc34c504562
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_173
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2121
+        width: 114
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82918dfe6378b9409f0318712fa2dcf
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_174
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 2160
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082b26ed9e3ec7141bf44729cffbe098
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_175
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 2112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8cfd92a45a42c4da500c3cf1c3ac58
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_176
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 2112
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0ed22cc16941b4bbd3f82f0fe21331
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_177
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 2096
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd952a988cb29b548bf1c7085a23b2b4
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_178
+      rect:
+        serializedVersion: 2
+        x: 5232
+        y: 2096
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04570c62523f89c4abb5058a561b6804
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_179
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 2144
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ba50d0978dc846a30dac544519c47
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_180
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 2144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e528dc280c58de4a853bb07ebbd7839
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_181
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2144
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2037bbde1df99f448a9a2e6180d23894
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_182
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2015
+        width: 22
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47418f15a9cb1814f9aa29b33cff8004
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_183
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 2032
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b596035b005632b4c8f754326291699b
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_184
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1920
+        width: 73
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b04514a90af8394a8b387f783808311
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_185
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 2039
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7799f04d2d7f8634e8c460931e0a45ba
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_186
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 2026
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d6955138f58b245bec436a6a61d4ee
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_187
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 2037
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc0f4ed7741d5546a895ef57b806b46
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_188
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 2032
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92e02e7ba6736b4295b45848e4055a3
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_189
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 2032
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a0524b86d41b54183d54f32b82bd4e
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_190
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 2032
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2885559f8b8c44d82a3dd99ba0b0ac
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_191
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 2032
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7168c93eee5662a468ed223a963233c9
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_192
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 2080
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27483a967266f542bab2091794d423a
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_193
+      rect:
+        serializedVersion: 2
+        x: 4384
+        y: 2016
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20615fb09666154e911eea365b6dd53
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_194
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 2096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119412bcc4322d94db159e133d7838cb
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_195
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 2096
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb7ab25f1f9cca4cb725627f3379c79
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_196
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 2064
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807fb3a465367a145b1351685ea72d2f
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_197
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 2064
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9efc4b34af609438894a4a12e0f20d
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_198
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2064
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f948b93e18ba1c41a21c1c09311ef7c
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_199
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2032
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03fc95940071504fa989c49abda1159
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_200
+      rect:
+        serializedVersion: 2
+        x: 4256
+        y: 2000
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca6afc71e2f0340819ae0aa0a12b9b
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_201
+      rect:
+        serializedVersion: 2
+        x: 5360
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9995399268c2aa846844aa70dc194c30
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_202
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420130e5cb1507a4bb4e90bb7a0a85f1
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_203
+      rect:
+        serializedVersion: 2
+        x: 6988
+        y: 1648
+        width: 393
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6748fbe0f93439e4ab0f5082a67450d8
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_204
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1936
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cfaf90d98619346b2690fbf69d94d7
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_205
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1952
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ae7bc4d9577c44ab4ff81194b715b
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_206
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1920
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbcc99fbccd11945bf9564c3613b9f9
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_207
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1871
+        width: 82
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e55179e141d7429e60c17e516d9cb
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_208
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1792
+        width: 250
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e538da9876935448d006eae0cc430b
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_209
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1792
+        width: 250
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868854854016e144ad0a84baf314429
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_210
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1840
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2af9dd412d844da475c7f59387ff1
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_211
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 1904
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac5bccbe39d0c649a61cce4d92106b1
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_212
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 1904
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc86478d467d6d440b681778aa588138
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_213
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 1968
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e3913be75b490459c2e9acb6be4a08
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_214
+      rect:
+        serializedVersion: 2
+        x: 5232
+        y: 1968
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8d07b7d48de5340a04e576ad983871
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_215
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1824
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c191cafa82a85594a851cd0167f45158
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_216
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1920
+        width: 54
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc40afefb788c54aae7b9bfca48e639
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_217
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 1792
+        width: 219
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b4149f6a58d44d8fc7304dbc5f09c
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_218
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 1843
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2f0ac81fe8fbd429f845fb465f6c24
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_219
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1622
+        width: 160
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c56d972b865a92458f96eea58dec5cb
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_220
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1676
+        width: 193
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabaaec8e78649543aa2250255e87330
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_221
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1632
+        width: 90
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b36669f4f94b4088c0adbdda0487b
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_222
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1801
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b9b4cc59d8ea74683fc67b257d15d8
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_223
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 1843
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8834cb71e3afd34d9b07eedaf9be795
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_224
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 1843
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8484e5c278ebf4195c9c1103bc738f
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_225
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1844
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f83dfc2b9f21c4696d682f158b28bb
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_226
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 1844
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4978f0981ad9b459c8d6fc7f534a22
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_227
+      rect:
+        serializedVersion: 2
+        x: 4848
+        y: 1760
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a31c3f50dabed4782e6d676b3d3c3c
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_228
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 1760
+        width: 96
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c99a3f58d3c984680a70486b858763
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_229
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 1776
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53ebe22190f9ac48894117badb9ca07
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_230
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 1776
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd70587e02304b4bb55cf1b8157b133
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_231
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1612
+        width: 572
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c9b7a45ba222d44873e1bbd455165d
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_232
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1699
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0c35631ff708845b47ad46cdec3cdd
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_233
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 1701
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3f64053b10eb48a0fbba1edd7edf2
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_234
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 1697
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4cd705f5b37a74f9e5c4e682d84a4a
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_235
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1701
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe598fb49db52747b7414abcc25c299
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_236
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1697
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41685fc10f8eb844693ee70fa40f4c65
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_237
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 1699
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d7bca9fdc288e4eacb36d4fb862bb5
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_238
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 1701
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9967829706e07594ea75747a7716038d
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_239
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1697
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fef572b6152cd43a759b1e08be80ec
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_240
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1701
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64c3db38546baf49bfb37ade1a90b73
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_241
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1697
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01115a28824e704bbb42a2bebc7c46b
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_242
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1584
+        width: 263
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dec5cfc6bf3eb4abbb09920b3c08f5
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_243
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 1584
+        width: 241
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e521e72d4ce0484383594ae9d0ba3e2
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_244
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 1584
+        width: 262
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605f81d7acae83e4e92c9a19c3d5c184
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_245
+      rect:
+        serializedVersion: 2
+        x: 6876
+        y: 1657
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db2d0bbcc83dd43b10679c6db56f13
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_246
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 1622
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adafc32e83975f14fbffc433ce4ae4d1
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_247
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1622
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55bb0abe4e6e740ad22f0720d71d0e
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_248
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1616
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6ebfcc674dc34a8c4722e0e7d7610
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_249
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1620
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1c2651653e13745ab6e94dd0372aae
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_250
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1622
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43153855592e04946933a4aeae6d2bf9
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_251
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 1622
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c1fc20a8f8464fab38db30720d131
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_252
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1616
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dccbd4ae1aed94d8c31a8c61a97333
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_253
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1620
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ea8f5f663cb74a8646e97da16d2a1
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_254
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1383
+        width: 193
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e3d748504c23d49bfc392b9204e197
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_255
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1356
+        width: 572
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7087d72260155c4f8691f06d440389a
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_256
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1523
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed8cd37673fde6488dcbca7f0a912b5
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_257
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 1525
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2da3cd8b3ba0f4c959f7db18c0e877
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_258
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 1521
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af3b63716b1c754aaf8362288a559f3
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_259
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1525
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dd8630b8619764082ae1c60fd049d7
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_260
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1521
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f44d888c99a44c9ec0162a52f6383
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_261
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 1523
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d508a673f89c374688a6e12ae0c3402
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_262
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 1525
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3ced7c657eafc49a2516e580532575
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_263
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1521
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4152edfb45d607641841f81d9d01b597
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_264
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1525
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f984160985d65b4ca6ed6e358e667f8
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_265
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1521
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be3623214551cd49b1158a4f709b946
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_266
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 1488
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6354eb8a01ac0c34aad39fe4cdcccb56
+      internalID: 21300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_267
+      rect:
+        serializedVersion: 2
+        x: 3685
+        y: 1488
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c790d8b0efc8b24680b59de8d3ff8d4
+      internalID: 21300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_268
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 1488
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67af82317c28648888b3de87909d4c
+      internalID: 21300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_269
+      rect:
+        serializedVersion: 2
+        x: 3952
+        y: 1538
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bc148eaff7e2f48a497cdae9dea19c
+      internalID: 21300540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_270
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 1493
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c050874e4db7934fad9b082c8e67ace
+      internalID: 21300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_271
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 1446
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9359d5db4f73c5847ab9034c6034635c
+      internalID: 21300544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_272
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1446
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6ef1dd6cc8e7c4b8854fe9417ac44b
+      internalID: 21300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_273
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1440
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80267a9aed1b224f9b2c076efb224c5
+      internalID: 21300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_274
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1444
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651f07fc357e614889470c0a3ea5749
+      internalID: 21300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_275
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1446
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a924c74a546ee3e45bbbd08e379cb2fb
+      internalID: 21300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_276
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 1446
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6598f96df431f4188e35e104633fd3
+      internalID: 21300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_277
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1440
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e60e34ff1394468c869b2f27961f4
+      internalID: 21300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_278
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1444
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef46ddd19a752c3468b915be34f2f851
+      internalID: 21300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_279
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 1488
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d06b75549e454dac4de01d96ed304
+      internalID: 21300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_280
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 1489
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d841323cfd03ab41881784e1353924c
+      internalID: 21300562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_281
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 1393
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf56b840824a346a66892a82831696
+      internalID: 21300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_282
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1456
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be64f87675b66574183e2518df0edfa9
+      internalID: 21300566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_283
+      rect:
+        serializedVersion: 2
+        x: 4035
+        y: 1463
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f761edd4a85dc40a1c3e03ab1c7908
+      internalID: 21300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_284
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 1463
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4903ee5b45c6c40aaacb36ce1cf190
+      internalID: 21300570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_285
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 1393
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e62fd493a969e4daffa6d21564f1ef
+      internalID: 21300572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_286
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 1456
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640526553233e0d4b8aa473dde085bc0
+      internalID: 21300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_287
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1345
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89dd2d64fe1e244197bd517e1cfe303
+      internalID: 21300576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_288
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 1345
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f9209f4fb266548a61e5c03555765c
+      internalID: 21300578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_289
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 1397
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7373d347a4e2479ea4fd0e8c01e82
+      internalID: 21300580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_290
+      rect:
+        serializedVersion: 2
+        x: 2745
+        y: 1347
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9856162a40f616a47983024fc9d68756
+      internalID: 21300582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_291
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 1349
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598422d96084f084988adaf96db07dd9
+      internalID: 21300584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_292
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 1345
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199779696071f8b4587dd66c7baece21
+      internalID: 21300586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_293
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1349
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123cbb25e9ec87a40a5574e6ee7aaadf
+      internalID: 21300588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_294
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 1347
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92074e281a6644a429145880b4924d31
+      internalID: 21300590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_295
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 1349
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4d64a29462f0645a2c9affc3185562
+      internalID: 21300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_296
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1345
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63fff5f497263c4b9195056b9e10cb1
+      internalID: 21300594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_297
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1349
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56fa30cac08d364faefaa511e1db2b3
+      internalID: 21300596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_298
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1297
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78080aa960c85e149bd7fee985250752
+      internalID: 21300598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_299
+      rect:
+        serializedVersion: 2
+        x: 3718
+        y: 1297
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c830d49cb5aef174285311f2cfd08e9c
+      internalID: 21300600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_300
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 1297
+        width: 131
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87fcc49e1bfb1845990aa0517eb5dbf
+      internalID: 21300602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_301
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 376
+        width: 781
+        height: 904
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91523903c6fb3d94d8a9c7ee0ff79c26
+      internalID: 21300604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_302
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 1270
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5477aa1bf5796469427d0ef778674f
+      internalID: 21300606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_303
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1270
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703dcce5018e7f348bffed0eca256ead
+      internalID: 21300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_304
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 1264
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e580b80fda341b45a69dbe930c0ca2c
+      internalID: 21300610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_305
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1268
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179cbba73b990c643b656847d20e258d
+      internalID: 21300612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_306
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1270
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbd6ae3ee4c2df489607e63ba0d543f
+      internalID: 21300614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_307
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 1270
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e482816e20204fa88eddf1309aad9
+      internalID: 21300616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_308
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1264
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaa978bfd73fff488834b155f8c52cb
+      internalID: 21300618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_309
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1268
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6cc2d3e8c1fcb4aa3efb1b54f5a33f
+      internalID: 21300620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_310
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 1217
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf0a3869101b4428f9d65ab1513ac6
+      internalID: 21300622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_311
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 1217
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860056a30e9b44f40921826249002b4b
+      internalID: 21300624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_312
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 1217
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5b2bbb8ff29ac4c80e1ff10886edea
+      internalID: 21300626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_313
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 1228
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95a2ac7bf1fdc04190788cb7973e293
+      internalID: 21300628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_314
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 769
+        width: 422
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7da9985f08a7f4aa6b829148365c76
+      internalID: 21300630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_315
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 360
+        width: 780
+        height: 848
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a997ec7e6b56478df489da1c15122
+      internalID: 21300632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_316
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 948
+        width: 181
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6471c9468fd0fd7439033bebb34345f6
+      internalID: 21300634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_319
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 929
+        width: 225
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d83fd86b64c4d4a9e5cb6b59394280
+      internalID: 21300640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_321
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 870
+        width: 79
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f34a6372d508140a30e631e1ab5391
+      internalID: 21300644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_322
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 983
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8060dc0e2c6f9da408c7c35043aba505
+      internalID: 21300646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_323
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 983
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e01b146a38714bb1ac6bfdb1bae00
+      internalID: 21300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_324
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 983
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502ec199e34ae4341bea8f6298ecfd7e
+      internalID: 21300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_325
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 658
+        width: 216
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954fa0d669b85f44c82f6ac4146d0fa8
+      internalID: 21300652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_326
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 354
+        width: 1128
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292d34449fe83b499e84e6f4c7c3977
+      internalID: 21300654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_327
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 213
+        width: 736
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d37f6d3d3a9056489077a50f52926ff
+      internalID: 21300656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_328
+      rect:
+        serializedVersion: 2
+        x: 3315
+        y: 95
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3640d5c8b6930674f84acd3d3d39be94
+      internalID: 21300658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: __CompleteHotel_329
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 82
+        width: 864
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce434b3b7944f44ba56dcb3eeb1b4a
+      internalID: 21300660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 188ca3b19b7d9c54589cf9c1dbc31142
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

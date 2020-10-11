@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba9447594ac2304aabc00fa6a1ce5ea, type: 3}
+  m_Name: DebugPlayerBattleUnitInfo
+  m_EditorClassIdentifier: 
+  playableUnit:
+    unitName: Muchachombre
+    level: 5
+    strength: 10
+    speed: 10
+    intelligence: 10
+    maxHealth: 100
+    currentHealth: 0
+    maxActionPoints: 100
+    currentActionPoints: 0
+    accuracy: 90
+    defense: 1
+    evasion: 1
+    luck: 1
+    unitType: 1
+    currentAilment: 0
+    experience: 55
+    maxHypeMeter: 100
+    currentHypeMeter: 0
+  unitPrefab: {fileID: 4043077292537394140, guid: 207da2a0ba22b6d40b72b205844397fc,
+    type: 3}

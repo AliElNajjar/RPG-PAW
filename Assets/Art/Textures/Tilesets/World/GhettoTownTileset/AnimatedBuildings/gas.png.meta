@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: abaae1b2668ddc042a05e8750f119555
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: gas_0
+  - first:
+      213: 21300002
+    second: gas_1
+  - first:
+      213: 21300004
+    second: gas_2
+  - first:
+      213: 21300006
+    second: gas_3
+  - first:
+      213: 21300008
+    second: gas_4
+  - first:
+      213: 21300010
+    second: gas_5
+  - first:
+      213: 21300012
+    second: gas_6
+  - first:
+      213: 21300014
+    second: gas_7
+  - first:
+      213: 21300016
+    second: gas_8
+  - first:
+      213: 21300018
+    second: gas_9
+  - first:
+      213: 21300020
+    second: gas_10
+  - first:
+      213: 21300022
+    second: gas_11
+  - first:
+      213: 21300024
+    second: gas_12
+  - first:
+      213: 21300026
+    second: gas_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d4d3f0812473e498b8fb595cdb986c
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_1
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1482
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d566c5e1896adbe40b196ab53b02d646
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1235
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d81c48a36924f340aede8a560a1501c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1235
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b5538d24367b4d84d0ebc351b43ec
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 988
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221437105e63b314bb263e9a8f193bcf
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 988
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa1d04a4ba5f8a4fb35d79e2d5e76cb
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1ac5b1387bcc543838cbf0dacf8457
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 741
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a4a5774643dd84b9a3276b67889a89
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4176fa0ea0d8bc4e81da9302cc95bc7
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 494
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa38aa5c0d45e0d4197de4330eff9ad1
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bed30bdd6c5001419b26c222a1fbbeb
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 247
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69938d08476af294b90a94951c0bbe11
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e947ef780487681449074fb32a60b6fd
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gas_13
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 464
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e45edd0b0b007468c70f6f049e52d7
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 67b9f4ee891aebc43ba88467bbdc547c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

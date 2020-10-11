@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f03348cbbfbe57549887e52c6eacae17, type: 3}
+  m_Name: BasicHand
+  m_EditorClassIdentifier: 
+  output: {fileID: 876381120002591129, guid: 778fdb653d2cd314095515e145bfd7b0, type: 3}
+  ingredients:
+  - ingredient: {fileID: 2288014526910608980, guid: 7bf551ca6f2f26443b775f95c4963278,
+      type: 3}
+    amount: 1
+  - ingredient: {fileID: 3533412394276050327, guid: 9998398f4d65d824f86d020e6fedd5f9,
+      type: 3}
+    amount: 3
+  gridPos: {x: 0, y: 0}

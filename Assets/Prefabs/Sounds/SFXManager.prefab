@@ -1,0 +1,243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2366426478930355693
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4390714716910974860}
+  - component: {fileID: 574097505}
+  - component: {fileID: 574097504}
+  m_Layer: 0
+  m_Name: SFXManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4390714716910974860
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2366426478930355693}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.2822652, y: 0.011498151, z: -9.609375}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &574097505
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2366426478930355693}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 120
+  DopplerLevel: 1
+  MinDistance: 0
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 1
+  BypassEffects: 1
+  BypassListenerEffects: 1
+  BypassReverbZones: 1
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &574097504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2366426478930355693}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e12387b4b6a6ecb42900a392367cfbc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  battleBegin: {fileID: 8300000, guid: 494c0c9d62af3e046b9c7ae432a8ccdc, type: 3}
+  textBoxOpen: {fileID: 8300000, guid: aef923257deacf540b0190b644852d7c, type: 3}
+  textBoxClose: {fileID: 8300000, guid: 21e1b2a8d43d09744893d1118e33a5a2, type: 3}
+  cursorUI: {fileID: 8300000, guid: 45734d7e4f08b8b43b9878ec165f6f9b, type: 3}
+  debuffLand: {fileID: 8300000, guid: 0e32280fdafa1ec4b8f38c88acde68ac, type: 3}
+  maleInteractions:
+  - {fileID: 8300000, guid: 74998cd8137fd02449f55258dee33f57, type: 3}
+  - {fileID: 8300000, guid: 03074d5124d75fd44ae514ec9652434a, type: 3}
+  - {fileID: 8300000, guid: 134a21da94e330341b9986bcecb835c2, type: 3}
+  - {fileID: 8300000, guid: 45beae8d5a8e24d43b635b9a03495b78, type: 3}
+  - {fileID: 8300000, guid: 347c7f8da3fba414997904cfc624ccb4, type: 3}
+  - {fileID: 8300000, guid: 01e48d5910fc4b9469fa5d1eab3616a9, type: 3}
+  femaleInteractions:
+  - {fileID: 8300000, guid: 1e5440ca6257fa14caa6730eea3770f2, type: 3}
+  - {fileID: 8300000, guid: f50dd4091f611f64fa1b5c268f498a23, type: 3}
+  - {fileID: 8300000, guid: 56367f54609935140ac6127e8d112c75, type: 3}
+  - {fileID: 8300000, guid: 14f5bd77131307d428ff96f3444a0da2, type: 3}
+  - {fileID: 8300000, guid: 0c5e1f2d52c39eb4fb67d293dbc43a6f, type: 3}
+  punches:
+  - {fileID: 8300000, guid: 28a53ef3bb53fc142a9b38c1b3b61d1e, type: 3}
+  - {fileID: 8300000, guid: 9c62e8b1758dcfe4cb75df1db1415318, type: 3}
+  - {fileID: 8300000, guid: cefebaf971bbbe248abeaf84c35d62ef, type: 3}
+  - {fileID: 8300000, guid: d8df2e4545a623e41a639219cb4016bf, type: 3}
+  - {fileID: 8300000, guid: 574e6e9b2fe6e204785e9ddfc594e282, type: 3}
+  - {fileID: 8300000, guid: eff5b864bddc8d3419a85bfde70fdb2c, type: 3}
+  - {fileID: 8300000, guid: 89413bb4ec0cf8e47aeab96e15319fdc, type: 3}
+  - {fileID: 8300000, guid: 17f898a0871d23742ae57e4d779eb5e1, type: 3}
+  - {fileID: 8300000, guid: b751fbd3c1e9f0341a33ffccd039ff32, type: 3}
+  - {fileID: 8300000, guid: 30700d10c330bb84898dc07d9f19362f, type: 3}
+  - {fileID: 8300000, guid: 1d5d8323387f9d2438cedc6a8c6fa714, type: 3}
+  gruntMaleAttacks:
+  - {fileID: 8300000, guid: 4eddaa2a51bac5d409a60869d7eed288, type: 3}
+  - {fileID: 8300000, guid: 6ffa7ee5f6c73de49970e86694f5ea79, type: 3}
+  - {fileID: 8300000, guid: bf3b43c79f4f15f4282148c466347207, type: 3}
+  - {fileID: 8300000, guid: 300369b5394f6fb48a958a4c07e3a26b, type: 3}
+  - {fileID: 8300000, guid: 5e7460f5433d49a4592912e754baa50b, type: 3}
+  - {fileID: 8300000, guid: 5d3bc26935ef85245b2e3e516d3ef1db, type: 3}
+  - {fileID: 8300000, guid: 4449b472240703a44a8c9f38f8353f9c, type: 3}
+  - {fileID: 8300000, guid: d98b43e3b3f722143ae883c996c95f5a, type: 3}
+  gruntFemaleAttacks:
+  - {fileID: 8300000, guid: 3ae765b97ee9f294e999d59ba52fcbee, type: 3}
+  gruntMaleHurt:
+  - {fileID: 8300000, guid: c69c5fee2047da4409ea3529baa4774a, type: 3}
+  - {fileID: 8300000, guid: 0a90a4c2573cc474383a9f3c48a756bd, type: 3}
+  - {fileID: 8300000, guid: 9ac86bf793bd8be48bdb9f633f8d3060, type: 3}
+  - {fileID: 8300000, guid: 52e7420cc47302644b6167dd0299e622, type: 3}
+  - {fileID: 8300000, guid: f5da55dca9e82234ea16490b2df45cdd, type: 3}
+  gruntFemaleHurt:
+  - {fileID: 8300000, guid: 07161fe70d32aba43a68333b985fb1c8, type: 3}
+  - {fileID: 8300000, guid: 675f6f6f0bb308447b699408ab3e5e79, type: 3}
+  - {fileID: 8300000, guid: 26896305cf60dec47a577404dc3980d4, type: 3}
+  - {fileID: 8300000, guid: 071910f0a0f06374f86f2568cce0df31, type: 3}
+  wooshes:
+  - {fileID: 8300000, guid: 02c49abbc5d4e364aaf943d8a445f68a, type: 3}
+  - {fileID: 8300000, guid: 37870d904f844084a91e4ec027d62194, type: 3}
+  - {fileID: 8300000, guid: a36c5406160cdf24388acd347ddbcd43, type: 3}
+  - {fileID: 8300000, guid: da964d85883ffce4aa80761e298a21f9, type: 3}
+  hits:
+  - {fileID: 8300000, guid: d9a93722d01882043b9fc49bbf0bacd2, type: 3}
+  - {fileID: 8300000, guid: e21e19defabd61b4f88f784a56c50dac, type: 3}
+  - {fileID: 8300000, guid: c7512287efbea124bb7f078c1e94530d, type: 3}
+  - {fileID: 8300000, guid: af297278078ab9a4c91e60b48e65bc61, type: 3}
+  - {fileID: 8300000, guid: 903bcc8ce9b4e9d47af317beda53386a, type: 3}
+  crowdCheer:
+  - {fileID: 8300000, guid: 39dfe6f0429beb84da232a22ad1fcfa9, type: 3}
+  - {fileID: 8300000, guid: 5074dbc076c413b4d9e10db6891afc62, type: 3}
+  - {fileID: 8300000, guid: f89e50e06a8cc494eb1a9e79401a8cdd, type: 3}
+  - {fileID: 8300000, guid: 190d00be0ae5f9a40a91ce1712000b16, type: 3}
+  - {fileID: 8300000, guid: a1f0ca43e7a692140bf99b63eee2d66b, type: 3}
+  - {fileID: 8300000, guid: 5074dbc076c413b4d9e10db6891afc62, type: 3}
+  crowdBoo: []
+  dodges:
+  - {fileID: 8300000, guid: 5f213e9bf430f0a49ad0aa1a5fa0ceb8, type: 3}
+  - {fileID: 8300000, guid: ac2f94bcbfc206b40884fcfb2232c514, type: 3}
+  pointTally: {fileID: 8300000, guid: 92884c9a459276845977c6828055117e, type: 3}
+  buzzer: {fileID: 8300000, guid: 27bf63088b07ffc44a6d2dc745fee5d6, type: 3}
+  ratInteract: {fileID: 8300000, guid: 71d6b6b8db1949942bff1697e4b0809c, type: 3}
+  takeDmgFart: {fileID: 8300000, guid: 12d0e545ce289944c919da8164dcbd5e, type: 3}
+  burnEffect: {fileID: 8300000, guid: 9da376532d617b245984e46e8262b3c0, type: 3}
+  battleTransition: {fileID: 8300000, guid: 241f4710073814b4ab964923f31c3121, type: 3}
+  StunnerHeavyHit: {fileID: 8300000, guid: 4bdea21d99d7eb743807886f40584e13, type: 3}
+  laserBeam: {fileID: 8300000, guid: cf39be4f309e2e34aa2cbdd1385aa5ac, type: 3}
+  targetSelect: {fileID: 0}
+  muchachoJump: {fileID: 0}
+  muchachoJumpGrunt: {fileID: 8300000, guid: f161f2d0959c74142bed6e6f6758e55c, type: 3}
+  buttonPromptMatch: {fileID: 8300000, guid: 7c34afd4872d8b64ea4ab1ec2467917b, type: 3}
+  buttonPromptFail: {fileID: 8300000, guid: 0075930e89588414e93cf89237ac30d6, type: 3}
+  craftingSelect: {fileID: 8300000, guid: ce38c8fc32eab164cae59b2a09803bab, type: 3}
+  craftSuccess: {fileID: 8300000, guid: 8ece9d668c810b44abfb2d19d9346349, type: 3}
+  cameraFlashes:
+  - {fileID: 8300000, guid: f6760aafd7902924eb17ec64b42d1742, type: 3}
+  - {fileID: 8300000, guid: 074ca0eb97de3584eab2fda35769bbef, type: 3}
+  - {fileID: 8300000, guid: 976c5da9ba0ab2947a915952489f170a, type: 3}
+  hydrantWaterLoop: {fileID: 0}
+  hypeMeterFull: {fileID: 8300000, guid: 89184289df8c3014082fa06197961deb, type: 3}
+  lightFlickering: {fileID: 0}
+  doorOpen: {fileID: 0}
+  doorKnock: {fileID: 0}
+  doorLocked:
+  - {fileID: 8300000, guid: eb493cb53dfa7a744acd3749c3a519ad, type: 3}
+  - {fileID: 8300000, guid: 45b550fcc43233d4e85733be250797a3, type: 3}

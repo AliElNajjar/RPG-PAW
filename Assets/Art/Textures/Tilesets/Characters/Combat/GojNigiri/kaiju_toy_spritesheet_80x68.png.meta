@@ -1,0 +1,2624 @@
+fileFormatVersion: 2
+guid: b41ac6037047ebb43a2d5f97de27a743
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: kaiju_toy_spritesheet_80x68_0
+  - first:
+      213: 21300002
+    second: kaiju_toy_spritesheet_80x68_1
+  - first:
+      213: 21300004
+    second: kaiju_toy_spritesheet_80x68_2
+  - first:
+      213: 21300006
+    second: kaiju_toy_spritesheet_80x68_3
+  - first:
+      213: 21300008
+    second: kaiju_toy_spritesheet_80x68_4
+  - first:
+      213: 21300010
+    second: kaiju_toy_spritesheet_80x68_5
+  - first:
+      213: 21300012
+    second: kaiju_toy_spritesheet_80x68_6
+  - first:
+      213: 21300014
+    second: kaiju_toy_spritesheet_80x68_7
+  - first:
+      213: 21300016
+    second: kaiju_toy_spritesheet_80x68_8
+  - first:
+      213: 21300018
+    second: kaiju_toy_spritesheet_80x68_9
+  - first:
+      213: 21300020
+    second: kaiju_toy_spritesheet_80x68_10
+  - first:
+      213: 21300022
+    second: kaiju_toy_spritesheet_80x68_11
+  - first:
+      213: 21300024
+    second: kaiju_toy_spritesheet_80x68_12
+  - first:
+      213: 21300026
+    second: kaiju_toy_spritesheet_80x68_13
+  - first:
+      213: 21300028
+    second: kaiju_toy_spritesheet_80x68_14
+  - first:
+      213: 21300030
+    second: kaiju_toy_spritesheet_80x68_15
+  - first:
+      213: 21300032
+    second: kaiju_toy_spritesheet_80x68_16
+  - first:
+      213: 21300034
+    second: kaiju_toy_spritesheet_80x68_17
+  - first:
+      213: 21300036
+    second: kaiju_toy_spritesheet_80x68_18
+  - first:
+      213: 21300038
+    second: kaiju_toy_spritesheet_80x68_19
+  - first:
+      213: 21300040
+    second: kaiju_toy_spritesheet_80x68_20
+  - first:
+      213: 21300042
+    second: kaiju_toy_spritesheet_80x68_21
+  - first:
+      213: 21300044
+    second: kaiju_toy_spritesheet_80x68_22
+  - first:
+      213: 21300046
+    second: kaiju_toy_spritesheet_80x68_23
+  - first:
+      213: 21300048
+    second: kaiju_toy_spritesheet_80x68_24
+  - first:
+      213: 21300050
+    second: kaiju_toy_spritesheet_80x68_25
+  - first:
+      213: 21300052
+    second: kaiju_toy_spritesheet_80x68_26
+  - first:
+      213: 21300054
+    second: kaiju_toy_spritesheet_80x68_27
+  - first:
+      213: 21300056
+    second: kaiju_toy_spritesheet_80x68_28
+  - first:
+      213: 21300058
+    second: kaiju_toy_spritesheet_80x68_29
+  - first:
+      213: 21300060
+    second: kaiju_toy_spritesheet_80x68_30
+  - first:
+      213: 21300062
+    second: kaiju_toy_spritesheet_80x68_31
+  - first:
+      213: 21300064
+    second: kaiju_toy_spritesheet_80x68_32
+  - first:
+      213: 21300066
+    second: kaiju_toy_spritesheet_80x68_33
+  - first:
+      213: 21300068
+    second: kaiju_toy_spritesheet_80x68_34
+  - first:
+      213: 21300070
+    second: kaiju_toy_spritesheet_80x68_35
+  - first:
+      213: 21300072
+    second: kaiju_toy_spritesheet_80x68_36
+  - first:
+      213: 21300074
+    second: kaiju_toy_spritesheet_80x68_37
+  - first:
+      213: 21300076
+    second: kaiju_toy_spritesheet_80x68_38
+  - first:
+      213: 21300078
+    second: kaiju_toy_spritesheet_80x68_39
+  - first:
+      213: 21300080
+    second: kaiju_toy_spritesheet_80x68_40
+  - first:
+      213: 21300082
+    second: kaiju_toy_spritesheet_80x68_41
+  - first:
+      213: 21300084
+    second: kaiju_toy_spritesheet_80x68_42
+  - first:
+      213: 21300086
+    second: kaiju_toy_spritesheet_80x68_43
+  - first:
+      213: 21300088
+    second: kaiju_toy_spritesheet_80x68_44
+  - first:
+      213: 21300090
+    second: kaiju_toy_spritesheet_80x68_45
+  - first:
+      213: 21300092
+    second: kaiju_toy_spritesheet_80x68_46
+  - first:
+      213: 21300094
+    second: kaiju_toy_spritesheet_80x68_47
+  - first:
+      213: 21300096
+    second: kaiju_toy_spritesheet_80x68_48
+  - first:
+      213: 21300098
+    second: kaiju_toy_spritesheet_80x68_49
+  - first:
+      213: 21300100
+    second: kaiju_toy_spritesheet_80x68_50
+  - first:
+      213: 21300102
+    second: kaiju_toy_spritesheet_80x68_51
+  - first:
+      213: 21300104
+    second: kaiju_toy_spritesheet_80x68_52
+  - first:
+      213: 21300106
+    second: kaiju_toy_spritesheet_80x68_53
+  - first:
+      213: 21300108
+    second: kaiju_toy_spritesheet_80x68_54
+  - first:
+      213: 21300110
+    second: kaiju_toy_spritesheet_80x68_55
+  - first:
+      213: 21300112
+    second: kaiju_toy_spritesheet_80x68_56
+  - first:
+      213: 21300114
+    second: kaiju_toy_spritesheet_80x68_57
+  - first:
+      213: 21300116
+    second: kaiju_toy_spritesheet_80x68_58
+  - first:
+      213: 21300118
+    second: kaiju_toy_spritesheet_80x68_59
+  - first:
+      213: 21300120
+    second: kaiju_toy_spritesheet_80x68_60
+  - first:
+      213: 21300122
+    second: kaiju_toy_spritesheet_80x68_61
+  - first:
+      213: 21300124
+    second: kaiju_toy_spritesheet_80x68_62
+  - first:
+      213: 21300126
+    second: kaiju_toy_spritesheet_80x68_63
+  - first:
+      213: 21300128
+    second: kaiju_toy_spritesheet_80x68_64
+  - first:
+      213: 21300130
+    second: kaiju_toy_spritesheet_80x68_65
+  - first:
+      213: 21300132
+    second: kaiju_toy_spritesheet_80x68_66
+  - first:
+      213: 21300134
+    second: kaiju_toy_spritesheet_80x68_67
+  - first:
+      213: 21300136
+    second: kaiju_toy_spritesheet_80x68_68
+  - first:
+      213: 21300138
+    second: kaiju_toy_spritesheet_80x68_69
+  - first:
+      213: 21300140
+    second: kaiju_toy_spritesheet_80x68_70
+  - first:
+      213: 21300142
+    second: kaiju_toy_spritesheet_80x68_71
+  - first:
+      213: 21300144
+    second: kaiju_toy_spritesheet_80x68_72
+  - first:
+      213: 21300146
+    second: kaiju_toy_spritesheet_80x68_73
+  - first:
+      213: 21300148
+    second: kaiju_toy_spritesheet_80x68_74
+  - first:
+      213: 21300150
+    second: kaiju_toy_spritesheet_80x68_75
+  - first:
+      213: 21300152
+    second: kaiju_toy_spritesheet_80x68_76
+  - first:
+      213: 21300154
+    second: kaiju_toy_spritesheet_80x68_77
+  - first:
+      213: 21300156
+    second: kaiju_toy_spritesheet_80x68_78
+  - first:
+      213: 21300158
+    second: kaiju_toy_spritesheet_80x68_79
+  - first:
+      213: 21300160
+    second: kaiju_toy_spritesheet_80x68_80
+  - first:
+      213: 21300162
+    second: kaiju_toy_spritesheet_80x68_81
+  - first:
+      213: 21300164
+    second: kaiju_toy_spritesheet_80x68_82
+  - first:
+      213: 21300166
+    second: kaiju_toy_spritesheet_80x68_83
+  - first:
+      213: 21300168
+    second: kaiju_toy_spritesheet_80x68_84
+  - first:
+      213: 21300170
+    second: kaiju_toy_spritesheet_80x68_85
+  - first:
+      213: 21300172
+    second: kaiju_toy_spritesheet_80x68_86
+  - first:
+      213: 21300174
+    second: kaiju_toy_spritesheet_80x68_87
+  - first:
+      213: 21300176
+    second: kaiju_toy_spritesheet_80x68_88
+  - first:
+      213: 21300178
+    second: kaiju_toy_spritesheet_80x68_89
+  - first:
+      213: 21300180
+    second: kaiju_toy_spritesheet_80x68_90
+  - first:
+      213: 21300182
+    second: kaiju_toy_spritesheet_80x68_91
+  - first:
+      213: 21300184
+    second: kaiju_toy_spritesheet_80x68_92
+  - first:
+      213: 21300186
+    second: kaiju_toy_spritesheet_80x68_93
+  - first:
+      213: 21300188
+    second: kaiju_toy_spritesheet_80x68_94
+  - first:
+      213: 21300190
+    second: kaiju_toy_spritesheet_80x68_95
+  - first:
+      213: 21300192
+    second: kaiju_toy_spritesheet_80x68_96
+  - first:
+      213: 21300194
+    second: kaiju_toy_spritesheet_80x68_97
+  - first:
+      213: 21300196
+    second: kaiju_toy_spritesheet_80x68_98
+  - first:
+      213: 21300198
+    second: kaiju_toy_spritesheet_80x68_99
+  - first:
+      213: 21300200
+    second: kaiju_toy_spritesheet_80x68_100
+  - first:
+      213: 21300202
+    second: kaiju_toy_spritesheet_80x68_101
+  - first:
+      213: 21300204
+    second: kaiju_toy_spritesheet_80x68_102
+  - first:
+      213: 21300206
+    second: kaiju_toy_spritesheet_80x68_103
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a74ec1de5c4f484485d4963ad431e31
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 816
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20a5920c229f704dbc6b7f0234d9f4a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 816
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40640d26b9a9440478fc3da990f793a1
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 816
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a095839464ab9ce47a2ce8efcf8cb492
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569b8be2fc4c6d34ab9810a5b1e377f8
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 748
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6a3693ee58b724fb51311a1da12e35
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 748
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdcf728a95175443a9e9245aebc0f69
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 748
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc7d82420ae16f4ea09c2b6c867637f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a501259ee6641458f90eb96e73a024
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48e379362e636b48a22c58031fd0a81
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49821d6fb025264cb2a4c1a9d6c3614
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c690e768a65cfce4caac105896efcc57
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0157e9357ac80054381326f23382d074
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743af26f04e2f5a45a53ca9e79cf87fb
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef3a2396f1539d4e946019a8ddb3e50
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e2e11c1a7fd914e92a59f1c73a5ce1
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d5b6cd4b0f7fd4c8e112b3003781b1
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3c2ff6ca772994a893fe3b5a3ff005
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c87d1428de8ba4c9f11da7e12b1fa2
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60f699d001ee354399ac0e8075718bf
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b9a9e86b7be440b0f73c084a90419
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa8ba1b769f84a4e9cd7b9789087c22
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b056e1a4fe78c2448ae1b0aaeffbde7
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab54d156227b2749841c300978e90bc
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ccd3963af992e4bb0273afc958a7e2
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f1b4536856584b9b382931a9b7464
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_26
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d6465b95c84e4f8197e289dbc8fbd
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8739d6753b3d3f43a3663a3ca61fbff
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 612
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c404b9d3841a4b80f15b5c35087c2
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc260501927e264fa72c74a3c0d5dbd
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b76db6b8fdea2043b3b79ec5177834f
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70b2782c1f095a478282a39084fa27f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94ada2d298077a4b9a5470f65e0ddea
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11dabd8e883bc48ab0bfc79177da9b
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1855457bf6e7e9439c85592f5cd9788
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1b143f294f7d340982f8b26fd20a44
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_36
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b9b5f411556864498a5ffc164988fd
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3ea361d0f1a184eafef50554709b99
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7253026aa9cc9484c84c4942e6d6d02c
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_39
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 544
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030221c96bde853499e0329b428c140c
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f854299d64e96f4a9da661a6deb4693
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf06687f0e79cc419050d5ad4e28131
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330c5762977c5d04ca37feee836faa9a
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3f98decdce9c46814d8c2434136ff
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240412c167a293e468dcb53149a8cc0d
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1434ffa19a06143ad77f981da77224
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b27f440c35bb40b45321afd30a52d
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be29dab2c48228043a62efc83a381043
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 476
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce6c5b5ae48dbe42a6981d41ed8230f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca08d897cbf0d94b922a8d8068a4a02
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 408
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5f0c1e9e8d93c4995e634e08197490
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 408
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec66593a33bd574b9da881aefcbeb9f
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 408
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e10304c8135e343a904e34a1c0b964
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23adaa72796f145bccd43aab043617
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 408
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b4b62a1be78a94ca291e6c91711207
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 408
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3397becb94948ec45959c686944b12cb
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_56
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 408
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7635407a6342724785d6bb6cde30fc9
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f9cd41d97e0be41a2c521be12eba4a
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d770cf17055282e4cb86222c111897f5
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124bae83131adc448e4fd42cb829584
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5579237edf996474aa77b21463dbe8df
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4fd76cca53dc041bff836a4aefe128
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243c51195815e4468e79784a3d394ba
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de62bfa9b81f00a478e9dfe90d6ea3df
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4508a33e37bbb4eac99886ce81a984
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34c16ffe810bb4baa1ba4a7ec21878
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1bd7b5c0668a24b99736511af82c9f
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_67
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 340
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe5911f619e1c14f8697c2b11d01fa8
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db9cf58ef4eba043a2d48dbbf52a3d8
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_69
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a441e3a354a193d4bb1b9eb84a049a44
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d650fc39c53ca774c98900e155278d1e
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7499de1c80bd6aa419c2d573b2fda4d7
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90501dbe75e80ca4c845d226c67c98bf
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a068610d874f941adef00b812bcff6
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecffa632b610ccb48aac9e5b832fe57e
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_75
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062b32c2d2e04a4892c8f61b88095c3
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 272
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e053903150f5cf44b5d08f47899f890
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4bd17e0b984494f9ea9fb9760d1f24
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b8c1a78bbd5846b592c2cf1d0da0d
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129c62dd530ac1d49ab1dfef3a327ad1
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731caf72bf4bc8240894bede97146812
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_81
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abc3ae4f2b31464184b10721fa5e7c8
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7026eccfe3e8e4886f63c4cabbb482
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_83
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc82e939eda8a104681533bc6c65d074
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_84
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec0fb8ff52fbb94e8f07f1ab4f7eb5f
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f930b3bff3a149be2abf536e86732
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_86
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32059d61341101b4ab947cfd5e3bf800
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_87
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 204
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164d40bd1a2ec4849b76cd4ce43b374c
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5503c59135fa44b8e2dbaed9bbb79d
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 136
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c9aa5af889634683dd1859aa80130
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_90
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 136
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4cbf0104a31b5419a2ff85b9a77d8a
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1055fea33e39a4f976751ff7f50b16
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e878246da850e7449a33dfd6b12b91ae
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b7d518c50b3a14890233eef5d0c0bf
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62472b88f87dcb4885a2d22a72226ee
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f75acb419217f149843443493f18132
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_96
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdc040bb6a1acc4bb2f67fdfef25842
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e8087af29c313418f839c7e65ec630
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_98
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd54f09826be12545884b0593b61afbc
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_99
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2933e3568ba05eb4faa06c24762ab691
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_100
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74de1a62bbf57d245b7842020bb137dd
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_101
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 68
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181625d2e5b70a1448eee175ef9fe117
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d571e8056dcdf14a848b8e41f362715
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kaiju_toy_spritesheet_80x68_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ee201be087b6a45bce1b1b53d02237
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 10db7400436ea1e4aa944204f826d0a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

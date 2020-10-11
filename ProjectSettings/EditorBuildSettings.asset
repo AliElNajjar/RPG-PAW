@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 6765ac84a6c732949a71551d1df4e00d
+  - enabled: 1
+    path: Assets/Scenes/Levels/IntroScene.unity
+    guid: e37bdd4a2e8594f4f9f71aa846279eee
+  - enabled: 1
+    path: Assets/Scenes/Combat.unity
+    guid: 8d2d4773012ffd94fb8453940a9ad920
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/BoxWood/BoxWoodSideA.unity
+    guid: 2a3d2fdcfa7fb2d45b95fdd84dafa4fd
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/BoxWood/BoxWoodSideC.unity
+    guid: bfeb4e801caf2f34daacc269660c08d4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/SideDInsideBuilding2I.unity
+    guid: 35f0f746977f5494db0c08335e6c66f7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/SideDInsideBuilding1I.unity
+    guid: b81c778deb2563c4ab5576e8ac2e7b1c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/BoxWood/BoxWoodSideD.unity
+    guid: c8d7e9b22281b6844818e1e349e73047
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/BoxWood/BoxWoodSideF.unity
+    guid: 4ab193b41bd56fd44bb4911c58f127e6
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/ChopShopInterior.unity
+    guid: 0c9fcf6546d1d2447bbc5d52867d345d
+  - enabled: 1
+    path: Assets/Scenes/GameOverScreen.unity
+    guid: ab0f9d48586ff154686d57108ba24e19
+  - enabled: 1
+    path: Assets/Scenes/Menus/WalkOnSetup.unity
+    guid: 5449f0235db45b0459be7067f33cbfd9
+  - enabled: 1
+    path: Assets/Scenes/TrashTalkingInTheRing.unity
+    guid: d1e3515ecafc77f438cb4e53cd1744d0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/InsidePrincipalsOffice.unity
+    guid: 6922822bee89f554f8e378726c1f358e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideBuilding1I.unity
+    guid: 9cd36d3220669774b83a8f21d3bfb39e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideBuilding3IHospital.unity
+    guid: 3a0dbe737666f134ea2bce5f42d948bc
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideBuilding4I.unity
+    guid: 3406149b3197ffb448e349771914d2d4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideBuilding5I.unity
+    guid: 3f5484bb3e89d45438faa5f3c814ca5e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideBuilding6I.unity
+    guid: 53f0f4b853067f043ac6f4f9f661bc94
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideGUNShop.unity
+    guid: b795c34f4ba5cbb4d97d9ef3f15ac657
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideDrugStore.unity
+    guid: e69e1a4a5cec8634eb4b65d0f9291c56
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideFastTravelStationA.unity
+    guid: f94db959d02a5384abb835441ad1ec71
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideFastTravelStationJunglaji.unity
+    guid: a137ae4e40bf0524db095fd6414f65e6
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JunglanjiTown_Interiors/SafariOutpost_Hospital.unity
+    guid: f82e093f3f5adf74ba7ab99ddde1b55a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/TrashTalkingScene.unity
+    guid: e95009a49e8876b44a801ce550f4227a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/InsideLockerRoom.unity
+    guid: 3d902dbf64ae7004bab7b941321f7f1c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/InsideGym.unity
+    guid: ff0555053e8e4bb48b4f6866384d5a2c
+  - enabled: 1
+    path: Assets/Scenes/Minigames/TwisteesDancing.unity
+    guid: 68dcf5aa68dcae345884fdc2d51ee4a0
+  - enabled: 1
+    path: Assets/Scenes/Minigames/BlackAlleyDice.unity
+    guid: ca3335b80f8b4ec49a86a6c3d28618f1
+  - enabled: 1
+    path: Assets/Scenes/Minigames/JackInTheBox.unity
+    guid: 1c5715d2eacddfb4eaa9a475126e6fb0
+  - enabled: 1
+    path: Assets/Scenes/EndOfDemo.unity
+    guid: d17006e2c5410eb4e9f336c15d523bf8
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze1/Junglaji_MazeA.unity
+    guid: f47166babd1dfcb47aaada9556a4b467
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze1/Junglaji_MazeB.unity
+    guid: 0fdf3aac9a604b747b63d11416bef5c2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze1/Junglaji_MazeC.unity
+    guid: eebf42e70709fc14ca886d813cad8d42
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze1/Junglaji_MazeD.unity
+    guid: b0ecd22c8f65db7418eae4d2e0181656
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze1/Junglaji_MazeE.unity
+    guid: b67a487765d327c4d9d2670a9f16dabe
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleTownA.unity
+    guid: ac90b87276c2c4541a404455ff0e0aee
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Junkyard Dungeon/Junkyard_DungeonA.unity
+    guid: 4e30e08e987dbd1458caac512aa5cd24
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Junkyard Dungeon/Junkyard_DungeonB.unity
+    guid: e838fe60c62b5ae478d3d820f4555423
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Junkyard Dungeon/Junkyard_DungeonC.unity
+    guid: ed56047061cc8074a9d96fbcde17c690
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Junkyard Dungeon/Junkyard_DungeonD.unity
+    guid: 18810f479f91dd04f8a690abcd112884
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Junkyard Dungeon/Junkyard_DungeonE.unity
+    guid: 0883a1db4b048ad4eb0a9195fe505607
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Junkyard Dungeon/Junkyard_DungeonF.unity
+    guid: fead714b3e02cce48a9608054ce39e5a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideliquorStore.unity
+    guid: 1f5fe883d0e3d114baf25410ca373754
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/BoxWood/BoxWoodSideE.unity
+    guid: 59bac0325d56f6a4ca608413aa03f93c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/BoxWood/BoxWoodSideH.unity
+    guid: b8e57840a1851c648bd0e0c16b536101
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/BoxWood/BoxWoodSideG.unity
+    guid: 678be811c45cb8a4b9f74846c50abde6
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideBuildingI3.unity
+    guid: c2f34d764c66dd74cb2aed1e4e3fed6c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideBuildingI4.unity
+    guid: 030eeaa23e0f5e64b9ea429570c230f5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Interiors/InsideBuildingI5.unity
+    guid: c29cd0602b2d62043918f8b2d38de129
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JunglanjiTown_Interiors/SafariOutpost_Hotel.unity
+    guid: dc5559a166ebbc14583bcbe128330ceb
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JunglanjiTown_Interiors/SafariOutpost_BigStore.unity
+    guid: 0801b2df78f21034084d24f1ef9f3196
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JunglanjiTown_Interiors/SafariOutpost_Store.unity
+    guid: c9a5f6dae9bff7d439a4931d22cf82d2
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2A.unity
+    guid: 9eb6e1cd90ba9bf4f82a7d001de83cd6
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2B.unity
+    guid: 89589aa059b77554a8ffb76043dcdf03
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2C.unity
+    guid: 8a0d50f25ba86f84bbdc48ac319ecadc
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2D.unity
+    guid: 1e2c9ed4210f5c142b2c6de8c32017c1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2E.unity
+    guid: e0a156d2dcc01ca4faa619da6d06a565
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2F.unity
+    guid: 79141c3a0023fad47a1411ef32d06d86
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2G.unity
+    guid: e3a07f528000304498878100f55d108b
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2H.unity
+    guid: fd135e3105a7d674b95321dfd48473a5
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/JungleTown/JungleMaze2/junglajiMaze2I.unity
+    guid: be108184c7025ca4e852441da9961322
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Brite Lite Cave/Brite_Lite_Cave_A.unity
+    guid: f2fb87612fa91e841b681860101cfc09
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Brite Lite Cave/Brite_Lite_Cave_B.unity
+    guid: ceb4849980fc09c4db2c2ff2ef813cfe
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Brite Lite Cave/Brite_Lite_Cave_C.unity
+    guid: f503141d612626e419eb6e8eb85d8153
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Brite Lite Cave/Brite_Lite_Cave_D.unity
+    guid: 3543b609f50be5743b350d1e523185e8
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Brite Lite Cave/Brite_Lite_Cave_E.unity
+    guid: ddde1ca6e699e6941adaee8b75f251cb
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Brite Lite Cave/Brite_Lite_Cave_F.unity
+    guid: af30e7eece835a64e916d4ab6896a9ad
+  - enabled: 1
+    path: Assets/Scenes/Levels/Towns/Brite Lite Cave/Brite_Lite_Cave_G.unity
+    guid: cc0a275e457a2c64da6194fd3d264528
+  m_configObjects: {}

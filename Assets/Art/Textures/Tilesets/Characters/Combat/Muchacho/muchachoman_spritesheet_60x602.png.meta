@@ -1,0 +1,8006 @@
+fileFormatVersion: 2
+guid: c935aa536f75cab4885554fc8b1097c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: walking
+  - first:
+      213: 21300002
+    second: walking1
+  - first:
+      213: 21300004
+    second: walking2
+  - first:
+      213: 21300006
+    second: walking3
+  - first:
+      213: 21300008
+    second: walking4
+  - first:
+      213: 21300010
+    second: walking5
+  - first:
+      213: 21300012
+    second: talking
+  - first:
+      213: 21300014
+    second: talking1
+  - first:
+      213: 21300016
+    second: muchachoman_spritesheet_60x60_8
+  - first:
+      213: 21300018
+    second: muchachoman_spritesheet_60x60_9
+  - first:
+      213: 21300020
+    second: muchachoman_spritesheet_60x60_10
+  - first:
+      213: 21300022
+    second: muchachoman_spritesheet_60x60_11
+  - first:
+      213: 21300024
+    second: muchachoman_spritesheet_60x60_12
+  - first:
+      213: 21300026
+    second: muchachoman_spritesheet_60x60_13
+  - first:
+      213: 21300028
+    second: muchachoman_spritesheet_60x60_14
+  - first:
+      213: 21300030
+    second: muchachoman_spritesheet_60x60_15
+  - first:
+      213: 21300032
+    second: muchachoman_spritesheet_60x60_16
+  - first:
+      213: 21300034
+    second: muchachoman_spritesheet_60x60_17
+  - first:
+      213: 21300036
+    second: muchachoman_spritesheet_60x60_18
+  - first:
+      213: 21300038
+    second: muchachoman_spritesheet_60x60_19
+  - first:
+      213: 21300040
+    second: muchachoman_spritesheet_60x60_20
+  - first:
+      213: 21300042
+    second: muchachoman_spritesheet_60x60_21
+  - first:
+      213: 21300044
+    second: muchachoman_spritesheet_60x60_22
+  - first:
+      213: 21300046
+    second: muchachoman_spritesheet_60x60_23
+  - first:
+      213: 21300048
+    second: muchachoman_spritesheet_60x60_24
+  - first:
+      213: 21300050
+    second: muchachoman_spritesheet_60x60_25
+  - first:
+      213: 21300052
+    second: sad1
+  - first:
+      213: 21300054
+    second: sad2
+  - first:
+      213: 21300056
+    second: sad3
+  - first:
+      213: 21300058
+    second: sad4
+  - first:
+      213: 21300060
+    second: sad5
+  - first:
+      213: 21300062
+    second: sad6
+  - first:
+      213: 21300064
+    second: sad7
+  - first:
+      213: 21300066
+    second: sad8
+  - first:
+      213: 21300068
+    second: muchachoman_spritesheet_60x60_34
+  - first:
+      213: 21300070
+    second: muchachoman_spritesheet_60x60_35
+  - first:
+      213: 21300072
+    second: muchachoman_spritesheet_60x60_36
+  - first:
+      213: 21300074
+    second: muchachoman_spritesheet_60x60_37
+  - first:
+      213: 21300076
+    second: muchachoman_spritesheet_60x60_38
+  - first:
+      213: 21300078
+    second: muchachoman_spritesheet_60x60_39
+  - first:
+      213: 21300080
+    second: muchachoman_spritesheet_60x60_40
+  - first:
+      213: 21300082
+    second: muchachoman_spritesheet_60x60_41
+  - first:
+      213: 21300084
+    second: muchachoman_spritesheet_60x60_42
+  - first:
+      213: 21300086
+    second: muchachoman_spritesheet_60x60_43
+  - first:
+      213: 21300088
+    second: muchachoman_spritesheet_60x60_44
+  - first:
+      213: 21300090
+    second: idle
+  - first:
+      213: 21300092
+    second: idle1
+  - first:
+      213: 21300094
+    second: idle2
+  - first:
+      213: 21300096
+    second: idle3
+  - first:
+      213: 21300098
+    second: idle4
+  - first:
+      213: 21300100
+    second: idle5
+  - first:
+      213: 21300102
+    second: punch
+  - first:
+      213: 21300104
+    second: punch1
+  - first:
+      213: 21300106
+    second: punch2
+  - first:
+      213: 21300108
+    second: punch3
+  - first:
+      213: 21300110
+    second: punch4
+  - first:
+      213: 21300112
+    second: punch5
+  - first:
+      213: 21300114
+    second: punch6
+  - first:
+      213: 21300116
+    second: punch7
+  - first:
+      213: 21300118
+    second: punch8
+  - first:
+      213: 21300120
+    second: punch9
+  - first:
+      213: 21300122
+    second: punch10
+  - first:
+      213: 21300124
+    second: punch11
+  - first:
+      213: 21300126
+    second: punch12
+  - first:
+      213: 21300128
+    second: kick
+  - first:
+      213: 21300130
+    second: kick1
+  - first:
+      213: 21300132
+    second: kick2
+  - first:
+      213: 21300134
+    second: kick3
+  - first:
+      213: 21300136
+    second: kick4
+  - first:
+      213: 21300138
+    second: kick5
+  - first:
+      213: 21300140
+    second: kick6
+  - first:
+      213: 21300142
+    second: kick7
+  - first:
+      213: 21300144
+    second: kick8
+  - first:
+      213: 21300146
+    second: kick9
+  - first:
+      213: 21300148
+    second: kick10
+  - first:
+      213: 21300150
+    second: threehit
+  - first:
+      213: 21300152
+    second: threehit1
+  - first:
+      213: 21300154
+    second: threehit2
+  - first:
+      213: 21300156
+    second: threehit3
+  - first:
+      213: 21300158
+    second: threehit4
+  - first:
+      213: 21300160
+    second: threehit5
+  - first:
+      213: 21300162
+    second: threehit6
+  - first:
+      213: 21300164
+    second: threehit7
+  - first:
+      213: 21300166
+    second: threehit8
+  - first:
+      213: 21300168
+    second: threehit9
+  - first:
+      213: 21300170
+    second: threehit10
+  - first:
+      213: 21300172
+    second: threehit11
+  - first:
+      213: 21300174
+    second: threehit12
+  - first:
+      213: 21300176
+    second: threehit13
+  - first:
+      213: 21300178
+    second: threehit14
+  - first:
+      213: 21300180
+    second: muchachoman_spritesheet_60x60_90
+  - first:
+      213: 21300182
+    second: muchachoman_spritesheet_60x60_91
+  - first:
+      213: 21300184
+    second: muchachoman_spritesheet_60x60_92
+  - first:
+      213: 21300186
+    second: muchachoman_spritesheet_60x60_93
+  - first:
+      213: 21300188
+    second: muchachoman_spritesheet_60x60_94
+  - first:
+      213: 21300190
+    second: muchachoman_spritesheet_60x60_95
+  - first:
+      213: 21300192
+    second: muchachoman_spritesheet_60x60_96
+  - first:
+      213: 21300194
+    second: muchachoman_spritesheet_60x60_97
+  - first:
+      213: 21300196
+    second: muchachoman_spritesheet_60x60_98
+  - first:
+      213: 21300198
+    second: muchachoman_spritesheet_60x60_99
+  - first:
+      213: 21300200
+    second: muchachoman_spritesheet_60x60_100
+  - first:
+      213: 21300202
+    second: muchachoman_spritesheet_60x60_101
+  - first:
+      213: 21300204
+    second: muchachoman_spritesheet_60x60_102
+  - first:
+      213: 21300206
+    second: muchachoman_spritesheet_60x60_103
+  - first:
+      213: 21300208
+    second: muchachoman_spritesheet_60x60_104
+  - first:
+      213: 21300210
+    second: muchachoman_spritesheet_60x60_105
+  - first:
+      213: 21300212
+    second: muchachoman_spritesheet_60x60_106
+  - first:
+      213: 21300214
+    second: muchachoman_spritesheet_60x60_107
+  - first:
+      213: 21300216
+    second: muchachoman_spritesheet_60x60_108
+  - first:
+      213: 21300218
+    second: muchachoman_spritesheet_60x60_109
+  - first:
+      213: 21300220
+    second: muchachoman_spritesheet_60x60_110
+  - first:
+      213: 21300222
+    second: muchachoman_spritesheet_60x60_111
+  - first:
+      213: 21300224
+    second: muchachoman_spritesheet_60x60_112
+  - first:
+      213: 21300226
+    second: muchachoman_spritesheet_60x60_113
+  - first:
+      213: 21300228
+    second: muchachoman_spritesheet_60x60_114
+  - first:
+      213: 21300230
+    second: muchachoman_spritesheet_60x60_115
+  - first:
+      213: 21300232
+    second: muchachoman_spritesheet_60x60_116
+  - first:
+      213: 21300234
+    second: muchachoman_spritesheet_60x60_117
+  - first:
+      213: 21300236
+    second: muchachoman_spritesheet_60x60_118
+  - first:
+      213: 21300238
+    second: muchachoman_spritesheet_60x60_119
+  - first:
+      213: 21300240
+    second: muchachoman_spritesheet_60x60_120
+  - first:
+      213: 21300242
+    second: muchachoman_spritesheet_60x60_121
+  - first:
+      213: 21300244
+    second: muchachoman_spritesheet_60x60_122
+  - first:
+      213: 21300246
+    second: muchachoman_spritesheet_60x60_123
+  - first:
+      213: 21300248
+    second: muchachoman_spritesheet_60x60_124
+  - first:
+      213: 21300250
+    second: bearhugdriver
+  - first:
+      213: 21300252
+    second: bearhugdriver2
+  - first:
+      213: 21300254
+    second: bearhugdriver3
+  - first:
+      213: 21300256
+    second: bearhugdriver4
+  - first:
+      213: 21300258
+    second: bearhugdriver5
+  - first:
+      213: 21300260
+    second: bearhugdriver6
+  - first:
+      213: 21300262
+    second: bearhugdriver7
+  - first:
+      213: 21300264
+    second: bearhugdriver8
+  - first:
+      213: 21300266
+    second: bearhugdriver9
+  - first:
+      213: 21300268
+    second: bearhugdriver10
+  - first:
+      213: 21300270
+    second: bearhugdriver11
+  - first:
+      213: 21300272
+    second: bearhugdriver12
+  - first:
+      213: 21300274
+    second: taunt
+  - first:
+      213: 21300276
+    second: taunt1
+  - first:
+      213: 21300278
+    second: taunt2
+  - first:
+      213: 21300280
+    second: taunt3
+  - first:
+      213: 21300282
+    second: taunt4
+  - first:
+      213: 21300284
+    second: taunt5
+  - first:
+      213: 21300286
+    second: taunt6
+  - first:
+      213: 21300288
+    second: taunt7
+  - first:
+      213: 21300290
+    second: taunt8
+  - first:
+      213: 21300292
+    second: taunt9
+  - first:
+      213: 21300294
+    second: taunt10
+  - first:
+      213: 21300296
+    second: taunt11
+  - first:
+      213: 21300298
+    second: taunt12
+  - first:
+      213: 21300300
+    second: taunt13
+  - first:
+      213: 21300302
+    second: taunt14
+  - first:
+      213: 21300304
+    second: taunt15
+  - first:
+      213: 21300306
+    second: taunt16
+  - first:
+      213: 21300308
+    second: taunt17
+  - first:
+      213: 21300310
+    second: taunt18
+  - first:
+      213: 21300312
+    second: hurt
+  - first:
+      213: 21300314
+    second: hurt1
+  - first:
+      213: 21300316
+    second: hurt2
+  - first:
+      213: 21300318
+    second: hurt3
+  - first:
+      213: 21300320
+    second: hurt4
+  - first:
+      213: 21300322
+    second: hurt5
+  - first:
+      213: 21300324
+    second: hurt6
+  - first:
+      213: 21300326
+    second: hurt7
+  - first:
+      213: 21300328
+    second: hurt8
+  - first:
+      213: 21300330
+    second: walkup
+  - first:
+      213: 21300332
+    second: walkup1
+  - first:
+      213: 21300334
+    second: walkup2
+  - first:
+      213: 21300336
+    second: walkup3
+  - first:
+      213: 21300338
+    second: walkup4
+  - first:
+      213: 21300340
+    second: walkup5
+  - first:
+      213: 21300342
+    second: walkdown
+  - first:
+      213: 21300344
+    second: walkdown1
+  - first:
+      213: 21300346
+    second: walkdown2
+  - first:
+      213: 21300348
+    second: walkdown3
+  - first:
+      213: 21300350
+    second: walkdown4
+  - first:
+      213: 21300352
+    second: walkdown5
+  - first:
+      213: 21300354
+    second: muchachoman_spritesheet_60x60_177
+  - first:
+      213: 21300356
+    second: muchachoman_spritesheet_60x60_178
+  - first:
+      213: 21300358
+    second: runside
+  - first:
+      213: 21300360
+    second: runside1
+  - first:
+      213: 21300362
+    second: runside2
+  - first:
+      213: 21300364
+    second: runside3
+  - first:
+      213: 21300366
+    second: runside4
+  - first:
+      213: 21300368
+    second: runside5
+  - first:
+      213: 21300370
+    second: runside6
+  - first:
+      213: 21300372
+    second: talkup1
+  - first:
+      213: 21300374
+    second: talkup2
+  - first:
+      213: 21300376
+    second: talkup3
+  - first:
+      213: 21300378
+    second: talkdown1
+  - first:
+      213: 21300380
+    second: talkdown2
+  - first:
+      213: 21300382
+    second: talkdown3
+  - first:
+      213: 21300384
+    second: talkdown4
+  - first:
+      213: 21300386
+    second: talkdown5
+  - first:
+      213: 21300388
+    second: talkdown6
+  - first:
+      213: 21300390
+    second: talkdown7
+  - first:
+      213: 21300392
+    second: muchachoman_spritesheet_60x60_0
+  - first:
+      213: 21300394
+    second: muchachoman_spritesheet_60x60_1
+  - first:
+      213: 21300396
+    second: muchachoman_spritesheet_60x60_2
+  - first:
+      213: 21300398
+    second: muchachoman_spritesheet_60x60_3
+  - first:
+      213: 21300400
+    second: muchachoman_spritesheet_60x60_4
+  - first:
+      213: 21300402
+    second: muchachoman_spritesheet_60x60_5
+  - first:
+      213: 21300404
+    second: muchachoman_spritesheet_60x60_6
+  - first:
+      213: 21300406
+    second: muchachoman_spritesheet_60x60_7
+  - first:
+      213: 21300408
+    second: muchachoman_spritesheet_60x60_26
+  - first:
+      213: 21300410
+    second: muchachoman_spritesheet_60x60_27
+  - first:
+      213: 21300412
+    second: muchachoman_spritesheet_60x602_0
+  - first:
+      213: 21300414
+    second: muchachoman_spritesheet_60x602_1
+  - first:
+      213: 21300416
+    second: muchachoman_spritesheet_60x602_2
+  - first:
+      213: 21300418
+    second: muchachoman_spritesheet_60x602_3
+  - first:
+      213: 21300420
+    second: muchachoman_spritesheet_60x602_4
+  - first:
+      213: 21300422
+    second: muchachoman_spritesheet_60x602_5
+  - first:
+      213: 21300424
+    second: muchachoman_spritesheet_60x602_6
+  - first:
+      213: 21300426
+    second: muchachoman_spritesheet_60x602_7
+  - first:
+      213: 21300428
+    second: muchachoman_spritesheet_60x602_8
+  - first:
+      213: 21300430
+    second: muchachoman_spritesheet_60x602_9
+  - first:
+      213: 21300432
+    second: muchachoman_spritesheet_60x602_10
+  - first:
+      213: 21300434
+    second: muchachoman_spritesheet_60x602_11
+  - first:
+      213: 21300436
+    second: muchachoman_spritesheet_60x602_12
+  - first:
+      213: 21300438
+    second: muchachoman_spritesheet_60x602_13
+  - first:
+      213: 21300440
+    second: muchachoman_spritesheet_60x602_14
+  - first:
+      213: 21300442
+    second: muchachoman_spritesheet_60x602_15
+  - first:
+      213: 21300444
+    second: muchachoman_spritesheet_60x602_16
+  - first:
+      213: 21300446
+    second: muchachoman_spritesheet_60x602_17
+  - first:
+      213: 21300448
+    second: muchachoman_spritesheet_60x602_18
+  - first:
+      213: 21300450
+    second: muchachoman_spritesheet_60x602_19
+  - first:
+      213: 21300452
+    second: muchachoman_spritesheet_60x602_20
+  - first:
+      213: 21300454
+    second: muchachoman_spritesheet_60x602_21
+  - first:
+      213: 21300456
+    second: muchachoman_spritesheet_60x602_22
+  - first:
+      213: 21300458
+    second: muchachoman_spritesheet_60x602_23
+  - first:
+      213: 21300460
+    second: muchachoman_spritesheet_60x602_24
+  - first:
+      213: 21300462
+    second: muchachoman_spritesheet_60x602_25
+  - first:
+      213: 21300464
+    second: muchachoman_spritesheet_60x602_26
+  - first:
+      213: 21300466
+    second: muchachoman_spritesheet_60x602_27
+  - first:
+      213: 21300468
+    second: muchachoman_spritesheet_60x602_28
+  - first:
+      213: 21300470
+    second: muchachoman_spritesheet_60x602_29
+  - first:
+      213: 21300472
+    second: muchachoman_spritesheet_60x602_30
+  - first:
+      213: 21300474
+    second: muchachoman_spritesheet_60x602_31
+  - first:
+      213: 21300476
+    second: muchachoman_spritesheet_60x602_32
+  - first:
+      213: 21300478
+    second: muchachoman_spritesheet_60x602_33
+  - first:
+      213: 21300480
+    second: muchachoman_spritesheet_60x602_34
+  - first:
+      213: 21300482
+    second: muchachoman_spritesheet_60x602_35
+  - first:
+      213: 21300484
+    second: muchachoman_spritesheet_60x602_36
+  - first:
+      213: 21300486
+    second: muchachoman_spritesheet_60x602_37
+  - first:
+      213: 21300488
+    second: muchachoman_spritesheet_60x602_38
+  - first:
+      213: 21300490
+    second: muchachoman_spritesheet_60x602_39
+  - first:
+      213: 21300492
+    second: muchachoman_spritesheet_60x602_40
+  - first:
+      213: 21300494
+    second: muchachoman_spritesheet_60x602_41
+  - first:
+      213: 21300496
+    second: muchachoman_spritesheet_60x602_42
+  - first:
+      213: 21300498
+    second: muchachoman_spritesheet_60x602_43
+  - first:
+      213: 21300500
+    second: muchachoman_spritesheet_60x602_44
+  - first:
+      213: 21300502
+    second: muchachoman_spritesheet_60x602_45
+  - first:
+      213: 21300504
+    second: muchachoman_spritesheet_60x602_46
+  - first:
+      213: 21300506
+    second: muchachoman_spritesheet_60x602_47
+  - first:
+      213: 21300508
+    second: muchachoman_spritesheet_60x602_48
+  - first:
+      213: 21300510
+    second: muchachoman_spritesheet_60x602_49
+  - first:
+      213: 21300512
+    second: muchachoman_spritesheet_60x602_50
+  - first:
+      213: 21300514
+    second: muchachoman_spritesheet_60x602_51
+  - first:
+      213: 21300516
+    second: muchachoman_spritesheet_60x602_52
+  - first:
+      213: 21300518
+    second: muchachoman_spritesheet_60x602_53
+  - first:
+      213: 21300520
+    second: muchachoman_spritesheet_60x602_54
+  - first:
+      213: 21300522
+    second: muchachoman_spritesheet_60x602_55
+  - first:
+      213: 21300524
+    second: muchachoman_spritesheet_60x602_56
+  - first:
+      213: 21300526
+    second: muchachoman_spritesheet_60x602_57
+  - first:
+      213: 21300528
+    second: muchachoman_spritesheet_60x602_58
+  - first:
+      213: 21300530
+    second: muchachoman_spritesheet_60x602_59
+  - first:
+      213: 21300532
+    second: muchachoman_spritesheet_60x602_60
+  - first:
+      213: 21300534
+    second: muchachoman_spritesheet_60x602_61
+  - first:
+      213: 21300536
+    second: muchachoman_spritesheet_60x602_62
+  - first:
+      213: 21300538
+    second: muchachoman_spritesheet_60x602_63
+  - first:
+      213: 21300540
+    second: muchachoman_spritesheet_60x602_64
+  - first:
+      213: 21300542
+    second: muchachoman_spritesheet_60x602_65
+  - first:
+      213: 21300544
+    second: muchachoman_spritesheet_60x602_66
+  - first:
+      213: 21300546
+    second: muchachoman_spritesheet_60x602_67
+  - first:
+      213: 21300548
+    second: muchachoman_spritesheet_60x602_68
+  - first:
+      213: 21300550
+    second: muchachoman_spritesheet_60x602_69
+  - first:
+      213: 21300552
+    second: muchachoman_spritesheet_60x602_70
+  - first:
+      213: 21300554
+    second: muchachoman_spritesheet_60x602_71
+  - first:
+      213: 21300556
+    second: muchachoman_spritesheet_60x602_72
+  - first:
+      213: 21300558
+    second: muchachoman_spritesheet_60x602_73
+  - first:
+      213: 21300560
+    second: muchachoman_spritesheet_60x602_74
+  - first:
+      213: 21300562
+    second: muchachoman_spritesheet_60x602_75
+  - first:
+      213: 21300564
+    second: muchachoman_spritesheet_60x602_76
+  - first:
+      213: 21300566
+    second: muchachoman_spritesheet_60x602_77
+  - first:
+      213: 21300568
+    second: muchachoman_spritesheet_60x602_78
+  - first:
+      213: 21300570
+    second: muchachoman_spritesheet_60x602_79
+  - first:
+      213: 21300572
+    second: muchachoman_spritesheet_60x602_80
+  - first:
+      213: 21300574
+    second: muchachoman_spritesheet_60x602_81
+  - first:
+      213: 21300576
+    second: muchachoman_spritesheet_60x602_82
+  - first:
+      213: 21300578
+    second: muchachoman_spritesheet_60x602_83
+  - first:
+      213: 21300580
+    second: muchachoman_spritesheet_60x602_84
+  - first:
+      213: 21300582
+    second: muchachoman_spritesheet_60x602_85
+  - first:
+      213: 21300584
+    second: muchachoman_spritesheet_60x602_86
+  - first:
+      213: 21300586
+    second: muchachoman_spritesheet_60x602_87
+  - first:
+      213: 21300588
+    second: muchachoman_spritesheet_60x602_88
+  - first:
+      213: 21300590
+    second: muchachoman_spritesheet_60x602_89
+  - first:
+      213: 21300592
+    second: muchachoman_spritesheet_60x602_90
+  - first:
+      213: 21300594
+    second: muchachoman_spritesheet_60x602_91
+  - first:
+      213: 21300596
+    second: muchachoman_spritesheet_60x602_92
+  - first:
+      213: 21300598
+    second: muchachoman_spritesheet_60x602_93
+  - first:
+      213: 21300600
+    second: muchachoman_spritesheet_60x602_94
+  - first:
+      213: 21300602
+    second: muchachoman_spritesheet_60x602_95
+  - first:
+      213: 21300604
+    second: muchachoman_spritesheet_60x602_96
+  - first:
+      213: 21300606
+    second: muchachoman_spritesheet_60x602_97
+  - first:
+      213: 21300608
+    second: muchachoman_spritesheet_60x602_98
+  - first:
+      213: 21300610
+    second: muchachoman_spritesheet_60x602_99
+  - first:
+      213: 21300612
+    second: muchachoman_spritesheet_60x602_100
+  - first:
+      213: 21300614
+    second: muchachoman_spritesheet_60x602_101
+  - first:
+      213: 21300616
+    second: muchachoman_spritesheet_60x602_102
+  - first:
+      213: 21300618
+    second: muchachoman_spritesheet_60x602_103
+  - first:
+      213: 21300620
+    second: muchachoman_spritesheet_60x602_104
+  - first:
+      213: 21300622
+    second: muchachoman_spritesheet_60x602_105
+  - first:
+      213: 21300624
+    second: muchachoman_spritesheet_60x602_106
+  - first:
+      213: 21300626
+    second: muchachoman_spritesheet_60x602_107
+  - first:
+      213: 21300628
+    second: muchachoman_spritesheet_60x602_108
+  - first:
+      213: 21300630
+    second: muchachoman_spritesheet_60x602_109
+  - first:
+      213: 21300632
+    second: muchachoman_spritesheet_60x602_110
+  - first:
+      213: 21300634
+    second: muchachoman_spritesheet_60x602_111
+  - first:
+      213: 21300636
+    second: muchachoman_spritesheet_60x602_112
+  - first:
+      213: 21300638
+    second: muchachoman_spritesheet_60x602_113
+  - first:
+      213: 21300640
+    second: muchachoman_spritesheet_60x602_114
+  - first:
+      213: 21300642
+    second: muchachoman_spritesheet_60x602_115
+  - first:
+      213: 21300644
+    second: muchachoman_spritesheet_60x602_116
+  - first:
+      213: 21300646
+    second: muchachoman_spritesheet_60x602_117
+  - first:
+      213: 21300648
+    second: muchachoman_spritesheet_60x602_118
+  - first:
+      213: 21300650
+    second: muchachoman_spritesheet_60x602_119
+  - first:
+      213: 21300652
+    second: muchachoman_spritesheet_60x602_120
+  - first:
+      213: 21300654
+    second: muchachoman_spritesheet_60x602_121
+  - first:
+      213: 21300656
+    second: muchachoman_spritesheet_60x602_122
+  - first:
+      213: 21300658
+    second: muchachoman_spritesheet_60x602_123
+  - first:
+      213: 21300660
+    second: muchachoman_spritesheet_60x602_124
+  - first:
+      213: 21300662
+    second: muchachoman_spritesheet_60x602_125
+  - first:
+      213: 21300664
+    second: muchachoman_spritesheet_60x602_126
+  - first:
+      213: 21300666
+    second: muchachoman_spritesheet_60x602_127
+  - first:
+      213: 21300668
+    second: muchachoman_spritesheet_60x602_128
+  - first:
+      213: 21300670
+    second: muchachoman_spritesheet_60x602_129
+  - first:
+      213: 21300672
+    second: muchachoman_spritesheet_60x602_130
+  - first:
+      213: 21300674
+    second: muchachoman_spritesheet_60x602_131
+  - first:
+      213: 21300676
+    second: muchachoman_spritesheet_60x602_132
+  - first:
+      213: 21300678
+    second: muchachoman_spritesheet_60x602_133
+  - first:
+      213: 21300680
+    second: muchachoman_spritesheet_60x602_134
+  - first:
+      213: 21300682
+    second: muchachoman_spritesheet_60x602_135
+  - first:
+      213: 21300684
+    second: muchachoman_spritesheet_60x602_136
+  - first:
+      213: 21300686
+    second: muchachoman_spritesheet_60x602_137
+  - first:
+      213: 21300688
+    second: muchachoman_spritesheet_60x602_138
+  - first:
+      213: 21300690
+    second: muchachoman_spritesheet_60x602_139
+  - first:
+      213: 21300692
+    second: muchachoman_spritesheet_60x602_140
+  - first:
+      213: 21300694
+    second: muchachoman_spritesheet_60x602_141
+  - first:
+      213: 21300696
+    second: muchachoman_spritesheet_60x602_142
+  - first:
+      213: 21300698
+    second: muchachoman_spritesheet_60x602_143
+  - first:
+      213: 21300700
+    second: muchachoman_spritesheet_60x602_144
+  - first:
+      213: 21300702
+    second: muchachoman_spritesheet_60x602_145
+  - first:
+      213: 21300704
+    second: muchachoman_spritesheet_60x602_146
+  - first:
+      213: 21300706
+    second: muchachoman_spritesheet_60x602_147
+  - first:
+      213: 21300708
+    second: muchachoman_spritesheet_60x602_148
+  - first:
+      213: 21300710
+    second: muchachoman_spritesheet_60x602_149
+  - first:
+      213: 21300712
+    second: muchachoman_spritesheet_60x602_150
+  - first:
+      213: 21300714
+    second: muchachoman_spritesheet_60x602_151
+  - first:
+      213: 21300716
+    second: muchachoman_spritesheet_60x602_152
+  - first:
+      213: 21300718
+    second: muchachoman_spritesheet_60x602_153
+  - first:
+      213: 21300720
+    second: muchachoman_spritesheet_60x602_154
+  - first:
+      213: 21300722
+    second: muchachoman_spritesheet_60x602_155
+  - first:
+      213: 21300724
+    second: muchachoman_spritesheet_60x602_156
+  - first:
+      213: 21300726
+    second: muchachoman_spritesheet_60x602_157
+  - first:
+      213: 21300728
+    second: muchachoman_spritesheet_60x602_158
+  - first:
+      213: 21300730
+    second: muchachoman_spritesheet_60x602_159
+  - first:
+      213: 21300732
+    second: muchachoman_spritesheet_60x602_160
+  - first:
+      213: 21300734
+    second: muchachoman_spritesheet_60x602_161
+  - first:
+      213: 21300736
+    second: muchachoman_spritesheet_60x602_162
+  - first:
+      213: 21300738
+    second: muchachoman_spritesheet_60x602_163
+  - first:
+      213: 21300740
+    second: muchachoman_spritesheet_60x602_164
+  - first:
+      213: 21300742
+    second: muchachoman_spritesheet_60x602_165
+  - first:
+      213: 21300744
+    second: muchachoman_spritesheet_60x602_166
+  - first:
+      213: 21300746
+    second: muchachoman_spritesheet_60x602_167
+  - first:
+      213: 21300748
+    second: muchachoman_spritesheet_60x602_168
+  - first:
+      213: 21300750
+    second: muchachoman_spritesheet_60x602_169
+  - first:
+      213: 21300752
+    second: muchachoman_spritesheet_60x602_170
+  - first:
+      213: 21300754
+    second: muchachoman_spritesheet_60x602_171
+  - first:
+      213: 21300756
+    second: muchachoman_spritesheet_60x602_172
+  - first:
+      213: 21300758
+    second: muchachoman_spritesheet_60x602_173
+  - first:
+      213: 21300760
+    second: muchachoman_spritesheet_60x602_174
+  - first:
+      213: 21300762
+    second: muchachoman_spritesheet_60x602_175
+  - first:
+      213: 21300764
+    second: muchachoman_spritesheet_60x602_176
+  - first:
+      213: 21300766
+    second: muchachoman_spritesheet_60x602_177
+  - first:
+      213: 21300768
+    second: muchachoman_spritesheet_60x602_178
+  - first:
+      213: 21300770
+    second: muchachoman_spritesheet_60x602_179
+  - first:
+      213: 21300772
+    second: muchachoman_spritesheet_60x602_180
+  - first:
+      213: 21300774
+    second: muchachoman_spritesheet_60x602_181
+  - first:
+      213: 21300776
+    second: muchachoman_spritesheet_60x602_182
+  - first:
+      213: 21300778
+    second: muchachoman_spritesheet_60x602_183
+  - first:
+      213: 21300780
+    second: muchachoman_spritesheet_60x602_184
+  - first:
+      213: 21300782
+    second: muchachoman_spritesheet_60x602_185
+  - first:
+      213: 21300784
+    second: muchachoman_spritesheet_60x602_186
+  - first:
+      213: 21300786
+    second: muchachoman_spritesheet_60x602_187
+  - first:
+      213: 21300788
+    second: muchachoman_spritesheet_60x602_188
+  - first:
+      213: 21300790
+    second: muchachoman_spritesheet_60x602_189
+  - first:
+      213: 21300792
+    second: muchachoman_spritesheet_60x602_190
+  - first:
+      213: 21300794
+    second: muchachoman_spritesheet_60x602_191
+  - first:
+      213: 21300796
+    second: muchachoman_spritesheet_60x602_192
+  - first:
+      213: 21300798
+    second: muchachoman_spritesheet_60x602_193
+  - first:
+      213: 21300800
+    second: muchachoman_spritesheet_60x602_194
+  - first:
+      213: 21300802
+    second: muchachoman_spritesheet_60x602_195
+  - first:
+      213: 21300804
+    second: muchachoman_spritesheet_60x602_196
+  - first:
+      213: 21300806
+    second: muchachoman_spritesheet_60x602_197
+  - first:
+      213: 21300808
+    second: muchachoman_spritesheet_60x602_198
+  - first:
+      213: 21300810
+    second: muchachoman_spritesheet_60x602_199
+  - first:
+      213: 21300812
+    second: muchachoman_spritesheet_60x602_200
+  - first:
+      213: 21300814
+    second: muchachoman_spritesheet_60x602_201
+  - first:
+      213: 21300816
+    second: muchachoman_spritesheet_60x602_202
+  - first:
+      213: 21300818
+    second: muchachoman_spritesheet_60x602_203
+  - first:
+      213: 21300820
+    second: muchachoman_spritesheet_60x602_204
+  - first:
+      213: 21300822
+    second: muchachoman_spritesheet_60x602_205
+  - first:
+      213: 21300824
+    second: muchachoman_spritesheet_60x602_206
+  - first:
+      213: 21300826
+    second: muchachoman_spritesheet_60x602_207
+  - first:
+      213: 21300828
+    second: muchachoman_spritesheet_60x602_208
+  - first:
+      213: 21300830
+    second: muchachoman_spritesheet_60x602_209
+  - first:
+      213: 21300832
+    second: muchachoman_spritesheet_60x602_210
+  - first:
+      213: 21300834
+    second: muchachoman_spritesheet_60x602_211
+  - first:
+      213: 21300836
+    second: muchachoman_spritesheet_60x602_212
+  - first:
+      213: 21300838
+    second: muchachoman_spritesheet_60x602_213
+  - first:
+      213: 21300840
+    second: muchachoman_spritesheet_60x602_214
+  - first:
+      213: 21300842
+    second: muchachoman_spritesheet_60x602_215
+  - first:
+      213: 21300844
+    second: muchachoman_spritesheet_60x602_216
+  - first:
+      213: 21300846
+    second: muchachoman_spritesheet_60x602_217
+  - first:
+      213: 21300848
+    second: muchachoman_spritesheet_60x602_218
+  - first:
+      213: 21300850
+    second: muchachoman_spritesheet_60x602_219
+  - first:
+      213: 21300852
+    second: muchachoman_spritesheet_60x602_220
+  - first:
+      213: 21300854
+    second: muchachoman_spritesheet_60x602_221
+  - first:
+      213: 21300856
+    second: muchachoman_spritesheet_60x602_222
+  - first:
+      213: 21300858
+    second: muchachoman_spritesheet_60x602_223
+  - first:
+      213: 21300860
+    second: muchachoman_spritesheet_60x602_224
+  - first:
+      213: 21300862
+    second: muchachoman_spritesheet_60x602_225
+  - first:
+      213: 21300864
+    second: muchachoman_spritesheet_60x602_226
+  - first:
+      213: 21300866
+    second: muchachoman_spritesheet_60x602_227
+  - first:
+      213: 21300868
+    second: muchachoman_spritesheet_60x602_228
+  - first:
+      213: 21300870
+    second: muchachoman_spritesheet_60x602_229
+  - first:
+      213: 21300872
+    second: muchachoman_spritesheet_60x602_230
+  - first:
+      213: 21300874
+    second: muchachoman_spritesheet_60x602_231
+  - first:
+      213: 21300876
+    second: muchachoman_spritesheet_60x602_232
+  - first:
+      213: 21300878
+    second: muchachoman_spritesheet_60x602_233
+  - first:
+      213: 21300880
+    second: muchachoman_spritesheet_60x602_234
+  - first:
+      213: 21300882
+    second: muchachoman_spritesheet_60x602_235
+  - first:
+      213: 21300884
+    second: muchachoman_spritesheet_60x602_236
+  - first:
+      213: 21300886
+    second: muchachoman_spritesheet_60x602_237
+  - first:
+      213: 21300888
+    second: muchachoman_spritesheet_60x602_238
+  - first:
+      213: 21300890
+    second: muchachoman_spritesheet_60x602_239
+  - first:
+      213: 21300892
+    second: muchachoman_spritesheet_60x602_240
+  - first:
+      213: 21300894
+    second: muchachoman_spritesheet_60x602_241
+  - first:
+      213: 21300896
+    second: muchachoman_spritesheet_60x602_242
+  - first:
+      213: 21300898
+    second: muchachoman_spritesheet_60x602_243
+  - first:
+      213: 21300900
+    second: muchachoman_spritesheet_60x602_244
+  - first:
+      213: 21300902
+    second: muchachoman_spritesheet_60x602_245
+  - first:
+      213: 21300904
+    second: muchachoman_spritesheet_60x602_246
+  - first:
+      213: 21300906
+    second: muchachoman_spritesheet_60x602_247
+  - first:
+      213: 21300908
+    second: muchachoman_spritesheet_60x602_248
+  - first:
+      213: 21300910
+    second: muchachoman_spritesheet_60x602_249
+  - first:
+      213: 21300912
+    second: muchachoman_spritesheet_60x602_250
+  - first:
+      213: 21300914
+    second: muchachoman_spritesheet_60x602_251
+  - first:
+      213: 21300916
+    second: muchachoman_spritesheet_60x602_252
+  - first:
+      213: 21300918
+    second: muchachoman_spritesheet_60x602_253
+  - first:
+      213: 21300920
+    second: muchachoman_spritesheet_60x602_254
+  - first:
+      213: 21300922
+    second: muchachoman_spritesheet_60x602_255
+  - first:
+      213: 21300924
+    second: muchachoman_spritesheet_60x602_256
+  - first:
+      213: 21300926
+    second: muchachoman_spritesheet_60x602_257
+  - first:
+      213: 21300928
+    second: muchachoman_spritesheet_60x602_258
+  - first:
+      213: 21300930
+    second: muchachoman_spritesheet_60x602_259
+  - first:
+      213: 21300932
+    second: muchachoman_spritesheet_60x602_260
+  - first:
+      213: 21300934
+    second: muchachoman_spritesheet_60x602_261
+  - first:
+      213: 21300936
+    second: muchachoman_spritesheet_60x602_262
+  - first:
+      213: 21300938
+    second: muchachoman_spritesheet_60x602_263
+  - first:
+      213: 21300940
+    second: muchachoman_spritesheet_60x602_264
+  - first:
+      213: 21300942
+    second: muchachoman_spritesheet_60x602_265
+  - first:
+      213: 21300944
+    second: muchachoman_spritesheet_60x602_266
+  - first:
+      213: 21300946
+    second: muchachoman_spritesheet_60x602_267
+  - first:
+      213: 21300948
+    second: muchachoman_spritesheet_60x602_268
+  - first:
+      213: 21300950
+    second: muchachoman_spritesheet_60x602_269
+  - first:
+      213: 21300952
+    second: muchachoman_spritesheet_60x602_270
+  - first:
+      213: 21300954
+    second: muchachoman_spritesheet_60x602_271
+  - first:
+      213: 21300956
+    second: muchachoman_spritesheet_60x602_272
+  - first:
+      213: 21300958
+    second: muchachoman_spritesheet_60x602_273
+  - first:
+      213: 21300960
+    second: muchachoman_spritesheet_60x602_274
+  - first:
+      213: 21300962
+    second: muchachoman_spritesheet_60x602_275
+  - first:
+      213: 21300964
+    second: muchachoman_spritesheet_60x602_276
+  - first:
+      213: 21300966
+    second: muchachoman_spritesheet_60x602_277
+  - first:
+      213: 21300968
+    second: muchachoman_spritesheet_60x602_278
+  - first:
+      213: 21300970
+    second: muchachoman_spritesheet_60x602_279
+  - first:
+      213: 21300972
+    second: muchachoman_spritesheet_60x602_280
+  - first:
+      213: 21300974
+    second: muchachoman_spritesheet_60x602_281
+  - first:
+      213: 21300976
+    second: muchachoman_spritesheet_60x602_282
+  - first:
+      213: 21300978
+    second: muchachoman_spritesheet_60x602_283
+  - first:
+      213: 21300980
+    second: muchachoman_spritesheet_60x602_284
+  - first:
+      213: 21300982
+    second: muchachoman_spritesheet_60x602_285
+  - first:
+      213: 21300984
+    second: muchachoman_spritesheet_60x602_286
+  - first:
+      213: 21300986
+    second: muchachoman_spritesheet_60x602_287
+  - first:
+      213: 21300988
+    second: muchachoman_spritesheet_60x602_288
+  - first:
+      213: 21300990
+    second: muchachoman_spritesheet_60x602_289
+  - first:
+      213: 21300992
+    second: muchachoman_spritesheet_60x602_290
+  - first:
+      213: 21300994
+    second: muchachoman_spritesheet_60x602_291
+  - first:
+      213: 21300996
+    second: muchachoman_spritesheet_60x602_292
+  - first:
+      213: 21300998
+    second: muchachoman_spritesheet_60x602_293
+  - first:
+      213: 21301000
+    second: muchachoman_spritesheet_60x602_294
+  - first:
+      213: 21301002
+    second: muchachoman_spritesheet_60x602_295
+  - first:
+      213: 21301004
+    second: muchachoman_spritesheet_60x602_296
+  - first:
+      213: 21301006
+    second: muchachoman_spritesheet_60x602_297
+  - first:
+      213: 21301008
+    second: muchachoman_spritesheet_60x602_298
+  - first:
+      213: 21301010
+    second: muchachoman_spritesheet_60x602_299
+  - first:
+      213: 21301012
+    second: muchachoman_spritesheet_60x602_300
+  - first:
+      213: 21301014
+    second: muchachoman_spritesheet_60x602_301
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Nintendo Switch
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247dddf0f479f054894245472b768aef
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb04b944d86cdb1488b2e5f240bc7eed
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b97c9eb473e9e429437570d7cb7063
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45247c28e59f8145956c202e4aeb3d4
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599eb37da60cc249a27d5c7d0e2b185
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1620
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2345d15708144092b0bd2a0b1d994
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa82a62574b6ff42a5085b305cc521f
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1560
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ebddba24bdc944da4c8f24242cac6e
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1560
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229439d90880ab48b7f2734cb987a53
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1560
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150b1d1eef85894283bcbb95548296e
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1560
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebd8b00e6c09d140a24b46940499cdf
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1560
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d90ebbcdf1a3e547bcfc229346c905a
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1560
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a982dad04c715468861a334ace4f4d
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a7cd0fe28f79479f50522dff89a40
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1500
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804935623f662b43b94ef9a4be18932
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35af9e96844aa11469a38f69d84603b0
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83befc579d858d4e811b6e20f5274ea
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d170a46d76a3c14d9fe56fb77595c5f
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a7d62d0ce7a0445851d3a4bd2b43a7
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd4f07aece13814ea6a14f917787be9
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8ff6333fc7374faa79e097de8725c
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3608ec6f1e5a4aa07e35ac5ef0a38
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31a35960e550744b916dd6848c18270
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0522602d853c59c42ba18e2d5b27a5f9
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_24
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a031bbf6a649fa74b8584a90c50c6c33
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1440
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9244a0176b96048ae3913bbc0175a2
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec26e1a5173fea4c8c28ce105d8c240
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1380
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06377b231ae6f641a02c59de13a0a66
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1380
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae7cdcca3a23240a2c3599d8ec8ceb
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1380
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a3841e8f7f76d4d8d2e0459a0bbe25
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_30
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1380
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29a9ceb1c2438345a1fc9354a06c10d
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1380
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463fb7b562a0c94281752dacb6369cd
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1380
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98954bc5557239242ab76a1c92dbdcff
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eda0510265ce740897991b0b56b3ee
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_34
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2144343e15ce30419c616d66f7a4268
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b3ce7ab0258334b897612de3a563f2
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc9542a28e5b34599e2149e7f911a5
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ed709e272b684db64fd6e1fab89e3
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040409e4fa9fac44bbcf6dfe687cd99f
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f75bf49bd6ed64398387a6c0cd1a12
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_40
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3b8551582bf0f409ef30b6c6ae18ec
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481a20f6ad3ecb640a053efe72046bae
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b6dfa07c922e04abe6954d79060b28
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a70126536751b429eed048d25c0c07
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_44
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c5aa1e1b6e8614996018f46c68905c
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583533d2a45cce64d9324df600e18462
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e314e19c35330e48bf776310409f7ca
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c1c5e6ca46c049a2edd473f230c12
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a2c4e21271e724491be20fb235ba91
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56d8307c435db0469fc23d838a664ec
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_50
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2810f065f52810c4d884cad020c2b791
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1260
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cedb866ad568245972b7be5ccf3556
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8523172c03b94304c9519db5494e544d
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1200
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5adf6c53bb994d9ba633d0f5e074d
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_54
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1200
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5436a022a5267854f9cc749981998fdf
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_55
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1200
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795b429c9825f094ebc5e9effc64d870
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa8ec6f987be074d9441a8bba98efa1
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_57
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef41326a2bd0e47a4c3d7d0542bac5
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bbc54e3378522458133fa7d05d9489
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc77ca03c45270418c279c7fe6b0404
+      internalID: 21300530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f542d6bbc8f3aa1428d876130c7d9792
+      internalID: 21300532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda6b5d45a92d454882840ead1bfd3e6
+      internalID: 21300534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77683ded43409bc4a8091823cf7bec0a
+      internalID: 21300536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_63
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aaeee713c7c0e4ea0e886b5002ede8
+      internalID: 21300538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_64
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a0ebd5f6871944a8c94a34ec94a98b
+      internalID: 21300540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_65
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bb5e51dced16a4f8d91290dc62df2c
+      internalID: 21300542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_66
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7971bbcbbb340846b45ecbaaa7a2494
+      internalID: 21300544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_67
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a038743df8fd70c4bb45e9003bb3aadb
+      internalID: 21300546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_68
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7ed930b489774fabc3b5552dddcca
+      internalID: 21300548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_69
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6998de9675a03c642afc165b2d9ed09e
+      internalID: 21300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_70
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1140
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79077c92375a68408767cd4caafa1a3
+      internalID: 21300552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622613f2bcb67d743ad171577596851e
+      internalID: 21300554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_72
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db09efa5c89a9f642bf148d82d83590d
+      internalID: 21300556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_73
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4794de0210bfd39408e5e8912bc6fd72
+      internalID: 21300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_74
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b75afdf64522d44a64e3203826409c
+      internalID: 21300560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_75
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d1885250c4ba54d99bce4c626b756c
+      internalID: 21300562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_76
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac7df183067a345976b3444eeb9a1d
+      internalID: 21300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac41d5d4d358b2478015bc42bf21f46
+      internalID: 21300566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_78
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58469cbf58ea7b44f9b9be02e2371e9f
+      internalID: 21300568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd8aa182bdc8d245bcb533b71eaf4e6
+      internalID: 21300570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_80
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189f73b71cd4304895f50a1ca072fbe
+      internalID: 21300572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1080
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e3b54c22c27e46ba694c0cdcf1b2f
+      internalID: 21300574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e6e23cb87e3244a4a3fc9e044292d
+      internalID: 21300576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_83
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8c1ad6a8a26884989555058b46c6a2
+      internalID: 21300578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc1a20b55d2bd84988048ecb5ef06b0
+      internalID: 21300580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0361bdd103dbe0d4faa90f053257397b
+      internalID: 21300582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_86
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6e9acf1aac2124a8767444cbfdce5e
+      internalID: 21300584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_87
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe93a048da15f8469b7f47ff7af5778
+      internalID: 21300586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_88
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ff663a2435fce44a8891b7849323ec
+      internalID: 21300588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_89
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f87b023d93613145864dde6a5dc6044
+      internalID: 21300590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff23275949bcaf4dbe65af3002d3cd0
+      internalID: 21300592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_91
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9130e422fe20bc42b64c55e7f50dbfd
+      internalID: 21300594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_92
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757ca96de5d12644ca6353631eaabe3b
+      internalID: 21300596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_93
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eccb8de20c1c643a431d6d0e66554a
+      internalID: 21300598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f70e2ca4fbd7c4eb111cd7e07a8e05
+      internalID: 21300600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_95
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f1454de2a8554995e84ce69f4466a
+      internalID: 21300602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_96
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b40c15e64ccb1f4c993ad4600fe6313
+      internalID: 21300604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc966a7c01c94e249b5d7eda1fed8cb5
+      internalID: 21300606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_98
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 960
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7eccfa13634de4ebfc6f86bc87de9a
+      internalID: 21300608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_99
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 960
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa06e42af2a8fd4c914a817022f5d25
+      internalID: 21300610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_100
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 960
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c321fe7affa6de14ea4daa6596aaa75f
+      internalID: 21300612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 960
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632864990340b8418592bb50c0a21ab
+      internalID: 21300614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 960
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c373a00eeb3f468f3224562a5f9cf
+      internalID: 21300616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 960
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5102ff37281a24bac7e4382d318b24
+      internalID: 21300618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_104
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 960
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf397985a10d14f82d4d690c073bee
+      internalID: 21300620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacf598dcf37cc941b16221e4fa6d2da
+      internalID: 21300622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_106
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858fda467dce654c9e1bf40db85ef5a
+      internalID: 21300624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_107
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39284a4ba8c11e94c9357d99fbc26af4
+      internalID: 21300626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_108
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddee28b6882e2e4d992317ba57a7a5d
+      internalID: 21300628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_109
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeeafc9e058a184e942be42f7e3524f
+      internalID: 21300630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_110
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4575b6b9764886429fec252b034cc4c
+      internalID: 21300632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_111
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031b1abd5192374093ca0376406e00c
+      internalID: 21300634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_112
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84191fe5440ea95448065bccbfc13753
+      internalID: 21300636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_113
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e022911130284ba5feedae427104f
+      internalID: 21300638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_114
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dc6d6e722084e4da1f9f62f825ea9e
+      internalID: 21300640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_115
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b096c7f08747a4448bdf2731a9b9853
+      internalID: 21300642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_116
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d460346e8cfbd084ba091d7f76d1eee4
+      internalID: 21300644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_117
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bff63074787f984f877ff56246a5db7
+      internalID: 21300646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_118
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ead81b5a09ffe48ae546be6e147c52
+      internalID: 21300648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_119
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 900
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff7db8be0291f4688cd42f7cfcf021
+      internalID: 21300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a071d2768e38654b918e3a10a6c67d8
+      internalID: 21300652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_121
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ce4e2438003b2409e4a8bac5915671
+      internalID: 21300654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_122
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20575aaf84d02ea488195eb45cf88ea0
+      internalID: 21300656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_123
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c8d75d6385454eb7e313f88e40d1a
+      internalID: 21300658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f912085e854c0f40a76c7d259b36441
+      internalID: 21300660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_125
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2093e34c2466a9a42a7c8db607cd27b7
+      internalID: 21300662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_126
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c132f1d2a4c37469a75eb47db51ede
+      internalID: 21300664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_127
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a4e14030596e438e251b983805e58
+      internalID: 21300666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_128
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4162ea6cf8a2cfa4a846fd277db75ffa
+      internalID: 21300668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_129
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab62404a12b678429e568fa7c0fb203
+      internalID: 21300670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_130
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7af924c276b3b41a015f334adf3816
+      internalID: 21300672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_131
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 840
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95418d8ac99d27409501376ee361952
+      internalID: 21300674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebba88e93d0ae8479f313dc6f18b028
+      internalID: 21300676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_133
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d77d10c39ea6c346aa470e438850407
+      internalID: 21300678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_134
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e845458175a195a41857ace72afc450f
+      internalID: 21300680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_135
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43a31c7e253bf44993f7d6d3f3db745
+      internalID: 21300682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_136
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101043f92e26cf94190349998b2a3553
+      internalID: 21300684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_137
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836dd1da6133ee94fbbc57828bcacd47
+      internalID: 21300686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_138
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edd332a19f6cc54f8156c62f15b85f1
+      internalID: 21300688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_139
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9120da747cca523499e5183d74436d72
+      internalID: 21300690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_140
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0230dcaef35db164c9e30bf1890b2c15
+      internalID: 21300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_141
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1f9866ef032a243b310c25a8f9e51c
+      internalID: 21300694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_142
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e506324f06870594689a21646dbba303
+      internalID: 21300696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_143
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e0fe4d896666c45bb8e83d07f514df
+      internalID: 21300698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_144
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f391fa2a34da4088836457789e1fc
+      internalID: 21300700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818102660cdb14a409c1ed6aa352f9e8
+      internalID: 21300702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_146
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6d3a0073b2a04d9c2a0c2970a916e
+      internalID: 21300704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_147
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6eac22e25116438514688784a1d3e
+      internalID: 21300706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_148
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0debc959f637a4a86ec23a60610890
+      internalID: 21300708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_149
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe42891da86704091b745911679cc3
+      internalID: 21300710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_150
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abcb15a189aa446a89cfb9d94aa073
+      internalID: 21300712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_151
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257181796306724a83fda283a211b8d
+      internalID: 21300714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_152
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f779c04e09835346be239000253ae3a
+      internalID: 21300716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_153
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d363ce0b07599e94bb5bbc605403cba1
+      internalID: 21300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_154
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d98455ad415c474198ee14e6f9a1d57
+      internalID: 21300720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_155
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 780
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63caa66eb0be854ca7395608a61375e
+      internalID: 21300722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8635ace61674149b1c9705bdf145e2
+      internalID: 21300724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_157
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a21d92c555e54499a29d92eb4c51b
+      internalID: 21300726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_158
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b44a507817f134b90931498a67f3bc
+      internalID: 21300728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_159
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959bfcdc24a2c274889224584c4aafb5
+      internalID: 21300730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_160
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727a917be63edba49ba508aef85abbd6
+      internalID: 21300732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_161
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684cad32c95b8854c82772d4fa5b42bc
+      internalID: 21300734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_162
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f658f4920a91479d1dff0c03d371f
+      internalID: 21300736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_163
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a928a31732829f4db8c11ec0ad6a751
+      internalID: 21300738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_164
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597e8a35ab04ee3459b7469a38017aed
+      internalID: 21300740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_165
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a487fd9ea9e647a2b454eb1c08427
+      internalID: 21300742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_166
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f138f06a2e9b243878c9bc05fc45f0
+      internalID: 21300744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_167
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56018cfbf8d1a642ba9206cac8e4b1d
+      internalID: 21300746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_168
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77defaa0005431646a82ee9edf03158e
+      internalID: 21300748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_169
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a780851dcbbe5154686af4c59b102962
+      internalID: 21300750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_170
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eb631ad95ee6543968fd1726a3933d
+      internalID: 21300752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_171
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3eff996bf09d499d97a9e73a7e479
+      internalID: 21300754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_172
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9088119c8d1a70d418216ff0a749a696
+      internalID: 21300756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_173
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe958cda17f871c429438eae929b7cfe
+      internalID: 21300758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_174
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92249a95d408cb94fa78ee6c2a0aa0d6
+      internalID: 21300760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf65d3c41c71ed04db0ae06d94cfe5bf
+      internalID: 21300762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_176
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5673fb258054ab43930e59926312a41
+      internalID: 21300764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844ffa0ae5956be419b14dbc318570d1
+      internalID: 21300766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_178
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a317d8055aff31d4794623c87a84e24d
+      internalID: 21300768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_179
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d554886acabfb4291a2376961eed4c
+      internalID: 21300770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_180
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950b968dd5ad16546a4575b21ae36b69
+      internalID: 21300772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_181
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cc6b6f057a1e742ae03e24e4cf4946
+      internalID: 21300774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_182
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b0095e067b3914fa4db4c03f2fc8f9
+      internalID: 21300776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_183
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 660
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b14baf2c87e0e45a00f7fbd08bf4ab
+      internalID: 21300778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610d350ff9c2f2441aeb4def17cf35d7
+      internalID: 21300780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_185
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07a521316d719e4ab13eaeba8016501
+      internalID: 21300782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_186
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f97f52ebe7b3747862cc2b9b6e2487
+      internalID: 21300784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_187
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e47d0eb8f6a3d439cf8277645e3f8f
+      internalID: 21300786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_188
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17faf96b44f87b4cae168d699167c12
+      internalID: 21300788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_189
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69981e51717e2de4e9e3c59951338576
+      internalID: 21300790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_190
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5216e5424c9d24d42ba5adc4e3880b85
+      internalID: 21300792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_191
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4821ead838df34c45b56e166493aae53
+      internalID: 21300794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39375ad1db79947aa24260200b4e56
+      internalID: 21300796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_193
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 600
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1110a495786b1c549b41bc92b1b5fe1e
+      internalID: 21300798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80e3afb6170b4843a56896ed57fc2b2
+      internalID: 21300800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_195
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 540
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61525111e6340dd40bc8862c31e41915
+      internalID: 21300802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_196
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 540
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc04e5a4b1b02f348bac70ca4ed67770
+      internalID: 21300804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_197
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 540
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58707e9386fce954b99d2da4330a767a
+      internalID: 21300806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_198
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b11a0257669aa4e9bc4f5e07a83d3d
+      internalID: 21300808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_199
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 540
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d5b6de18ef61c4a8c2f566d9303bc0
+      internalID: 21300810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c38284e35312447872425aac097608
+      internalID: 21300812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_201
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 480
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951852421f7b46e4fa39d8a59cdb335b
+      internalID: 21300814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_202
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecffd489c342f1b439543a8dbf119125
+      internalID: 21300816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8effcaba4d1d94b46b623df4eb160996
+      internalID: 21300818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_204
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a35b5e358dacf4aa38acf21a98f392
+      internalID: 21300820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_205
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b31068864a1c94d8348f8fa83a2109
+      internalID: 21300822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_206
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907c13ea84103e746927561ae48bb4a6
+      internalID: 21300824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_207
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b20df2d70fa04743b194a1b50bfbebb
+      internalID: 21300826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_208
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e0023b675eac488d4c9c8de134403
+      internalID: 21300828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3503db525d7034db460b338519732d
+      internalID: 21300830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_210
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429411ec01fd6774b9b4bfeed6e9c10c
+      internalID: 21300832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_211
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bad2544d2dcfb4899345c96b7dfa1f
+      internalID: 21300834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_212
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb852ce9faefcd449bc9b1c85872882
+      internalID: 21300836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_213
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6850709a27b176e4fb1f415d992d0e84
+      internalID: 21300838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_214
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563817347a3581468fa4d8e6adc85d0
+      internalID: 21300840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_215
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf776f1e634a5a49beae6e1626ebfa1
+      internalID: 21300842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b263565ea7d388a4c852405f13dd496d
+      internalID: 21300844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_217
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a80dd9186ef7448bab224b38c5885
+      internalID: 21300846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_218
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86077e5b99380ed4c8a17f70cb95abaa
+      internalID: 21300848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_219
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a54fc9417e88e48a0b2500d962787d
+      internalID: 21300850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_220
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b472f5586e1fc324ca3adc78384b1aed
+      internalID: 21300852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_221
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9dca7d72a98f646902b1caba666d30
+      internalID: 21300854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_222
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520dae18b4820b24bb9e8add5cd304ea
+      internalID: 21300856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_223
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2293624f7f82a74aa0ffd276695bf01
+      internalID: 21300858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_224
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6be97ba6d1b9c4c9c194fcf3a82266
+      internalID: 21300860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_225
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391ddfb0ac878a44b38f3af0dce653c
+      internalID: 21300862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_226
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa40f4b0fb28e1f478f21bf387b54d0f
+      internalID: 21300864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_227
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c428488b08f7504e8ec98b0b06d59c9
+      internalID: 21300866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_228
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab300e2ef7c29a40ab1f9c6431a89d2
+      internalID: 21300868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_229
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1baedd9bbc8d7b4ebbc010de1a5122b
+      internalID: 21300870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_230
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058482877019344ca241790a4250fa6
+      internalID: 21300872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_231
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b96c6a5cca1440b91e57df838eb13
+      internalID: 21300874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_232
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 300
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fed4d1588f2a3145aef1a5332715641
+      internalID: 21300876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_233
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69d1bce562ac0d49ba339691c604e43
+      internalID: 21300878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_234
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e56becbf4ce096488cf92329ccb0e6c
+      internalID: 21300880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_235
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a1724e830dc4f42a46dd2502008b78
+      internalID: 21300882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_236
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a66c8cadc7744aa94b46333659fcb
+      internalID: 21300884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d4f8054bed0cc44819ec9d10dfb832
+      internalID: 21300886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_238
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2cae537804edc4ab62dda5d640015d
+      internalID: 21300888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_239
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d9fc23a5ae8a45afb4cb1f50bc8f8
+      internalID: 21300890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_240
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ec524af6d61ac459bc084bae85cb26
+      internalID: 21300892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_241
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff701042dd1c92346b72de146d10a44d
+      internalID: 21300894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_242
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2512b63839c4f4eacd514afd58bfee
+      internalID: 21300896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_243
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5007056124fa166439ab7ff7a48659b7
+      internalID: 21300898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_244
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf4304e9cb69c8469125188e0114879
+      internalID: 21300900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_245
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599ae405d5084746ab3c4e8e0370c82
+      internalID: 21300902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_246
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da74108cfe0e49f4e93d5f30032c0190
+      internalID: 21300904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_247
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bce6d778f5dd1f4ab13433b9e98b2ef
+      internalID: 21300906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_248
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2706d651543f8474daeec2c69f897e7e
+      internalID: 21300908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_249
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8d226456662b42b61b25de5d00ed9
+      internalID: 21300910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63399c379fd64164e880703450f4b7e2
+      internalID: 21300912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_251
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8afd0f013766324092f377ae2e67ccb
+      internalID: 21300914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_252
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51815a8ed49fc954c80965dfb680f6cb
+      internalID: 21300916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_253
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78357cf192fc9ef4897a8c0c580ddc4e
+      internalID: 21300918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_254
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ce8c1e1a5a0a04db8512a7e73ef51b
+      internalID: 21300920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_255
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88553bbdf1be2346905273340fafde0
+      internalID: 21300922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_256
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee776e0bd32242d40a717463ec1cc436
+      internalID: 21300924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_257
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369965cf599e6034eacd8f60e2ecde92
+      internalID: 21300926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_258
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fa721bb563a1d43b2ea38bf87d690d
+      internalID: 21300928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_259
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0553e8ed0f4e0740b2b42baaeaec67c
+      internalID: 21300930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_260
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 180
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e86f240922e1740bc7c2da3b63b31a
+      internalID: 21300932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_261
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f77a470549656458051683c21d3299
+      internalID: 21300934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_262
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4883a299924700b4d962eee78fd5995a
+      internalID: 21300936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_263
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11112f4658e16f4469d232b194a58675
+      internalID: 21300938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_264
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95440e7742df9e4f95bef8d9e14de80
+      internalID: 21300940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_265
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6adb9030e9de744a6dd76aba58d2a7
+      internalID: 21300942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_266
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf4be7c9c4e0d458bced3a5c895116
+      internalID: 21300944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_267
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b43dce7802ee489f72d2f4def10e2
+      internalID: 21300946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_268
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b462fa71fa63df48b04fe77951d8849
+      internalID: 21300948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_269
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c6ac60da496784cbb86da1617c61af
+      internalID: 21300950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_270
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 120
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318cf6637e1a1ed40a1c0f0c8e69f901
+      internalID: 21300952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_271
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188cbf2a07431f4a85d2f7f86d7bf03
+      internalID: 21300954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_272
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5fc7aaa2d45f54195060a7caebe37e
+      internalID: 21300956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_273
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa592586af5f45145b57d0d4fdcfcee0
+      internalID: 21300958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_274
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43d8064837e8dc458000e8673c28305
+      internalID: 21300960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_275
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687282b597c1dee4b847f8056913095e
+      internalID: 21300962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_276
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae66535f67d39949adc609f3ff717a0
+      internalID: 21300964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_277
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0669ac652de96dc4baf6682db75c28bb
+      internalID: 21300966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_278
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a020530b29120864699b053bf8bd5242
+      internalID: 21300968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_279
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8ecab2ce85934789b3791c0357367
+      internalID: 21300970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_280
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eff32ffd7b679b41a35d5fe76449634
+      internalID: 21300972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_281
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9415b22b7f474604da37b10df66b8e8f
+      internalID: 21300974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_282
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f5b199d12879248a94dc48e4316965
+      internalID: 21300976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_283
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0179c01b9ee2a6b42980ea21efc09621
+      internalID: 21300978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_284
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f1132175127a74c9064085d4d46ff1
+      internalID: 21300980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_285
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71356c627f4daf74bbdc161e69c2b370
+      internalID: 21300982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_286
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ece70edc5dc64d80977570eff713c
+      internalID: 21300984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_287
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ce7d8f553edcd45915ade41fdcdef8
+      internalID: 21300986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_288
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 60
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b88fb33787aa846ad9ce4b6b174722
+      internalID: 21300988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_289
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2d3b7d4f3beb94a90771b54e302380
+      internalID: 21300990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_290
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76181d0e088964546b7b224009708bb3
+      internalID: 21300992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_291
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ccfed074330334dbd429a62d01b990
+      internalID: 21300994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_292
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d45f1f8ffdb14d8e94176fcd071d3
+      internalID: 21300996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_293
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b850c63be4db142b8aec87f0ea53cc
+      internalID: 21300998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_294
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765b4193ae7999348ac4ff2a769d399f
+      internalID: 21301000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_295
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4f76cd3bfa0547a5526bd56362edb
+      internalID: 21301002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_296
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e69af3f1db2545b75ef489d0a3352
+      internalID: 21301004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_297
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aee4b4739199e429a00237b600d3ff
+      internalID: 21301006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_298
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c16cc3f958684f4f9286f19c614e2c9
+      internalID: 21301008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_299
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b0d8962b746274e9f620d6e6e149e4
+      internalID: 21301010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_300
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4d0f3e7f9e1b847bc864a3e035e5d3
+      internalID: 21301012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: muchachoman_spritesheet_60x602_301
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5cfcf308fbeef488425a29267896d9
+      internalID: 21301014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 378dce416310fc846934465d8df23186
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

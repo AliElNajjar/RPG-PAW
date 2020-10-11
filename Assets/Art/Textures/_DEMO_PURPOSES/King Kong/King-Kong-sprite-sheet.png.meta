@@ -1,0 +1,2384 @@
+fileFormatVersion: 2
+guid: ec0b83eb6e374d7499dc5942f6ad9d6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: King-Kong-sprite-sheet_0
+  - first:
+      213: 21300002
+    second: King-Kong-sprite-sheet_1
+  - first:
+      213: 21300004
+    second: King-Kong-sprite-sheet_2
+  - first:
+      213: 21300006
+    second: King-Kong-sprite-sheet_3
+  - first:
+      213: 21300008
+    second: King-Kong-sprite-sheet_4
+  - first:
+      213: 21300010
+    second: King-Kong-sprite-sheet_5
+  - first:
+      213: 21300012
+    second: King-Kong-sprite-sheet_6
+  - first:
+      213: 21300014
+    second: King-Kong-sprite-sheet_7
+  - first:
+      213: 21300016
+    second: King-Kong-sprite-sheet_8
+  - first:
+      213: 21300018
+    second: King-Kong-sprite-sheet_9
+  - first:
+      213: 21300020
+    second: King-Kong-sprite-sheet_10
+  - first:
+      213: 21300022
+    second: King-Kong-sprite-sheet_11
+  - first:
+      213: 21300024
+    second: King-Kong-sprite-sheet_12
+  - first:
+      213: 21300026
+    second: King-Kong-sprite-sheet_13
+  - first:
+      213: 21300028
+    second: King-Kong-sprite-sheet_14
+  - first:
+      213: 21300030
+    second: King-Kong-sprite-sheet_15
+  - first:
+      213: 21300032
+    second: King-Kong-sprite-sheet_16
+  - first:
+      213: 21300034
+    second: King-Kong-sprite-sheet_17
+  - first:
+      213: 21300036
+    second: King-Kong-sprite-sheet_18
+  - first:
+      213: 21300038
+    second: King-Kong-sprite-sheet_19
+  - first:
+      213: 21300040
+    second: King-Kong-sprite-sheet_20
+  - first:
+      213: 21300042
+    second: King-Kong-sprite-sheet_21
+  - first:
+      213: 21300044
+    second: King-Kong-sprite-sheet_22
+  - first:
+      213: 21300046
+    second: King-Kong-sprite-sheet_23
+  - first:
+      213: 21300048
+    second: King-Kong-sprite-sheet_24
+  - first:
+      213: 21300050
+    second: King-Kong-sprite-sheet_25
+  - first:
+      213: 21300052
+    second: King-Kong-sprite-sheet_26
+  - first:
+      213: 21300054
+    second: King-Kong-sprite-sheet_27
+  - first:
+      213: 21300056
+    second: King-Kong-sprite-sheet_28
+  - first:
+      213: 21300058
+    second: King-Kong-sprite-sheet_29
+  - first:
+      213: 21300060
+    second: King-Kong-sprite-sheet_30
+  - first:
+      213: 21300062
+    second: King-Kong-sprite-sheet_31
+  - first:
+      213: 21300064
+    second: King-Kong-sprite-sheet_32
+  - first:
+      213: 21300066
+    second: King-Kong-sprite-sheet_33
+  - first:
+      213: 21300068
+    second: King-Kong-sprite-sheet_34
+  - first:
+      213: 21300070
+    second: King-Kong-sprite-sheet_35
+  - first:
+      213: 21300072
+    second: King-Kong-sprite-sheet_36
+  - first:
+      213: 21300074
+    second: King-Kong-sprite-sheet_37
+  - first:
+      213: 21300076
+    second: King-Kong-sprite-sheet_38
+  - first:
+      213: 21300078
+    second: King-Kong-sprite-sheet_39
+  - first:
+      213: 21300080
+    second: King-Kong-sprite-sheet_40
+  - first:
+      213: 21300082
+    second: King-Kong-sprite-sheet_41
+  - first:
+      213: 21300084
+    second: King-Kong-sprite-sheet_42
+  - first:
+      213: 21300086
+    second: King-Kong-sprite-sheet_43
+  - first:
+      213: 21300088
+    second: King-Kong-sprite-sheet_44
+  - first:
+      213: 21300090
+    second: King-Kong-sprite-sheet_45
+  - first:
+      213: 21300092
+    second: King-Kong-sprite-sheet_46
+  - first:
+      213: 21300094
+    second: King-Kong-sprite-sheet_47
+  - first:
+      213: 21300096
+    second: King-Kong-sprite-sheet_48
+  - first:
+      213: 21300098
+    second: King-Kong-sprite-sheet_49
+  - first:
+      213: 21300100
+    second: King-Kong-sprite-sheet_50
+  - first:
+      213: 21300102
+    second: King-Kong-sprite-sheet_51
+  - first:
+      213: 21300104
+    second: King-Kong-sprite-sheet_52
+  - first:
+      213: 21300106
+    second: King-Kong-sprite-sheet_53
+  - first:
+      213: 21300108
+    second: King-Kong-sprite-sheet_54
+  - first:
+      213: 21300110
+    second: King-Kong-sprite-sheet_55
+  - first:
+      213: 21300112
+    second: King-Kong-sprite-sheet_56
+  - first:
+      213: 21300114
+    second: King-Kong-sprite-sheet_57
+  - first:
+      213: 21300116
+    second: King-Kong-sprite-sheet_58
+  - first:
+      213: 21300118
+    second: King-Kong-sprite-sheet_59
+  - first:
+      213: 21300120
+    second: King-Kong-sprite-sheet_60
+  - first:
+      213: 21300122
+    second: King-Kong-sprite-sheet_61
+  - first:
+      213: 21300124
+    second: King-Kong-sprite-sheet_62
+  - first:
+      213: 21300126
+    second: King-Kong-sprite-sheet_63
+  - first:
+      213: 21300128
+    second: King-Kong-sprite-sheet_64
+  - first:
+      213: 21300130
+    second: King-Kong-sprite-sheet_65
+  - first:
+      213: 21300132
+    second: King-Kong-sprite-sheet_66
+  - first:
+      213: 21300134
+    second: King-Kong-sprite-sheet_67
+  - first:
+      213: 21300136
+    second: King-Kong-sprite-sheet_68
+  - first:
+      213: 21300138
+    second: King-Kong-sprite-sheet_69
+  - first:
+      213: 21300140
+    second: King-Kong-sprite-sheet_70
+  - first:
+      213: 21300142
+    second: King-Kong-sprite-sheet_71
+  - first:
+      213: 21300144
+    second: King-Kong-sprite-sheet_72
+  - first:
+      213: 21300146
+    second: King-Kong-sprite-sheet_73
+  - first:
+      213: 21300148
+    second: King-Kong-sprite-sheet_74
+  - first:
+      213: 21300150
+    second: King-Kong-sprite-sheet_75
+  - first:
+      213: 21300152
+    second: King-Kong-sprite-sheet_76
+  - first:
+      213: 21300154
+    second: King-Kong-sprite-sheet_77
+  - first:
+      213: 21300156
+    second: King-Kong-sprite-sheet_78
+  - first:
+      213: 21300158
+    second: King-Kong-sprite-sheet_79
+  - first:
+      213: 21300160
+    second: King-Kong-sprite-sheet_80
+  - first:
+      213: 21300162
+    second: King-Kong-sprite-sheet_81
+  - first:
+      213: 21300164
+    second: King-Kong-sprite-sheet_82
+  - first:
+      213: 21300166
+    second: King-Kong-sprite-sheet_83
+  - first:
+      213: 21300168
+    second: King-Kong-sprite-sheet_84
+  - first:
+      213: 21300170
+    second: King-Kong-sprite-sheet_85
+  - first:
+      213: 21300172
+    second: King-Kong-sprite-sheet_86
+  - first:
+      213: 21300174
+    second: King-Kong-sprite-sheet_87
+  - first:
+      213: 21300176
+    second: King-Kong-sprite-sheet_88
+  - first:
+      213: 21300178
+    second: King-Kong-sprite-sheet_89
+  - first:
+      213: 21300180
+    second: King-Kong-sprite-sheet_90
+  - first:
+      213: 21300182
+    second: King-Kong-sprite-sheet_91
+  - first:
+      213: 21300184
+    second: King-Kong-sprite-sheet_92
+  - first:
+      213: 21300186
+    second: King-Kong-sprite-sheet_93
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c070d84fb3ccd8c4f90c63a265aae54a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 924
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21084eb5f795f34591dee9bf51a3630
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 924
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e6323d4d72c6f44abfa3a27087d9e8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 924
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af29756ae2ad4944b976b3efd095ba0
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 924
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3e704ad19211943b6220f353a83e86
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b8d8185705a6e4aa6ffc68dadd234a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 840
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7121e721aaec04a4d9fce4fc5a29cb7c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 840
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15be0c3a1a05ca4f8ddb42685a0c9b5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 840
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e56d36772b8b547a1dfea9155c9ff6
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 840
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d0ef3163260e4e9604ac098f87d91
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b05556125bf104f9fca5a497425da5
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 756
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19b1e4d0522b7249bb89e343503d691
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 756
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff83eefdb2b2a548a1d49612c9e7ee7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 756
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f892ddc9d50d5e748baa7faba24a2539
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 756
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366f7be8f28b2ad4ba017340f131e274
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda3838eeddf9e741a22e473143c2b88
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 672
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76e463560461b43963d0d427abefed
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 672
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1e112b6d4b1e54589d66404b96d6c4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 672
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7739e4621d4d07d46bbd09065ae2f376
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 672
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2de2335381e57346b7ca985b4708f02
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3e003a344780d45beb89854a81aa38
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 588
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d9430e14fc41459378d4fb58596a9
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 588
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddcd386d26a5ba45ae15ebd6e8e762a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 588
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17175aa8c5016a4eb3381507ab8c560
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecd1a224853bf448bddc9f7fdd93e91
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 504
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d79e8a4e1cb43419cdcd7aa68f7fa0
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 504
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8fca85b7a6c948b035385e99f7b32
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 504
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a99cd475987240aa6d1336c19c784
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa913cc92191f845ba361a3ac3021a4
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b144adf43c9503409d2efe01f64a05e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3af3c3cfd6611439974689ea8364ce
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e7d3ca41c1e294c8990e1ff0dab69a
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9c68ba240ebd4ebab14856c8366ca
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb144baa4c331ff4ea6abc56e73125d3
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32fc61b3b185924282c01d54b9ed981
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabfbf2a15d0e884488c4c3dbc568b07
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19fb3bb0acb232499d48c2da4900662
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec94d4ef366ac44a8c2d235f79069f
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916cfe1590fadaa47a2f82c4a215afb7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 420
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5787a57fe3afc4d80e245aac226267
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5f119df4ed3fa4696d62cc9ad8c1c0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a1f60cf2c86a54cba9d936a50a6a21
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc413b197c5e97148994e993d5e8bc1f
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838c749fb6525524581ec8b707283203
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445c15bf5b1eed4a9dbf861ff855959
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959cc3c320f7e3645a97ffa4d195505e
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cf793b0f947ea4f97828933d18aa63
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0590cb9ebdda05440a75d71eb9116e14
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13ac17e1dd15904aa16d52e1162fcb4
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8590f48fc1fd743904e9bba46c4e6d
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad23362bf3a117d408caac02712ac062
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 336
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d63ee2a9297814ea5f9f7bcc3d8ecc
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eec3b07f07b14409499d349ac16c9a
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e458420cb7950e4d8e54c648cc9fadf
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ad25d6e97588641ab4c37104bce9fd
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f6a774c94a5346861bb3d19f0c76d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caccb76aecf04d94a8cfbf66d44bfcc0
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02406f59777163248825b45132f68a78
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c169fd414fabf6439dcf45739c3796c
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e407ec38912a54cbbe5f9691d419a2
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501404009f435b547b73303628727a87
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08763e9d9c595840ababdf524a17632
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7aa96627373a24c8b3f50df275dc04
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 252
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a5f14450a05fc428bf74201c7abddc
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a5b74d330ba644b92dd9e14ee2356f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6075e7628fa038489c72524bdc755d7
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf76b6ddaa42c11438104a97959f4e7b
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75cfc7577ced0a47a544c7522d72a74
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851438d04379fb0478a0702f53afa8f3
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a3c1d685e16a45b39a467b1de40f4
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffade90bc3f52a41b2583b2b81add09
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaf0487703ed9b42996ce10f64ad190
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c10cf96b4fbe4a41b470988545aa7e2
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 168
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a497484800dce945bf79310c1aea985
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb53857fac089a4aa8bb7bad9c03789
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7611d08adf5179c4f9d81b6e2a373429
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8521107baa5d7ff4d8a34bbcb4ce9967
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01eeebbd23b74104fa3759a5141e7b21
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0458c64e6c93b04fac7c80fa7a794b1
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a1fa5c0a894ea49b54502d85472a4c
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37c0d4dce1beda4a83c79f571041fdd
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b8b49bd8987d4cac1966c39ff2d80
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1312b7953f91cb4c8dc29d276978187
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 84
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e62fd5a38e9ab64487cb5908d413a53
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040cd5b86421004489864559b2998b60
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac733bece5f1d4ca42c78d7493dc0e
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1b99013396f4c4b8d99bbcc0bee157
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8592fe6f7768ab4abd8154cb8190f0b
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a829a18e41c3a4d99a633c8f6ee5bd
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640cbd1ba33db994aa5d51c04dc6ef36
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ec71b3a4eafbf4cbfd9362cf222c91
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ebeb5aba4083e479e8f0e82d4571bd
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f620a068520e14595586e65e970c51
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: King-Kong-sprite-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 0
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a256e05fc036a41b8be3402e18303c
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6ac3a817aa1c3924296576dd03cd8b18
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

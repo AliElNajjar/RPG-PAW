@@ -1,0 +1,1976 @@
+fileFormatVersion: 2
+guid: 8fa8d842f36972048b355f07ca388cec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: PAW_Jumanji_tile-set2_0
+  - first:
+      213: 21300002
+    second: PAW_Jumanji_tile-set2_1
+  - first:
+      213: 21300004
+    second: PAW_Jumanji_tile-set2_2
+  - first:
+      213: 21300006
+    second: PAW_Jumanji_tile-set2_3
+  - first:
+      213: 21300008
+    second: PAW_Jumanji_tile-set2_4
+  - first:
+      213: 21300010
+    second: PAW_Jumanji_tile-set2_5
+  - first:
+      213: 21300012
+    second: PAW_Jumanji_tile-set2_6
+  - first:
+      213: 21300014
+    second: PAW_Jumanji_tile-set2_7
+  - first:
+      213: 21300016
+    second: PAW_Jumanji_tile-set2_8
+  - first:
+      213: 21300018
+    second: PAW_Jumanji_tile-set2_9
+  - first:
+      213: 21300020
+    second: PAW_Jumanji_tile-set2_10
+  - first:
+      213: 21300022
+    second: PAW_Jumanji_tile-set2_11
+  - first:
+      213: 21300024
+    second: PAW_Jumanji_tile-set2_12
+  - first:
+      213: 21300026
+    second: PAW_Jumanji_tile-set2_13
+  - first:
+      213: 21300028
+    second: PAW_Jumanji_tile-set2_14
+  - first:
+      213: 21300030
+    second: PAW_Jumanji_tile-set2_15
+  - first:
+      213: 21300032
+    second: PAW_Jumanji_tile-set2_16
+  - first:
+      213: 21300034
+    second: PAW_Jumanji_tile-set2_17
+  - first:
+      213: 21300036
+    second: PAW_Jumanji_tile-set2_18
+  - first:
+      213: 21300038
+    second: PAW_Jumanji_tile-set2_19
+  - first:
+      213: 21300040
+    second: PAW_Jumanji_tile-set2_20
+  - first:
+      213: 21300042
+    second: PAW_Jumanji_tile-set2_21
+  - first:
+      213: 21300044
+    second: PAW_Jumanji_tile-set2_22
+  - first:
+      213: 21300046
+    second: PAW_Jumanji_tile-set2_23
+  - first:
+      213: 21300048
+    second: PAW_Jumanji_tile-set2_24
+  - first:
+      213: 21300050
+    second: PAW_Jumanji_tile-set2_25
+  - first:
+      213: 21300052
+    second: PAW_Jumanji_tile-set2_26
+  - first:
+      213: 21300054
+    second: PAW_Jumanji_tile-set2_27
+  - first:
+      213: 21300056
+    second: PAW_Jumanji_tile-set2_28
+  - first:
+      213: 21300058
+    second: PAW_Jumanji_tile-set2_29
+  - first:
+      213: 21300060
+    second: PAW_Jumanji_tile-set2_30
+  - first:
+      213: 21300062
+    second: PAW_Jumanji_tile-set2_31
+  - first:
+      213: 21300064
+    second: PAW_Jumanji_tile-set2_32
+  - first:
+      213: 21300066
+    second: PAW_Jumanji_tile-set2_33
+  - first:
+      213: 21300068
+    second: PAW_Jumanji_tile-set2_34
+  - first:
+      213: 21300070
+    second: PAW_Jumanji_tile-set2_35
+  - first:
+      213: 21300072
+    second: PAW_Jumanji_tile-set2_36
+  - first:
+      213: 21300074
+    second: PAW_Jumanji_tile-set2_37
+  - first:
+      213: 21300076
+    second: PAW_Jumanji_tile-set2_38
+  - first:
+      213: 21300078
+    second: PAW_Jumanji_tile-set2_39
+  - first:
+      213: 21300080
+    second: PAW_Jumanji_tile-set2_40
+  - first:
+      213: 21300082
+    second: PAW_Jumanji_tile-set2_41
+  - first:
+      213: 21300084
+    second: PAW_Jumanji_tile-set2_42
+  - first:
+      213: 21300086
+    second: PAW_Jumanji_tile-set2_43
+  - first:
+      213: 21300088
+    second: PAW_Jumanji_tile-set2_44
+  - first:
+      213: 21300090
+    second: PAW_Jumanji_tile-set2_45
+  - first:
+      213: 21300092
+    second: PAW_Jumanji_tile-set2_46
+  - first:
+      213: 21300094
+    second: PAW_Jumanji_tile-set2_47
+  - first:
+      213: 21300096
+    second: PAW_Jumanji_tile-set2_48
+  - first:
+      213: 21300098
+    second: PAW_Jumanji_tile-set2_49
+  - first:
+      213: 21300100
+    second: PAW_Jumanji_tile-set2_50
+  - first:
+      213: 21300102
+    second: PAW_Jumanji_tile-set2_51
+  - first:
+      213: 21300104
+    second: PAW_Jumanji_tile-set2_52
+  - first:
+      213: 21300106
+    second: PAW_Jumanji_tile-set2_53
+  - first:
+      213: 21300108
+    second: PAW_Jumanji_tile-set2_54
+  - first:
+      213: 21300110
+    second: PAW_Jumanji_tile-set2_55
+  - first:
+      213: 21300112
+    second: PAW_Jumanji_tile-set2_56
+  - first:
+      213: 21300114
+    second: PAW_Jumanji_tile-set2_57
+  - first:
+      213: 21300116
+    second: PAW_Jumanji_tile-set2_58
+  - first:
+      213: 21300118
+    second: PAW_Jumanji_tile-set2_59
+  - first:
+      213: 21300120
+    second: PAW_Jumanji_tile-set2_60
+  - first:
+      213: 21300122
+    second: PAW_Jumanji_tile-set2_61
+  - first:
+      213: 21300124
+    second: PAW_Jumanji_tile-set2_62
+  - first:
+      213: 21300126
+    second: PAW_Jumanji_tile-set2_63
+  - first:
+      213: 21300128
+    second: PAW_Jumanji_tile-set2_64
+  - first:
+      213: 21300130
+    second: PAW_Jumanji_tile-set2_65
+  - first:
+      213: 21300132
+    second: PAW_Jumanji_tile-set2_66
+  - first:
+      213: 21300134
+    second: PAW_Jumanji_tile-set2_67
+  - first:
+      213: 21300136
+    second: PAW_Jumanji_tile-set2_68
+  - first:
+      213: 21300138
+    second: PAW_Jumanji_tile-set2_69
+  - first:
+      213: 21300140
+    second: PAW_Jumanji_tile-set2_70
+  - first:
+      213: 21300142
+    second: PAW_Jumanji_tile-set2_71
+  - first:
+      213: 21300144
+    second: PAW_Jumanji_tile-set2_72
+  - first:
+      213: 21300146
+    second: PAW_Jumanji_tile-set2_73
+  - first:
+      213: 21300148
+    second: PAW_Jumanji_tile-set2_74
+  - first:
+      213: 21300150
+    second: PAW_Jumanji_tile-set2_75
+  - first:
+      213: 21300152
+    second: PAW_Jumanji_tile-set2_76
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_0
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1735
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a653915b805d4b740b5879ff87cdf568
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_1
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 509
+        width: 263
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02410c510157c7c488cebfa8ef788cbb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_2
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 509
+        width: 241
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771ea7e9528965644983fde5793d7724
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_3
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 509
+        width: 262
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ef63d25ef85345919422d1efffe83
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_4
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1757
+        width: 214
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea908206f5d7a948a365bacd20d3959
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_5
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1117
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daa761165046ab43b72a1dff0b6679b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_6
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 1117
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbe6e93ba0ad9b44a966051b2a086a8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_7
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 957
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db8134ab5999314bace0235e90ccf13
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_8
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 957
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d861af0bd2f7d745bd3c5b2bb6505e4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_9
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 957
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fc519ea7da4fb408902233ce5ae211
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_10
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 957
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d9663a9f05e624cb2cf33e235f4cfa
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_11
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 1117
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fee780b3977aa44a67ec0bb04a3753
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_12
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 1117
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf40d928d945c1a4caa6c47e2e18816d
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_13
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 1165
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34901513b90d0c42894092d330eb77d
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_14
+      rect:
+        serializedVersion: 2
+        x: 4322
+        y: 1166
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ddb3d5f6636549970d1479d4c4796
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_15
+      rect:
+        serializedVersion: 2
+        x: 4401
+        y: 1165
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee30f3c27750e440ab1c7be424df513
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_16
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 1085
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c60ab688891d64289ea7806ca68f82
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_17
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 1006
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee519615cecc38418aaf1d1e4c9884b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_18
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 926
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f90f3fa1d67cc4081cce009f8aa078
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 85
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcafc502496bf1439e806a3f1e463b6
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 85
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ac0181b13a9f845b9de15147787755
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 245
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b9d87bb006844f93e31c06cce608b
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 481
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd43d98da23cb34b9726fd8922f0473
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 480
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a29909a02ad3e644a6a481b8c4a6cd4
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 422
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e85c93d469edc4bbd406d136c1c0ad
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 422
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b41c4432656552428e47fe3f6d947b1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_26
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1757
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16607c2f78215b4893046bd91ecf2ef
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_27
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1757
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e669444b57384cabffb809c6e86de
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_28
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1757
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2ebe3d1af21804a9db17b564e1a23e
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_29
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1910
+        width: 112
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f555cf5f51990ea45b1ee8291206f367
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1910
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f952f20c1318ac54fa6cd79e5c9e499b
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_31
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1910
+        width: 107
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d058d7e1cef8b7249a3207ddd6dd2d15
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_32
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1910
+        width: 104
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac027098650a9d9408f2f24ac2656656
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1741
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdcbc56a6ba5a443b529ff7657ff41f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1741
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5abc88e523c9074daf7d65ecc6d0ad7
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1597
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c6ef71f6fc19b42966691c72db6ae5
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1597
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80675fb250d7f46990ada41cfc1fe2
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_37
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08abc189a2f2d8045a78803d6d4a9d54
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1469
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b9e3cf220d9fa4483f21e4bf57eebc
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1309
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba92d1ffd8656e64a976dd3fef88fea2
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_40
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1309
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada78f207da7a5c4aae47b6a19cf5d5f
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_41
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1325
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21008869cf28a143b75c8621c06acfc
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_42
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1325
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d5404efbe109498c47a825574286c
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1149
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc52d774350d2a44b8a3a3c2c1bf4f0e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_44
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1149
+        width: 128
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0975a26c07993624d93fd20965cf835b
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_45
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1774
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e5bf8a2087f6647aa1d5d67a857a61
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1774
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19df71d84084a34ea0cd8fefced6ab4
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_47
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1774
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3aeb96eac3e9340b4dd533dee5010b
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_48
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1694
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e380b609ea71c419603c96c726fcab
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_49
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1614
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851aa1de1dab1d42adb853871899f0c
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_50
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1534
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c9438dd7f5ac4ba260e1121be9c7a
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_51
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1343
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20415b555aabce940a97e200a9d3ea94
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_52
+      rect:
+        serializedVersion: 2
+        x: 3577
+        y: 765
+        width: 116
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39993b67c3d9fc48b25b3f14cabe458
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_53
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 768
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c1c137257f1a743ad94cf85aa2d1e0
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_54
+      rect:
+        serializedVersion: 2
+        x: 3755
+        y: 768
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8b7d20e2af16041999f2bdd61d5ccf
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_55
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 769
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc230eb3435e88641b68ac169743e328
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_56
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 769
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1536fe20962b4b948bd6aa98c04211cb
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_57
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 768
+        width: 36
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd21696104ed0574a85d97d04652f220
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_58
+      rect:
+        serializedVersion: 2
+        x: 3635
+        y: 413
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc7e0f8d320e6e4c8a59561c895a7ac
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_59
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 413
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9486643b1b74d3548b1f453f8ee0e175
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_60
+      rect:
+        serializedVersion: 2
+        x: 3793
+        y: 413
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187fe6121964754cb2118fba91fdeaa
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_61
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 413
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f3097a1f3ac6c4b91d2bcc77f04a4a
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_62
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 322
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6d22f57e8d3cd48822825125cf2fd1
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_63
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 318
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02ff1af2a402ac4f895ebb9e80e7849
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_64
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 318
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e4f1de7c5a51649871c521ccd546ff
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_65
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 222
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be88aad356b86448e4c9e84700be51
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_66
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 222
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b9ecce369a54f4bb1bb576b981c4b3
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_67
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 222
+        width: 131
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ded9820fb5055489d3f144e1e61b50
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_68
+      rect:
+        serializedVersion: 2
+        x: 3640
+        y: 142
+        width: 114
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b299f79fad1c7b4a8e77944de4a1387
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_69
+      rect:
+        serializedVersion: 2
+        x: 3786
+        y: 142
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a520d5353f78384ead6e92828ff3a9c
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_70
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 142
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85a47a229e328346826f28aaec838db
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_71
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 957
+        width: 90
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3189f9be37820074a92edc06c68001bd
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_72
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 845
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c970881444698ce479b7686b95c7f82c
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_73
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1380
+        width: 241
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d29eb15cba44fb3bd7f7b2ef43c0c0
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_74
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 1773
+        width: 355
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b6b6f6d17902f448b4ad9c6b7ec8be
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_75
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 1726
+        width: 105
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eb84b0a7d8aec41aefa3fef4dfcf98
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PAW_Jumanji_tile-set2_76
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1848
+        width: 228
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e497ca9ff506b4ab04bd8fd4134046
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ceed74dbdd0deb94db2a6ae990b36844
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba9447594ac2304aabc00fa6a1ce5ea, type: 3}
+  m_Name: Barbae
+  m_EditorClassIdentifier: 
+  overWorldAnimations: {fileID: 11400000, guid: 5aded7c5815376d458cc9bc90d70504d,
+    type: 2}
+  initiativeSprite: {fileID: 21300008, guid: 6ab385ba6dbe65147b63475a48b810e8, type: 3}
+  unitSkills:
+  - skillData: {fileID: 2746068579221533693, guid: 999c5608c9eeddd4c92f1096e974ae63,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 2746068579221533693, guid: 1f028840538859249abd9accc97226e1,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 2746068579221533693, guid: a1b6e71b532624b48a390d806ec05629,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 3300404334360993509, guid: eba3cc669764b9f4b9705aa9634e6f72,
+      type: 3}
+    isUnlocked: 0
+  - skillData: {fileID: 3300404334360993509, guid: f41cbda46e60da34ba8f0bd8cb53ccf3,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 3300404334360993509, guid: 95ec4481b3458bd4c92f65e0ed0ee322,
+      type: 3}
+    isUnlocked: 1
+  tagTeamManeuvers: []
+  tripleTagTeamManeuvers:
+  - partnersUnit:
+    - {fileID: 11400000, guid: 0e65ef1693d034c4c91633f28705d952, type: 2}
+    - {fileID: 11400000, guid: 4ee95b7034cb2a445a5763237c14c5be, type: 2}
+    maneuvers:
+    - skillData: {fileID: 6850184645086948491, guid: fbd0a57f0fe5cbe4d81606f5012cda39,
+        type: 3}
+      isUnlocked: 1
+  playableUnit:
+    unitName: Barbae
+    level:
+      currentLevel: 3
+      currentExperience: 294
+    battleId: 0
+    strength:
+      baseValue: 10
+      growthPercent:
+        growthAddMax: 1
+      modifiers:
+      - value: 0.5
+        modType: 200
+        order: 0
+      - value: 0.5
+        modType: 200
+        order: 0
+      - value: 0.5
+        modType: 200
+        order: 0
+      _value: 25
+    speed:
+      baseValue: 12
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 12
+    sturdiness:
+      baseValue: 15
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 15
+    charisma:
+      baseValue: 5
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 5
+    talent:
+      baseValue: 5
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 5
+    luck:
+      baseValue: 2
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 2
+    accuracy:
+      baseValue: 30
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 30
+    defense:
+      baseValue: 1
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 1
+    dodge:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    resist:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    critChance:
+      baseValue: 1
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 1
+    currentHealth:
+      baseValue: 150
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 150
+    currentActionPoints:
+      baseValue: 50
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 50
+    mainDamageSource: 2
+    damageType: 0
+    dmgCut: 1
+    unitType: 1
+    currentAilment: 0
+    maxHypeMeter:
+      baseValue: 50
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 50
+    currentHypeMeter:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+  equipment:
+    weaponEquipment: {fileID: 0}
+    feetEquipment: {fileID: 0}
+    headEquipment: {fileID: 0}
+    chestEquipment: {fileID: 0}
+    waistEquipment: {fileID: 0}
+    accessoryEquipment: {fileID: 0}
+    accessory2Equipment: {fileID: 0}
+  unitPrefab: {fileID: 4043077292537394140, guid: 47d2c8e39b6a6914b883bbddf642ffc1,
+    type: 3}
+  equipmentSprite: {fileID: 21300052, guid: c37ce5d651e2a754d81608a634f553c7, type: 3}

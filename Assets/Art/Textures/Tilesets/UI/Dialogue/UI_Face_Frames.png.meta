@@ -1,0 +1,557 @@
+fileFormatVersion: 2
+guid: fef48e9f2891944d68fea64cd11d7e10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UI_Face_Frames_0
+  - first:
+      213: 21300002
+    second: UI_Face_Frames_1
+  - first:
+      213: 21300004
+    second: UI_Face_Frames_2
+  - first:
+      213: 21300006
+    second: UI_Face_Frames_3
+  - first:
+      213: 21300008
+    second: UI_Face_Frames_4
+  - first:
+      213: 21300010
+    second: UI_Face_Frames_5
+  - first:
+      213: 21300012
+    second: UI_Face_Frames_6
+  - first:
+      213: 21300014
+    second: UI_Face_Frames_7
+  - first:
+      213: 21300016
+    second: UI_Face_Frames_8
+  - first:
+      213: 21300018
+    second: UI_Face_Frames_9
+  - first:
+      213: 21300020
+    second: UI_Face_Frames_10
+  - first:
+      213: 21300022
+    second: UI_Face_Frames_11
+  - first:
+      213: 21300024
+    second: UI_Face_Frames_12
+  - first:
+      213: 21300026
+    second: UI_Face_Frames_13
+  - first:
+      213: 21300028
+    second: UI_Face_Frames_14
+  - first:
+      213: 21300030
+    second: UI_Face_Frames_15
+  - first:
+      213: 21300032
+    second: UI_Face_Frames_16
+  - first:
+      213: 21300034
+    second: UI_Face_Frames_17
+  - first:
+      213: 21300036
+    second: UI_Face_Frames_18
+  - first:
+      213: 21300038
+    second: UI_Face_Frames_19
+  - first:
+      213: 21300040
+    second: UI_Face_Frames_20
+  - first:
+      213: 21300042
+    second: UI_Face_Frames_21
+  - first:
+      213: 21300044
+    second: UI_Face_Frames_22
+  - first:
+      213: 21300046
+    second: UI_Face_Frames_23
+  - first:
+      213: 21300048
+    second: UI_Face_Frames_24
+  - first:
+      213: 21300050
+    second: UI_Face_Frames_25
+  - first:
+      213: 21300052
+    second: UI_Face_Frames_26
+  - first:
+      213: 21300054
+    second: UI_Face_Frames_27
+  - first:
+      213: 21300056
+    second: UI_Face_Frames_28
+  - first:
+      213: 21300058
+    second: UI_Face_Frames_29
+  - first:
+      213: 21300060
+    second: UI_Face_Frames_30
+  - first:
+      213: 21300062
+    second: UI_Face_Frames_31
+  - first:
+      213: 21300064
+    second: UI_Face_Frames_32
+  - first:
+      213: 21300066
+    second: UI_Face_Frames_33
+  - first:
+      213: 21300068
+    second: UI_Face_Frames_34
+  - first:
+      213: 21300070
+    second: UI_Face_Frames_35
+  - first:
+      213: 21300072
+    second: UI_Face_Frames_36
+  - first:
+      213: 21300074
+    second: UI_Face_Frames_37
+  - first:
+      213: 21300076
+    second: UI_Face_Frames_38
+  - first:
+      213: 21300078
+    second: UI_Face_Frames_39
+  - first:
+      213: 21300080
+    second: UI_Face_Frames_40
+  - first:
+      213: 21300082
+    second: UI_Face_Frames_41
+  - first:
+      213: 21300084
+    second: UI_Face_Frames_42
+  - first:
+      213: 21300086
+    second: UI_Face_Frames_43
+  - first:
+      213: 21300088
+    second: UI_Face_Frames_44
+  - first:
+      213: 21300090
+    second: UI_Face_Frames_45
+  - first:
+      213: 21300092
+    second: UI_Face_Frames_46
+  - first:
+      213: 21300094
+    second: UI_Face_Frames_47
+  - first:
+      213: 21300096
+    second: UI_Face_Frames_48
+  - first:
+      213: 21300098
+    second: UI_Face_Frames_49
+  - first:
+      213: 21300100
+    second: UI_Face_Frames_50
+  - first:
+      213: 21300102
+    second: UI_Face_Frames_51
+  - first:
+      213: 21300104
+    second: UI_Face_Frames_52
+  - first:
+      213: 21300106
+    second: UI_Face_Frames_53
+  - first:
+      213: 21300108
+    second: UI_Face_Frames_54
+  - first:
+      213: 21300110
+    second: UI_Face_Frames_55
+  - first:
+      213: 21300112
+    second: UI_Face_Frames_56
+  - first:
+      213: 21300114
+    second: UI_Face_Frames_57
+  - first:
+      213: 21300116
+    second: UI_Face_Frames_58
+  - first:
+      213: 21300118
+    second: UI_Face_Frames_59
+  - first:
+      213: 21300120
+    second: UI_Face_Frames_60
+  - first:
+      213: 21300122
+    second: UI_Face_Frames_61
+  - first:
+      213: 21300124
+    second: UI_Face_Frames_62
+  - first:
+      213: 21300126
+    second: UI_Face_Frames_63
+  - first:
+      213: 21300128
+    second: UI_Face_Frames_64
+  - first:
+      213: 21300130
+    second: UI_Face_Frames_65
+  - first:
+      213: 21300132
+    second: UI_Face_Frames_66
+  - first:
+      213: 21300134
+    second: UI_Face_Frames_67
+  - first:
+      213: 21300136
+    second: UI_Face_Frames_68
+  - first:
+      213: 21300138
+    second: UI_Face_Frames_69
+  - first:
+      213: 21300140
+    second: UI_Face_Frames_70
+  - first:
+      213: 21300142
+    second: UI_Face_Frames_71
+  - first:
+      213: 21300144
+    second: UI_Face_Frames_72
+  - first:
+      213: 21300146
+    second: UI_Face_Frames_73
+  - first:
+      213: 21300148
+    second: UI_Face_Frames_74
+  - first:
+      213: 21300150
+    second: UI_Face_Frames_75
+  - first:
+      213: 21300152
+    second: UI_Face_Frames_76
+  - first:
+      213: 21300154
+    second: UI_Face_Frames_77
+  - first:
+      213: 21300156
+    second: UI_Face_Frames_78
+  - first:
+      213: 21300158
+    second: UI_Face_Frames_79
+  - first:
+      213: 21300160
+    second: UI_Face_Frames_80
+  - first:
+      213: 21300162
+    second: UI_Face_Frames_81
+  - first:
+      213: 21300164
+    second: UI_Face_Frames_82
+  - first:
+      213: 21300166
+    second: UI_Face_Frames_83
+  - first:
+      213: 21300168
+    second: UI_Face_Frames_84
+  - first:
+      213: 21300170
+    second: UI_Face_Frames_85
+  - first:
+      213: 21300172
+    second: UI_Face_Frames_86
+  - first:
+      213: 21300174
+    second: UI_Face_Frames_87
+  - first:
+      213: 21300176
+    second: UI_Face_Frames_88
+  - first:
+      213: 21300178
+    second: UI_Face_Frames_89
+  - first:
+      213: 21300180
+    second: UI_Face_Frames_90
+  - first:
+      213: 21300182
+    second: UI_Face_Frames_91
+  - first:
+      213: 21300184
+    second: UI_Face_Frames_92
+  - first:
+      213: 21300186
+    second: UI_Face_Frames_93
+  - first:
+      213: 21300188
+    second: UI_Face_Frames_94
+  - first:
+      213: 21300190
+    second: UI_Face_Frames_95
+  - first:
+      213: 21300192
+    second: UI_Face_Frames_96
+  - first:
+      213: 21300194
+    second: UI_Face_Frames_97
+  - first:
+      213: 21300196
+    second: UI_Face_Frames_98
+  - first:
+      213: 21300198
+    second: UI_Face_Frames_99
+  - first:
+      213: 21300200
+    second: UI_Face_Frames_100
+  - first:
+      213: 21300202
+    second: UI_Face_Frames_101
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Face_Frames_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 455
+        width: 229
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 13, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5c594ff6d2648209a560f7740c8cf0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Face_Frames_7
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 455
+        width: 229
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 13, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4d6386118ef4decb8ca244c38fabc4
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Face_Frames_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 302
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee97951cb1d4b6ea98597362c3d5b3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Face_Frames_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36dc56851c974d938d4e7051365741f
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Face_Frames_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 183
+        width: 229
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 13, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b001373d02e4e94a4f5ac56c3f8752
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Face_Frames_59
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 183
+        width: 229
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 13, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2241186f1b940a3a9a885f8741e1e6
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Face_Frames_70
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 30
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 18, z: 18, w: 18}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a9f1bb5d864f4cb3a92161554e694
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 85d006167374e48daa30b99f8bd1174a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

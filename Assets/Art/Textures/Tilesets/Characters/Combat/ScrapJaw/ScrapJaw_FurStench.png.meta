@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 9f1ea443db570084197338b4fde36b4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ScrapJaw_FurStench_0
+  - first:
+      213: 21300002
+    second: ScrapJaw_FurStench_1
+  - first:
+      213: 21300004
+    second: ScrapJaw_FurStench_2
+  - first:
+      213: 21300006
+    second: ScrapJaw_FurStench_3
+  - first:
+      213: 21300008
+    second: ScrapJaw_FurStench_4
+  - first:
+      213: 21300010
+    second: ScrapJaw_FurStench_5
+  - first:
+      213: 21300012
+    second: ScrapJaw_FurStench_6
+  - first:
+      213: 21300014
+    second: ScrapJaw_FurStench_7
+  - first:
+      213: 21300016
+    second: ScrapJaw_FurStench_8
+  - first:
+      213: 21300018
+    second: ScrapJaw_FurStench_9
+  - first:
+      213: 21300020
+    second: ScrapJaw_FurStench_10
+  - first:
+      213: 21300022
+    second: ScrapJaw_FurStench_11
+  - first:
+      213: 21300024
+    second: ScrapJaw_FurStench_12
+  - first:
+      213: 21300026
+    second: ScrapJaw_FurStench_13
+  - first:
+      213: 21300028
+    second: ScrapJaw_FurStench_14
+  - first:
+      213: 21300030
+    second: ScrapJaw_FurStench_15
+  - first:
+      213: 21300032
+    second: ScrapJaw_FurStench_16
+  - first:
+      213: 21300034
+    second: ScrapJaw_FurStench_17
+  - first:
+      213: 21300036
+    second: ScrapJaw_FurStench_18
+  - first:
+      213: 21300038
+    second: ScrapJaw_FurStench_19
+  - first:
+      213: 21300040
+    second: ScrapJaw_FurStench_20
+  - first:
+      213: 21300042
+    second: ScrapJaw_FurStench_21
+  - first:
+      213: 21300044
+    second: ScrapJaw_FurStench_22
+  - first:
+      213: 21300046
+    second: ScrapJaw_FurStench_23
+  - first:
+      213: 21300048
+    second: ScrapJaw_FurStench_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd029a9e70ebd040968c87119a6de41
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 596
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbcca1e27be8594f90b5cdc6ab68cac
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 596
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03be720f1e146b41b9d00af6338dbfb
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_3
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 596
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf14aed324b191c4a91ce9aa4e0fd7c4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_4
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 596
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aee91a44e78be4f8bafb638cc0985d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba9464bb0aac004a9b0da1195863b1b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 447
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456b1fac56c7249429bd1c4663318167
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_7
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 447
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a1597aadab994ba313ba59eb07172
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_8
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 447
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980bdc9eb9b4895428a9ff0e50063623
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_9
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 447
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2875d8f04fa4854592908f7e0914d38
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debd63dad6bda694ab6e1e66465612ee
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 298
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a1d6514a3fd3c4f8475e66c0fe8092
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 298
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e16edd85e9085240b78369a65c2d726
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_13
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 298
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c5dbcec3a83f5479bed4451be16f4e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_14
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 298
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f88ed608181c142b4a2d897da918ef
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9531d5255bf61984e9e2bf5ad095d46f
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 149
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc984690424d048836ff39b4dd0aa6
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 149
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c277c5e83ea6d9f44af7a1f794224e45
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_18
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 149
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151f035275dba884f84960077d983cd3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_19
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 149
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876aab06316a7994faaf434146626e92
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c627f433cd2518448b565f24a9cd470
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_21
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78401690ce79c6f4daa8f7e01014ab63
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_22
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 0
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df93535115b3ab540bdd3803bdc1877a
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_23
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 0
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6285b11d1494ba41a38fe02f98126e4
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScrapJaw_FurStench_24
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 0
+        width: 386
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8141c469d9546e94d8267f09c3a09562
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 887b66d5d09bfe94eb17d235cc0ca3a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIRoot
+  - LoadTrigger
+  - NPC
+  - HitBox
+  - Equipment
+  - Waypoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - OverworldUnits
+  - PauseScreen
+  - TexturePauseScreen
+  - PauseScreenForeground
+  - Buildings
+  - CameraBounds
+  - Environment
+  - Special
+  - HypeMeter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4009537169
+    locked: 0
+  - name: ObjectsBack
+    uniqueID: 592258485
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ObjectsFront
+    uniqueID: 3164218121
+    locked: 0
+  - name: UIBG
+    uniqueID: 3651923145
+    locked: 0
+  - name: UI
+    uniqueID: 310404321
+    locked: 0
+  - name: UIForeground
+    uniqueID: 1533831997
+    locked: 0

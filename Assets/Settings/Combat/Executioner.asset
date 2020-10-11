@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ffed36539b1614c8981851b5a9e67d, type: 3}
+  m_Name: Executioner
+  m_EditorClassIdentifier: 
+  overWorldAnimations: {fileID: 0}
+  initiativeSprite: {fileID: 21300010, guid: 6ab385ba6dbe65147b63475a48b810e8, type: 3}
+  unitSkills: []
+  tagTeamManeuvers: []
+  enemyUnit:
+    unitName: The Executioner
+    level: 2
+    battleId: 0
+    strength:
+      baseValue: 1
+      modifiers: []
+      _value: 1
+    speed:
+      baseValue: 10
+      modifiers: []
+      _value: 10
+    sturdiness:
+      baseValue: 40
+      modifiers: []
+      _value: 40
+    charisma:
+      baseValue: 1
+      modifiers: []
+      _value: 1
+    talent:
+      baseValue: 1
+      modifiers: []
+      _value: 1
+    luck:
+      baseValue: 1
+      modifiers: []
+      _value: 1
+    accuracy:
+      baseValue: 20
+      modifiers: []
+      _value: 20
+    defense:
+      baseValue: 1
+      modifiers: []
+      _value: 1
+    dodge:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    resist:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    critChance:
+      baseValue: 0
+      modifiers: []
+      _value: 0
+    currentHealth:
+      baseValue: 400
+      modifiers: []
+      _value: 400
+    currentActionPoints:
+      baseValue: 50
+      modifiers: []
+      _value: 50
+    mainDamageSource: 0
+    damageType: 0
+    dmgCut: 1
+    unitType: 0
+    currentAilment: 0
+    expGiven: 10
+    goldGiven: 10
+    itemDrops:
+    - {fileID: 1886208852802351624, guid: 3246151d7cfc93c429274a984c424fb7, type: 3}
+  unitPrefab: {fileID: 187, guid: 792c0fd0de1a80e43b53ec28956eebc6, type: 3}

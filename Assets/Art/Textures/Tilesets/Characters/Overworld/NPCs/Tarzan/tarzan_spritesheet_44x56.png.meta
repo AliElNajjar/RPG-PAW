@@ -1,0 +1,4880 @@
+fileFormatVersion: 2
+guid: 1b789c76a4dcf0f46889ba95b631c2c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: tarzan_spritesheet_44x56_0
+  - first:
+      213: 21300002
+    second: tarzan_spritesheet_44x56_1
+  - first:
+      213: 21300004
+    second: tarzan_spritesheet_44x56_2
+  - first:
+      213: 21300006
+    second: tarzan_spritesheet_44x56_3
+  - first:
+      213: 21300008
+    second: tarzan_spritesheet_44x56_4
+  - first:
+      213: 21300010
+    second: tarzan_spritesheet_44x56_5
+  - first:
+      213: 21300012
+    second: tarzan_spritesheet_44x56_6
+  - first:
+      213: 21300014
+    second: tarzan_spritesheet_44x56_7
+  - first:
+      213: 21300016
+    second: tarzan_spritesheet_44x56_8
+  - first:
+      213: 21300018
+    second: tarzan_spritesheet_44x56_9
+  - first:
+      213: 21300020
+    second: tarzan_spritesheet_44x56_10
+  - first:
+      213: 21300022
+    second: tarzan_spritesheet_44x56_11
+  - first:
+      213: 21300024
+    second: tarzan_spritesheet_44x56_12
+  - first:
+      213: 21300026
+    second: tarzan_spritesheet_44x56_13
+  - first:
+      213: 21300028
+    second: tarzan_spritesheet_44x56_14
+  - first:
+      213: 21300030
+    second: tarzan_spritesheet_44x56_15
+  - first:
+      213: 21300032
+    second: tarzan_spritesheet_44x56_16
+  - first:
+      213: 21300034
+    second: tarzan_spritesheet_44x56_17
+  - first:
+      213: 21300036
+    second: tarzan_spritesheet_44x56_18
+  - first:
+      213: 21300038
+    second: tarzan_spritesheet_44x56_19
+  - first:
+      213: 21300040
+    second: tarzan_spritesheet_44x56_20
+  - first:
+      213: 21300042
+    second: tarzan_spritesheet_44x56_21
+  - first:
+      213: 21300044
+    second: tarzan_spritesheet_44x56_22
+  - first:
+      213: 21300046
+    second: tarzan_spritesheet_44x56_23
+  - first:
+      213: 21300048
+    second: tarzan_spritesheet_44x56_24
+  - first:
+      213: 21300050
+    second: tarzan_spritesheet_44x56_25
+  - first:
+      213: 21300052
+    second: tarzan_spritesheet_44x56_26
+  - first:
+      213: 21300054
+    second: tarzan_spritesheet_44x56_27
+  - first:
+      213: 21300056
+    second: tarzan_spritesheet_44x56_28
+  - first:
+      213: 21300058
+    second: tarzan_spritesheet_44x56_29
+  - first:
+      213: 21300060
+    second: tarzan_spritesheet_44x56_30
+  - first:
+      213: 21300062
+    second: tarzan_spritesheet_44x56_31
+  - first:
+      213: 21300064
+    second: tarzan_spritesheet_44x56_32
+  - first:
+      213: 21300066
+    second: tarzan_spritesheet_44x56_33
+  - first:
+      213: 21300068
+    second: tarzan_spritesheet_44x56_34
+  - first:
+      213: 21300070
+    second: tarzan_spritesheet_44x56_35
+  - first:
+      213: 21300072
+    second: tarzan_spritesheet_44x56_36
+  - first:
+      213: 21300074
+    second: tarzan_spritesheet_44x56_37
+  - first:
+      213: 21300076
+    second: tarzan_spritesheet_44x56_38
+  - first:
+      213: 21300078
+    second: tarzan_spritesheet_44x56_39
+  - first:
+      213: 21300080
+    second: tarzan_spritesheet_44x56_40
+  - first:
+      213: 21300082
+    second: tarzan_spritesheet_44x56_41
+  - first:
+      213: 21300084
+    second: tarzan_spritesheet_44x56_42
+  - first:
+      213: 21300086
+    second: tarzan_spritesheet_44x56_43
+  - first:
+      213: 21300088
+    second: tarzan_spritesheet_44x56_44
+  - first:
+      213: 21300090
+    second: tarzan_spritesheet_44x56_45
+  - first:
+      213: 21300092
+    second: tarzan_spritesheet_44x56_46
+  - first:
+      213: 21300094
+    second: tarzan_spritesheet_44x56_47
+  - first:
+      213: 21300096
+    second: tarzan_spritesheet_44x56_48
+  - first:
+      213: 21300098
+    second: tarzan_spritesheet_44x56_49
+  - first:
+      213: 21300100
+    second: tarzan_spritesheet_44x56_50
+  - first:
+      213: 21300102
+    second: tarzan_spritesheet_44x56_51
+  - first:
+      213: 21300104
+    second: tarzan_spritesheet_44x56_52
+  - first:
+      213: 21300106
+    second: tarzan_spritesheet_44x56_53
+  - first:
+      213: 21300108
+    second: tarzan_spritesheet_44x56_54
+  - first:
+      213: 21300110
+    second: tarzan_spritesheet_44x56_55
+  - first:
+      213: 21300112
+    second: tarzan_spritesheet_44x56_56
+  - first:
+      213: 21300114
+    second: tarzan_spritesheet_44x56_57
+  - first:
+      213: 21300116
+    second: tarzan_spritesheet_44x56_58
+  - first:
+      213: 21300118
+    second: tarzan_spritesheet_44x56_59
+  - first:
+      213: 21300120
+    second: tarzan_spritesheet_44x56_60
+  - first:
+      213: 21300122
+    second: tarzan_spritesheet_44x56_61
+  - first:
+      213: 21300124
+    second: tarzan_spritesheet_44x56_62
+  - first:
+      213: 21300126
+    second: tarzan_spritesheet_44x56_63
+  - first:
+      213: 21300128
+    second: tarzan_spritesheet_44x56_64
+  - first:
+      213: 21300130
+    second: tarzan_spritesheet_44x56_65
+  - first:
+      213: 21300132
+    second: tarzan_spritesheet_44x56_66
+  - first:
+      213: 21300134
+    second: tarzan_spritesheet_44x56_67
+  - first:
+      213: 21300136
+    second: tarzan_spritesheet_44x56_68
+  - first:
+      213: 21300138
+    second: tarzan_spritesheet_44x56_69
+  - first:
+      213: 21300140
+    second: tarzan_spritesheet_44x56_70
+  - first:
+      213: 21300142
+    second: tarzan_spritesheet_44x56_71
+  - first:
+      213: 21300144
+    second: tarzan_spritesheet_44x56_72
+  - first:
+      213: 21300146
+    second: tarzan_spritesheet_44x56_73
+  - first:
+      213: 21300148
+    second: tarzan_spritesheet_44x56_74
+  - first:
+      213: 21300150
+    second: tarzan_spritesheet_44x56_75
+  - first:
+      213: 21300152
+    second: tarzan_spritesheet_44x56_76
+  - first:
+      213: 21300154
+    second: tarzan_spritesheet_44x56_77
+  - first:
+      213: 21300156
+    second: tarzan_spritesheet_44x56_78
+  - first:
+      213: 21300158
+    second: tarzan_spritesheet_44x56_79
+  - first:
+      213: 21300160
+    second: tarzan_spritesheet_44x56_80
+  - first:
+      213: 21300162
+    second: tarzan_spritesheet_44x56_81
+  - first:
+      213: 21300164
+    second: tarzan_spritesheet_44x56_82
+  - first:
+      213: 21300166
+    second: tarzan_spritesheet_44x56_83
+  - first:
+      213: 21300168
+    second: tarzan_spritesheet_44x56_84
+  - first:
+      213: 21300170
+    second: tarzan_spritesheet_44x56_85
+  - first:
+      213: 21300172
+    second: tarzan_spritesheet_44x56_86
+  - first:
+      213: 21300174
+    second: tarzan_spritesheet_44x56_87
+  - first:
+      213: 21300176
+    second: tarzan_spritesheet_44x56_88
+  - first:
+      213: 21300178
+    second: tarzan_spritesheet_44x56_89
+  - first:
+      213: 21300180
+    second: tarzan_spritesheet_44x56_90
+  - first:
+      213: 21300182
+    second: tarzan_spritesheet_44x56_91
+  - first:
+      213: 21300184
+    second: tarzan_spritesheet_44x56_92
+  - first:
+      213: 21300186
+    second: tarzan_spritesheet_44x56_93
+  - first:
+      213: 21300188
+    second: tarzan_spritesheet_44x56_94
+  - first:
+      213: 21300190
+    second: tarzan_spritesheet_44x56_95
+  - first:
+      213: 21300192
+    second: tarzan_spritesheet_44x56_96
+  - first:
+      213: 21300194
+    second: tarzan_spritesheet_44x56_97
+  - first:
+      213: 21300196
+    second: tarzan_spritesheet_44x56_98
+  - first:
+      213: 21300198
+    second: tarzan_spritesheet_44x56_99
+  - first:
+      213: 21300200
+    second: tarzan_spritesheet_44x56_100
+  - first:
+      213: 21300202
+    second: tarzan_spritesheet_44x56_101
+  - first:
+      213: 21300204
+    second: tarzan_spritesheet_44x56_102
+  - first:
+      213: 21300206
+    second: tarzan_spritesheet_44x56_103
+  - first:
+      213: 21300208
+    second: tarzan_spritesheet_44x56_104
+  - first:
+      213: 21300210
+    second: tarzan_spritesheet_44x56_105
+  - first:
+      213: 21300212
+    second: tarzan_spritesheet_44x56_106
+  - first:
+      213: 21300214
+    second: tarzan_spritesheet_44x56_107
+  - first:
+      213: 21300216
+    second: tarzan_spritesheet_44x56_108
+  - first:
+      213: 21300218
+    second: tarzan_spritesheet_44x56_109
+  - first:
+      213: 21300220
+    second: tarzan_spritesheet_44x56_110
+  - first:
+      213: 21300222
+    second: tarzan_spritesheet_44x56_111
+  - first:
+      213: 21300224
+    second: tarzan_spritesheet_44x56_112
+  - first:
+      213: 21300226
+    second: tarzan_spritesheet_44x56_113
+  - first:
+      213: 21300228
+    second: tarzan_spritesheet_44x56_114
+  - first:
+      213: 21300230
+    second: tarzan_spritesheet_44x56_115
+  - first:
+      213: 21300232
+    second: tarzan_spritesheet_44x56_116
+  - first:
+      213: 21300234
+    second: tarzan_spritesheet_44x56_117
+  - first:
+      213: 21300236
+    second: tarzan_spritesheet_44x56_118
+  - first:
+      213: 21300238
+    second: tarzan_spritesheet_44x56_119
+  - first:
+      213: 21300240
+    second: tarzan_spritesheet_44x56_120
+  - first:
+      213: 21300242
+    second: tarzan_spritesheet_44x56_121
+  - first:
+      213: 21300244
+    second: tarzan_spritesheet_44x56_122
+  - first:
+      213: 21300246
+    second: tarzan_spritesheet_44x56_123
+  - first:
+      213: 21300248
+    second: tarzan_spritesheet_44x56_124
+  - first:
+      213: 21300250
+    second: tarzan_spritesheet_44x56_125
+  - first:
+      213: 21300252
+    second: tarzan_spritesheet_44x56_126
+  - first:
+      213: 21300254
+    second: tarzan_spritesheet_44x56_127
+  - first:
+      213: 21300256
+    second: tarzan_spritesheet_44x56_128
+  - first:
+      213: 21300258
+    second: tarzan_spritesheet_44x56_129
+  - first:
+      213: 21300260
+    second: tarzan_spritesheet_44x56_130
+  - first:
+      213: 21300262
+    second: tarzan_spritesheet_44x56_131
+  - first:
+      213: 21300264
+    second: tarzan_spritesheet_44x56_132
+  - first:
+      213: 21300266
+    second: tarzan_spritesheet_44x56_133
+  - first:
+      213: 21300268
+    second: tarzan_spritesheet_44x56_134
+  - first:
+      213: 21300270
+    second: tarzan_spritesheet_44x56_135
+  - first:
+      213: 21300272
+    second: tarzan_spritesheet_44x56_136
+  - first:
+      213: 21300274
+    second: tarzan_spritesheet_44x56_137
+  - first:
+      213: 21300276
+    second: tarzan_spritesheet_44x56_138
+  - first:
+      213: 21300278
+    second: tarzan_spritesheet_44x56_139
+  - first:
+      213: 21300280
+    second: tarzan_spritesheet_44x56_140
+  - first:
+      213: 21300282
+    second: tarzan_spritesheet_44x56_141
+  - first:
+      213: 21300284
+    second: tarzan_spritesheet_44x56_142
+  - first:
+      213: 21300286
+    second: tarzan_spritesheet_44x56_143
+  - first:
+      213: 21300288
+    second: tarzan_spritesheet_44x56_144
+  - first:
+      213: 21300290
+    second: tarzan_spritesheet_44x56_145
+  - first:
+      213: 21300292
+    second: tarzan_spritesheet_44x56_146
+  - first:
+      213: 21300294
+    second: tarzan_spritesheet_44x56_147
+  - first:
+      213: 21300296
+    second: tarzan_spritesheet_44x56_148
+  - first:
+      213: 21300298
+    second: tarzan_spritesheet_44x56_149
+  - first:
+      213: 21300300
+    second: tarzan_spritesheet_44x56_150
+  - first:
+      213: 21300302
+    second: tarzan_spritesheet_44x56_151
+  - first:
+      213: 21300304
+    second: tarzan_spritesheet_44x56_152
+  - first:
+      213: 21300306
+    second: tarzan_spritesheet_44x56_153
+  - first:
+      213: 21300308
+    second: tarzan_spritesheet_44x56_154
+  - first:
+      213: 21300310
+    second: tarzan_spritesheet_44x56_155
+  - first:
+      213: 21300312
+    second: tarzan_spritesheet_44x56_156
+  - first:
+      213: 21300314
+    second: tarzan_spritesheet_44x56_157
+  - first:
+      213: 21300316
+    second: tarzan_spritesheet_44x56_158
+  - first:
+      213: 21300318
+    second: tarzan_spritesheet_44x56_159
+  - first:
+      213: 21300320
+    second: tarzan_spritesheet_44x56_160
+  - first:
+      213: 21300322
+    second: tarzan_spritesheet_44x56_161
+  - first:
+      213: 21300324
+    second: tarzan_spritesheet_44x56_162
+  - first:
+      213: 21300326
+    second: tarzan_spritesheet_44x56_163
+  - first:
+      213: 21300328
+    second: tarzan_spritesheet_44x56_164
+  - first:
+      213: 21300330
+    second: tarzan_spritesheet_44x56_165
+  - first:
+      213: 21300332
+    second: tarzan_spritesheet_44x56_166
+  - first:
+      213: 21300334
+    second: tarzan_spritesheet_44x56_167
+  - first:
+      213: 21300336
+    second: tarzan_spritesheet_44x56_168
+  - first:
+      213: 21300338
+    second: tarzan_spritesheet_44x56_169
+  - first:
+      213: 21300340
+    second: tarzan_spritesheet_44x56_170
+  - first:
+      213: 21300342
+    second: tarzan_spritesheet_44x56_171
+  - first:
+      213: 21300344
+    second: tarzan_spritesheet_44x56_172
+  - first:
+      213: 21300346
+    second: tarzan_spritesheet_44x56_173
+  - first:
+      213: 21300348
+    second: tarzan_spritesheet_44x56_174
+  - first:
+      213: 21300350
+    second: tarzan_spritesheet_44x56_175
+  - first:
+      213: 21300352
+    second: tarzan_spritesheet_44x56_176
+  - first:
+      213: 21300354
+    second: tarzan_spritesheet_44x56_177
+  - first:
+      213: 21300356
+    second: tarzan_spritesheet_44x56_178
+  - first:
+      213: 21300358
+    second: tarzan_spritesheet_44x56_179
+  - first:
+      213: 21300360
+    second: tarzan_spritesheet_44x56_180
+  - first:
+      213: 21300362
+    second: tarzan_spritesheet_44x56_181
+  - first:
+      213: 21300364
+    second: tarzan_spritesheet_44x56_182
+  - first:
+      213: 21300366
+    second: tarzan_spritesheet_44x56_183
+  - first:
+      213: 21300368
+    second: tarzan_spritesheet_44x56_184
+  - first:
+      213: 21300370
+    second: tarzan_spritesheet_44x56_185
+  - first:
+      213: 21300372
+    second: tarzan_spritesheet_44x56_186
+  - first:
+      213: 21300374
+    second: tarzan_spritesheet_44x56_187
+  - first:
+      213: 21300376
+    second: tarzan_spritesheet_44x56_188
+  - first:
+      213: 21300378
+    second: tarzan_spritesheet_44x56_189
+  - first:
+      213: 21300380
+    second: tarzan_spritesheet_44x56_190
+  - first:
+      213: 21300382
+    second: tarzan_spritesheet_44x56_191
+  - first:
+      213: 21300384
+    second: tarzan_spritesheet_44x56_192
+  - first:
+      213: 21300386
+    second: tarzan_spritesheet_44x56_193
+  - first:
+      213: 21300388
+    second: tarzan_spritesheet_44x56_194
+  - first:
+      213: 21300390
+    second: tarzan_spritesheet_44x56_195
+  - first:
+      213: 21300392
+    second: tarzan_spritesheet_44x56_196
+  - first:
+      213: 21300394
+    second: tarzan_spritesheet_44x56_197
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607943a1df676184aab455639fd3680b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 784
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe3bb67f2860dc4d9961f2edb3696b8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 784
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07444f7e3fe8b548abecd57f4b60e7d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 784
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7403a9004fd014aa3cb68e112a499a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 784
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779c8fcf4c0285140b8e5f4d70c68b5d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 784
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f85db8953a1dd43876a82c774859a6
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 784
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2afdcedec6271445a1c5a5af3f1a1b7
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 784
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8a4d9a95989754a9deb3267480e80a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46c763f1ea281498a8003fc3ce8a2b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e05375d8bbe1543adf8b70d5eb28d6
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe856da3d2a834d9feff20a4590324
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427551742e1890c4b8b5ce93cd036216
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb411a0b4017a499fea37b00b46124
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003a56bfd06da69499e1b151215a6855
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edff1481b7645b24c9a3ddb135d1b92b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbce4101be7c394d9e533c9f12f8fbc
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0b6afa07b2e5459dfac9700d2beaa
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_17
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c2ce79f1f011418b6555709472155
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fad5bf6ab3f35d40ae6bcaa6075c1b6
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 728
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32a59b555ad784ab0a6617a6ced605
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58252f4234a75645bd6eea0f39ab404
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80653e93fcde173459454af4713102e1
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe800c9c91ad541bb454a4af714b61
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc75f7d0aa86d3341b0ddc9eba79ae84
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_24
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d4bb7903717bc42855181b429e92f8
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3304c38fffcb74743b7c212d47776b16
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf5cb1550edc345995361c6d84c5f7
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef7bb3d477aa6345bf0ff5964053025
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ffe410f9cf1dd46b4fda3b728229e5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e30c637fb6c50f4d99d9522da48a1a5
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e3c579dc9f9746a2fcaa5e07590af
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_31
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3f84c13a476284683ded940948bb5f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598cd8ee81ddbe74a8e59c606cd98ce9
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_33
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38cd7b4b7c6636458bad7f1fcde004e
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc2767d996bbdd4da99eab858162f7e
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341974860f832a4fa91a82e8a13dfb6
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_36
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d47a4eeecd38b04cba1027bb7ae6bd4
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_37
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 672
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493631f91ef4364c9b1e5b31fd08da2
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca12ecb9f6f84c4a9273c1388da7cb1
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7608ce29d1bd7934299a1f287485efe1
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbf69db1f188945b3898cb1b795c6b
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747ad45019a717468d54a9f2fc5131d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_42
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26972e809949b434e9d857b3306c4bff
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_43
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d210b7d57e2a874a82c6c2685ff5052
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068c505a2e859a429ade747c351dcce
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_45
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a1dc28b01e14e49aafae126f2d62e2
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b697c4e4594db846b7c3e3ca8ddc437
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_47
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1a61908bbf134392c51e0cd370140
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_48
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1d862a848046644982a5864346873f
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_49
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3690b68100c8345b4c30871770658d
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_50
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265052106b0596542bb2264f81ce8619
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_51
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61a986e005a554f91467086549158a
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_52
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e114e343f05d3c4ebad68ad02cee147
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_53
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 616
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f9335740669b42b601e119e91161f
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc8c765bbf07434b8a89a7dda685bb9
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_55
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67991e0eb243fa140bf5dd1480f8d4fd
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed651e13d7408734cbd513ef61529aee
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe0817f8f414fe4e80263ca5dc5c402
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f892294a9edeb74380c9b95525d0c7c
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb41ca88fadaa4d9df6ca372accc7d
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494a91af5003cc348bc0683806c57d55
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_61
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06226802123731c458510f2d40f07a46
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_62
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472637851b249994cb031d61b1553568
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_63
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4717c65a56e3640a2af3f368e1c3e5
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_64
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc856ca3726e00f4f92b351e2bec4597
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_65
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 560
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ff52b34a7f1f40a134072908a2202
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3ca57eb428c54428a8619fdf9024ef
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 504
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9400bed42a6081419658f4259b82368
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_68
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 504
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19710acf75c21a74ebd6a12335efeb60
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_69
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 504
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292cbab7d6d96e94781c029cdf350db6
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_70
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 504
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee556512cb7dee4782bcef540b014cf
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 504
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28cad8cdf109c9449bed35f80a26d6b
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_72
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 504
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f755aaec6a02fdc45a9cdf38d729353c
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_73
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 504
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a82d8888fdf2484a8f5e612882f1cc1
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8335b80d64b4ac34c846532d703446d1
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc16a9d160186b4fba9bd2c825b235a
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_76
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb84a11b734929e46aa5106e827feabc
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9160f3fc5252fbc47b4751749af464cf
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47a83c7c5751b4d8fe9c215fbe8ccd
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_79
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88432f192aef6774a9e5d8e20e862c9a
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_80
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0948cd4c452604797f0aab235efe3e
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_81
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eee9a89b313bf4bab9a5833360dfb4
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_82
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b051983df0bc54948b8c54ea1946b0f9
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_83
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741baf6fced63cb47840385df5c02d7b
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_84
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a1a5018fc70a6428c5454a7d117c88
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_85
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 448
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4188f31437c0141b3ab0e2608fa2fb
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962cec24255b9ba4481a75550aaf2d15
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_87
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8a7cc9d1c13d45a35fcc28fd46e65
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_88
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02123667ec94e764a8238a92a7ae0c28
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_89
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73098e377a84aa247b8f45b4da5e500c
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_90
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa69493083db0f3468e5b78cd8bfba34
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_91
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3268235919cbce4985a304f4c7596b7
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_92
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe45af5ae4d96c45ae973c0422025be
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_93
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7c1670c51a12428186ea93f67c032
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_94
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926751949a4f2dc40997cae7cec6fdb7
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_95
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac25fab09f78114a9f81d0087f05184
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_96
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20260ba721917cf49a3ab649e9086cf1
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_97
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc40e36f38b9754888d4e9944e9d957
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_98
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544fa3cab5106640ba86182db2ea8c6
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_99
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cede889c01ced468dfd993e98ef590
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_100
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe59e49bb88737d4d89852c4d4d864b6
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_101
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36041ba27a671714b87199ca4483db61
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_102
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d5ebc91ff7b143b75f2d06aa75670
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_103
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 392
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263928732ee8ab7428bd900ff1591f53
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eed36ac3ec3cc14c892995c91dfe7d6
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_105
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa02d19f244678408f1761751a9972b
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63e6efe020c88f4da10a91cd283e151
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_107
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a238c460cd5f44a772c4e52fc5c26
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_108
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133a5d68d4d37dd40a00dddeb81879b9
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_109
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980b635148a65df44956ad852eca5151
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_110
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6214a115442f094a911f11a6af7f716
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_111
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcbff9639126af498b3f54f0fdc1158
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_112
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909fd5d59d7e397409c0aad8fbbd1140
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_113
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb54b1ab389baa4a8a20f09c90f6173
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_114
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3e44a3c5497574e8c9721d4967ba1f
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_115
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfafca379698ce04d807aede80a82256
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_116
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63909c767dc6a24986ffefabf6e82a8
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_117
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c904731ea9f47d41b122fe70b33e898
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_118
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b254ec17b72f649be0b1ee1c8e9f4e
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_119
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 336
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aeaff0bec8d124db2ff97cc13ed88e
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c6bd14f13bf4c4392d4d705736ba08
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_121
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5355f1f4fb7178d4eb328d3ba9e8b8ba
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_122
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6ff4dc9da6ad44eb84d8c8966132ca
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_123
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc22cf58dc4d143b498d09a48fd349
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_124
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b5ebd1239265647aa24ea35c8b9c33
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_125
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855e9dc459c4ed45a18dbbb9f7e08f4
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_126
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df4109323c332948963a08f55b571d4
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_127
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ee7e842398a84c8300bcc15fa6670
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec8bcec14d6bed4ab1820597ffde2d8
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_129
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c789a112e5f9364083a392a552c92aa
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_130
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2e95e724dc0d84396dbd09c67e2345
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_131
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 280
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f2b5dcf7e27fe42a75fcc523aee14f
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5da8afb86ef99459f227d3336aa399
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_133
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae322be150a5ff418aaa753a0142b37
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_134
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3ea219a3c888448c27b2731ad6efa
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_135
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bfbc71e47b2a740822e86592845870
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_136
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c424132383114e49a131deba07a2202
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_137
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1fe94511654b64d9218e2e5308fc5b
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_138
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf99512e782f2a499bc29d5d66b6c42
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_139
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 224
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c286230712623488e1af922b2a136b
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e3028d5ba7ef04c9d13ba8c2ea1caf
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_141
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0027d96f6c952a44c8c3073c5e75849f
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_142
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08410f1c9896d1640aba4f31d745a6c9
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_143
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1da5e782d2c1f42821f7fb3064417a
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_144
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df429a6f569bec3499c56ca8e9b3a949
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_145
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd540e0a7b01b0845b43ccfa2ebbf4f6
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_146
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b230872af224e41bec930c1dc96307
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_147
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37744b3377349f43b8813f93adfa850
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_148
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb8d804fbf449e46891915d9f73083f
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_149
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3421d62f2c0a1c0469f9fabb8594d318
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_150
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473e6067e2f7fe949bb17e963dd93328
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_151
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 168
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2c30d901318734e870d7e71695806a
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab25bcdf7c91f49b87bbf998d8eaad
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_153
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80680c37e55646a489e7cab62071b671
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_154
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861bbf7509dcf7f4abbafe6c5bc782fa
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_155
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad53a5b2b9e47a488ea818add34589e
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_156
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a8ff6babe7fc489176f39899f927a
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_157
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2ceda2ce0d70547a3dfbe6d5cc404e
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_158
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d7e04ecfc5f954d8a224263f058fcf
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_159
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d7fa6c0c019a1448875f013fbb9e9d
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_160
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10e4ea768ce34046b41bbb1918b079d
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_161
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044d5fdd40f62334db1d3f3a84306574
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_162
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2820c5eb83f1547ade1091d00bd9fc
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_163
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490b91975b47e7428629b45575c5cd0
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_164
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0272d51b1c6bb4bb2635c73dd1fbe0
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_165
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28efbe39c5717f458f678ac961226e9
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_166
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da915409756c1e7468abba911f85fca3
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_167
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9511ad1ba22664aa38d695f1ca2c39
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_168
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4e2c528fd73a34f91514ffb4b665a1
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_169
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 112
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58df7627e9a09d647aad5e24ee4ec21d
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289e5cbf43b3c4f458bd6f81ed8322b5
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_171
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0daeb1cc59373418c6eda7296fced9
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_172
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7357911ad02fa444998eb939f4fff5d4
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_173
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b08725079128184686ec046a902ed7f
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_174
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5607e4c50403a7042a4c46a4a8d37d3f
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_175
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761222d0afeb895438778badbb59b5ae
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_176
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbca0a72dda80ab4bb84ad79b0b92eff
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_177
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f22708e999ad1458e1cd6e0d8ba946
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_178
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fed0a253f7edc468ca0b936b4d619d
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_179
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c179439e6f0df3544a2effb2cac41a82
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_180
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc5e049354484b42a3c604bd2e1f430
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_181
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e676133513212042a7906bb583154ff
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_182
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3356ad59994fc64da4f9d5abc7d1e99
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_183
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a1508902ab084c91512e80b05e9b7
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_184
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827424b88a8024e4bb0421d9ac69403a
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_185
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 56
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f43b0e6342ac4a954bb486570daa2
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a49edd6954fd264880085ab6eb6840f
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_187
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0418f16feb49b504d99db27709a61a1c
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_188
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0409ef498afbe418f9a13197dd9e5c
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_189
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5169535cf56fa0e48b8b985d3f2a158a
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_190
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71feadf80e44544bbd93268b44ec434
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_191
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90000e190dcc23f4793335923dd97d64
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_192
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c84d648bfc754d4b986c29dc0db7d0c
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_193
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d66d96e3cd4542a6ef6a925d281c7
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_194
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ebe84c6db1494888e513779c8b520
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_195
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9465699615144a9fac671c7ad2d2b
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_196
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf8b506347a2234cb3fae5005794a22
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tarzan_spritesheet_44x56_197
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 0
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4823e012c3ead4687f438e186bfbc6
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6bc918f0317a94344b11d838adfe8cce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

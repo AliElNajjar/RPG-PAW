@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 5202f17f41ba2a047b6e47b366daa531
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: hot_wheels_elevator_0
+  - first:
+      213: 21300002
+    second: hot_wheels_elevator_1
+  - first:
+      213: 21300004
+    second: hot_wheels_elevator_2
+  - first:
+      213: 21300006
+    second: hot_wheels_elevator_3
+  - first:
+      213: 21300008
+    second: hot_wheels_elevator_4
+  - first:
+      213: 21300010
+    second: hot_wheels_elevator_5
+  - first:
+      213: 21300012
+    second: hot_wheels_elevator_6
+  - first:
+      213: 21300014
+    second: hot_wheels_elevator_7
+  - first:
+      213: 21300016
+    second: hot_wheels_elevator_8
+  - first:
+      213: 21300018
+    second: hot_wheels_elevator_9
+  - first:
+      213: 21300020
+    second: hot_wheels_elevator_10
+  - first:
+      213: 21300022
+    second: hot_wheels_elevator_11
+  - first:
+      213: 21300024
+    second: hot_wheels_elevator_12
+  - first:
+      213: 21300026
+    second: hot_wheels_elevator_13
+  - first:
+      213: 21300028
+    second: hot_wheels_elevator_14
+  - first:
+      213: 21300030
+    second: hot_wheels_elevator_15
+  - first:
+      213: 21300032
+    second: hot_wheels_elevator_16
+  - first:
+      213: 21300034
+    second: hot_wheels_elevator_17
+  - first:
+      213: 21300036
+    second: hot_wheels_elevator_18
+  - first:
+      213: 21300038
+    second: hot_wheels_elevator_19
+  - first:
+      213: 21300040
+    second: hot_wheels_elevator_20
+  - first:
+      213: 21300042
+    second: hot_wheels_elevator_21
+  - first:
+      213: 21300044
+    second: hot_wheels_elevator_22
+  - first:
+      213: 21300046
+    second: hot_wheels_elevator_23
+  - first:
+      213: 21300048
+    second: hot_wheels_elevator_24
+  - first:
+      213: 21300050
+    second: hot_wheels_elevator_25
+  - first:
+      213: 21300052
+    second: hot_wheels_elevator_26
+  - first:
+      213: 21300054
+    second: hot_wheels_elevator_27
+  - first:
+      213: 21300056
+    second: hot_wheels_elevator_28
+  - first:
+      213: 21300058
+    second: hot_wheels_elevator_29
+  - first:
+      213: 21300060
+    second: hot_wheels_elevator_30
+  - first:
+      213: 21300062
+    second: hot_wheels_elevator_31
+  - first:
+      213: 21300064
+    second: hot_wheels_elevator_32
+  - first:
+      213: 21300066
+    second: hot_wheels_elevator_33
+  - first:
+      213: 21300068
+    second: hot_wheels_elevator_34
+  - first:
+      213: 21300070
+    second: hot_wheels_elevator_35
+  - first:
+      213: 21300072
+    second: hot_wheels_elevator_36
+  - first:
+      213: 21300074
+    second: hot_wheels_elevator_37
+  - first:
+      213: 21300076
+    second: hot_wheels_elevator_38
+  - first:
+      213: 21300078
+    second: hot_wheels_elevator_39
+  - first:
+      213: 21300080
+    second: hot_wheels_elevator_40
+  - first:
+      213: 21300082
+    second: hot_wheels_elevator_41
+  - first:
+      213: 21300084
+    second: hot_wheels_elevator_42
+  - first:
+      213: 21300086
+    second: hot_wheels_elevator_43
+  - first:
+      213: 21300088
+    second: hot_wheels_elevator_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hot_wheels_elevator_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2076
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 10, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594c26e2665346840bb7676c1eaba0ac
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2076
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 19, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0249a4d30c7128940ac9f2789a0ddf31
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2076
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d91b0c30ffd9814d86437943c74a140
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1776
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 10, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb7dfc032a65543abd13a5c3025d3a
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1776
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeba31d35ccb1804491ea81eaf717722
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1776
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c022280a0ab0438844c3b73cd7b55
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1476
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed45cd8fed2faa842a598e8c5af94100
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1476
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 7, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228c5272b5ffc14a8a6997f88499da5
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1476
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b45531b94bcc94abd807d88de615c9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8cae423baa20f4db9da6032cbff9d7
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1176
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e580288e68c04cf49b94ee5748c97a82
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1176
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6325d4e598a93bf4794cbdb11c018aeb
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98efad64257442d43846d6e6bba0c8b8
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_13
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 876
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f0366128ed0f94c80dcc512a726024
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 876
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7658c6e984c00c046b996afd18017683
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 17, y: 0, z: 10, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac23a906ba00264d8bc30c9a3395268
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 576
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 7, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f73c334ea1a4644cbed42550f59f613
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 576
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b24f7e9fe3250544af72913398faec7
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 18, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1d60c2092929b4c9433f556f87a4db
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 276
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3beb576dc2eb284c975bc791b085cd2
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hot_wheels_elevator_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 276
+        width: 140
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 23, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21518c8f78d96d48a8458e44a781876
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11a5aa7dfec41f74999c5a4aa68b476b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

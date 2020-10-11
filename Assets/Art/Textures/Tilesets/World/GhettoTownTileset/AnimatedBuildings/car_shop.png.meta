@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: bf239db50309e584f9c31f7e725d5ebd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: car_shop_0
+  - first:
+      213: 21300002
+    second: car_shop_1
+  - first:
+      213: 21300004
+    second: car_shop_2
+  - first:
+      213: 21300006
+    second: car_shop_3
+  - first:
+      213: 21300008
+    second: car_shop_4
+  - first:
+      213: 21300010
+    second: car_shop_5
+  - first:
+      213: 21300012
+    second: car_shop_6
+  - first:
+      213: 21300014
+    second: car_shop_7
+  - first:
+      213: 21300016
+    second: car_shop_8
+  - first:
+      213: 21300018
+    second: car_shop_9
+  - first:
+      213: 21300020
+    second: car_shop_10
+  - first:
+      213: 21300022
+    second: car_shop_11
+  - first:
+      213: 21300024
+    second: car_shop_12
+  - first:
+      213: 21300026
+    second: car_shop_13
+  - first:
+      213: 21300028
+    second: car_shop_14
+  - first:
+      213: 21300030
+    second: car_shop_15
+  - first:
+      213: 21300032
+    second: car_shop_16
+  - first:
+      213: 21300034
+    second: car_shop_17
+  - first:
+      213: 21300036
+    second: car_shop_18
+  - first:
+      213: 21300038
+    second: car_shop_19
+  - first:
+      213: 21300040
+    second: car_shop_20
+  - first:
+      213: 21300042
+    second: car_shop_21
+  - first:
+      213: 21300044
+    second: car_shop_22
+  - first:
+      213: 21300046
+    second: car_shop_23
+  - first:
+      213: 21300048
+    second: car_shop_24
+  - first:
+      213: 21300050
+    second: car_shop_25
+  - first:
+      213: 21300052
+    second: car_shop_26
+  - first:
+      213: 21300054
+    second: car_shop_27
+  - first:
+      213: 21300056
+    second: car_shop_28
+  - first:
+      213: 21300058
+    second: car_shop_29
+  - first:
+      213: 21300060
+    second: car_shop_30
+  - first:
+      213: 21300062
+    second: car_shop_31
+  - first:
+      213: 21300064
+    second: car_shop_32
+  - first:
+      213: 21300066
+    second: car_shop_33
+  - first:
+      213: 21300068
+    second: car_shop_34
+  - first:
+      213: 21300070
+    second: car_shop_35
+  - first:
+      213: 21300072
+    second: car_shop_36
+  - first:
+      213: 21300074
+    second: car_shop_37
+  - first:
+      213: 21300076
+    second: car_shop_38
+  - first:
+      213: 21300078
+    second: car_shop_39
+  - first:
+      213: 21300080
+    second: car_shop_40
+  - first:
+      213: 21300082
+    second: car_shop_41
+  - first:
+      213: 21300084
+    second: car_shop_42
+  - first:
+      213: 21300086
+    second: car_shop_43
+  - first:
+      213: 21300088
+    second: car_shop_44
+  - first:
+      213: 21300090
+    second: car_shop_45
+  - first:
+      213: 21300092
+    second: car_shop_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: car_shop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3465
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb7bc641e620354784ff8ab256abf5d
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3465
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c97c48c04e333489cbbfa3ac926b51
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3465
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096820ed04f4d849a406d48563f9e76
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3465
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bad7c524ce40774187c0becc3307565
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d76e4e679f6bd4fb437e34874c5742
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3150
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69fe04917b28824bb080987e1841110
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_6
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 3150
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7075a19952f26b24c9619c1abb4b8835
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_7
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3150
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53d0a47ef7912549865e021774a72f0
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2835
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d22e3083d2c11842b61ceff28b70e9e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2835
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b07ac8405fa5d48b49a925ad1ce677
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2835
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c486704f07068342b79ff77f745f7d7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_11
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2835
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8aab9327e9223409fd0820799040d8
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba26155eab30c54caba467c1c76d70f
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2520
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1f4bff6ef52e4bb57e0f71ae60fcd
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2520
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b6a840b62f5b04886afb85a39aa0a8
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2520
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6296bd6785369d64792ac2c70b593878
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2205
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bff48159f8ed184495453a840d52979
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2205
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec00d59bdb46d4892d88f19ea61876
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2205
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13bb839388173f419cc5e5ce8bb8aeb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2205
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afdde57c34d03848b8d6c101020958c
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2053d524fc3c2345b6c58d4874df9d0
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1890
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c6495a147f57b479c1f5925c39e42d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_22
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1890
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32b95569eb0df14bb44f545ef10814b
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_23
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1890
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4daf40ec6183340bcfcff70187eadb
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1575
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c272343b85cfd459dd11d771518e0d
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_25
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1575
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52916274a4cdc104e94e471484a8291a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_26
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1575
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d414ad758e6d4089d41a6d5786d7e
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1575
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760f2e95b7469c4cb7f1efa7ac66a22
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af015aaba89a2604c84dde5af88d1fd8
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1260
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4085d2a0123c1984998218e41cc70159
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_30
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1260
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd22bd5cbf814704ba58e47bdec3d1bd
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_31
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1260
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423921c0f04da97459d1a1738ab314c9
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de28fedfa70b414dac20f5569a0ee67
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 945
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cc966f40a87894fb21adb166716878
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 945
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cde941a4ca285041aba20c68aede395
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_35
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 945
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94d34897fa6c49489545c7de0cbf962
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ba637439221b14d96dba27847489fc
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 630
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f5e85b897cb784880cd4ae55c5ccec
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_38
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 630
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490a8bbfea81fd842b0dfd3ad1270d61
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_39
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 630
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5e5c77224f2a341b5417ba3144fcca
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1e484b7e6832449a1733f9f69dfef
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_41
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 315
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be8a57e80e961d41b06ebd3563c5439
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_42
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 315
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0671c3fbdf33f442a5e70cac843efec
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 315
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2e4406d8d6b7439f6a23558fabf47
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debabb9ffc5d8b64fba0b297f54000b9
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_45
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5c261a2d5374448f9e1d6f0b68890
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_shop_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 284
+        height: 315
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32685ede80d6f54cb7bcb3b2f6a2d74
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1fedcd8e621453b4ba3aaad88abdfa7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

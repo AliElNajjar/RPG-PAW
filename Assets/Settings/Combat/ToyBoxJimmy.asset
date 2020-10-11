@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cba9447594ac2304aabc00fa6a1ce5ea, type: 3}
+  m_Name: ToyBoxJimmy
+  m_EditorClassIdentifier: 
+  overWorldAnimations: {fileID: 11400000, guid: 53f44a69d03f5464c8c4d2726569c1dd,
+    type: 2}
+  initiativeSprite: {fileID: 21300008, guid: 6ab385ba6dbe65147b63475a48b810e8, type: 3}
+  unitSkills:
+  - skillData: {fileID: 2746068579221533693, guid: 999c5608c9eeddd4c92f1096e974ae63,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 2746068579221533693, guid: 1f028840538859249abd9accc97226e1,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 2746068579221533693, guid: a1b6e71b532624b48a390d806ec05629,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 9061342672841705312, guid: 39f29dcc6bf51fc4a85965a6564ad4ad,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 1823059581613185551, guid: 8edb0c9b1a8d1024a88bb767762c88c9,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 9105033032533543852, guid: bb2ae35fa18e90e469e35c512c62e975,
+      type: 3}
+    isUnlocked: 0
+  - skillData: {fileID: 9105033032533543852, guid: fe6981c34504d1e4d8aea07b9be92f5a,
+      type: 3}
+    isUnlocked: 1
+  - skillData: {fileID: 9105033032533543852, guid: 4c23ee1d6a47b4444a0c15ce74514c7b,
+      type: 3}
+    isUnlocked: 1
+  tagTeamManeuvers:
+  - partnerUnit: {fileID: 11400000, guid: 0e65ef1693d034c4c91633f28705d952, type: 2}
+    maneuvers:
+    - skillData: {fileID: 6850184645086948491, guid: 8e2458c7c3a596e42a886a0a4363dd2a,
+        type: 3}
+      isUnlocked: 1
+  tripleTagTeamManeuvers:
+  - partnersUnit:
+    - {fileID: 11400000, guid: 0e65ef1693d034c4c91633f28705d952, type: 2}
+    - {fileID: 11400000, guid: 3ce50cba54e56584ea91f5522a077dd9, type: 2}
+    maneuvers:
+    - skillData: {fileID: 6850184645086948491, guid: fbd0a57f0fe5cbe4d81606f5012cda39,
+        type: 3}
+      isUnlocked: 1
+  playableUnit:
+    unitName: Jimmy
+    level:
+      currentLevel: 4
+      currentExperience: 656
+    battleId: 0
+    strength:
+      baseValue: 10
+      growthPercent:
+        growthAddMax: 1
+      modifiers:
+      - value: 0.5
+        modType: 200
+        order: 0
+      - value: 0.5
+        modType: 200
+        order: 0
+      - value: 0.5
+        modType: 200
+        order: 0
+      _value: 25
+    speed:
+      baseValue: 12
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 12
+    sturdiness:
+      baseValue: 15
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 15
+    charisma:
+      baseValue: 5
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 5
+    talent:
+      baseValue: 5
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 5
+    luck:
+      baseValue: 2
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 2
+    accuracy:
+      baseValue: 30
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 30
+    defense:
+      baseValue: 1
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 1
+    dodge:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    resist:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+    critChance:
+      baseValue: 1
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 1
+    currentHealth:
+      baseValue: 150
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 150
+    currentActionPoints:
+      baseValue: 50
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 50
+    mainDamageSource: 0
+    damageType: 0
+    dmgCut: 1
+    unitType: 1
+    currentAilment: 0
+    maxHypeMeter:
+      baseValue: 50
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 50
+    currentHypeMeter:
+      baseValue: 0
+      growthPercent:
+        growthAddMax: 1
+      modifiers: []
+      _value: 0
+  equipment:
+    weaponEquipment: {fileID: 0}
+    feetEquipment: {fileID: 0}
+    headEquipment: {fileID: 0}
+    chestEquipment: {fileID: 0}
+    waistEquipment: {fileID: 0}
+    accessoryEquipment: {fileID: 0}
+    accessory2Equipment: {fileID: 0}
+  unitPrefab: {fileID: 435, guid: 5e94185df6ae48840939b49a4a26440d, type: 3}
+  equipmentSprite: {fileID: 21300036, guid: 0dd147b7e6569a2408e3f0018b485377, type: 3}

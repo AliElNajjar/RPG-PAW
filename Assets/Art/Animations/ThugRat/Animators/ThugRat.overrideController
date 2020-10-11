@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ThugRat
+  m_Controller: {fileID: 9100000, guid: f93fad880d8c1eb41908d288316120d1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: cbe39af2a3efdca42a1e1ddf2cdb5994, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d310a1fbbfeca0449a6778520ca032d7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e4cc715f50307c94bbf81092a425b84f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0ecb41ff564f7974581168e92b0b125a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9a8686ccc2937e94788f3a478ff1a5d3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 33735628fd98b2442b8f384c41524db9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d1b628a638cc9324c8daa5dd46de626f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0fde563f9111847499075edd4e46be1a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0188f15eff55f1548872fd07e3d868ff, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0fde563f9111847499075edd4e46be1a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: e5ad388a4939f1b4a8d46117f15d5c34, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 52bd9deb3b71aa04783f38350f185271, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 03e60afff93152b4fa2155cd27ef1939, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5d2f80611f8bae5498f2998acd3754a5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 91a1860ed54ff90408544f841f37f0aa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 52bd9deb3b71aa04783f38350f185271, type: 2}
